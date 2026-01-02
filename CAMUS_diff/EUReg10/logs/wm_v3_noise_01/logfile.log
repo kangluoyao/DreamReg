@@ -1,0 +1,1418 @@
+[Train] Epoch 0 iter 1 | Loss 28.8095 | KL 18.0878 | Recon 0.3400 | Reward 0.4021 | Act 0.7292 | Pose 9.2505 | 
+[Train] Epoch 0 iter 2 | Loss 351.4663 | KL 340.6969 | Recon 0.3501 | Reward 0.5731 | Act 0.7189 | Pose 9.1272 | 
+[Train] Epoch 0 iter 3 | Loss 124.6241 | KL 114.1344 | Recon 0.3578 | Reward 0.3266 | Act 0.7149 | Pose 9.0903 | 
+[Train] Epoch 0 iter 4 | Loss 39.6257 | KL 28.9967 | Recon 0.3487 | Reward 0.5823 | Act 0.7100 | Pose 8.9879 | 
+[Train] Epoch 0 iter 5 | Loss 14.5761 | KL 4.3376 | Recon 0.3460 | Reward 0.3521 | Act 0.6832 | Pose 8.8573 | 
+[Train] Epoch 0 iter 6 | Loss 13.3195 | KL 3.0432 | Recon 0.3420 | Reward 0.3936 | Act 0.6864 | Pose 8.8544 | 
+[Train] Epoch 0 iter 7 | Loss 12.6658 | KL 2.4413 | Recon 0.3486 | Reward 0.4666 | Act 0.6597 | Pose 8.7496 | 
+[Train] Epoch 0 iter 8 | Loss 12.5363 | KL 2.2301 | Recon 0.3380 | Reward 0.3516 | Act 0.7126 | Pose 8.9040 | 
+[Train] Epoch 0 iter 9 | Loss 11.7341 | KL 2.0978 | Recon 0.3440 | Reward 0.3358 | Act 0.6291 | Pose 8.3273 | 
+[Train] Epoch 0 iter 10 | Loss 12.6368 | KL 2.0853 | Recon 0.3375 | Reward 0.4570 | Act 0.7311 | Pose 9.0258 | 
+[Train] Epoch 0 iter 11 | Loss 11.6680 | KL 2.0768 | Recon 0.3508 | Reward 0.3640 | Act 0.6258 | Pose 8.2507 | 
+[Train] Epoch 0 iter 12 | Loss 11.9446 | KL 2.0782 | Recon 0.3533 | Reward 0.3736 | Act 0.6586 | Pose 8.4810 | 
+wm_v3_noise_01/ Epoch 0 loss 53.8006
+[val] Epoch 0  DistErr: 12.805404, NCC: 0.701269, ParaErr: 8.583500
+>> New best @ epoch 0: ParaErr=8.583500
+[Train] Epoch 1 iter 13 | Loss 12.1795 | KL 2.0672 | Recon 0.3361 | Reward 0.4185 | Act 0.6989 | Pose 8.6588 | 
+[Train] Epoch 1 iter 14 | Loss 12.3417 | KL 2.0625 | Recon 0.3439 | Reward 0.3682 | Act 0.7067 | Pose 8.8604 | 
+[Train] Epoch 1 iter 15 | Loss 11.7214 | KL 2.0565 | Recon 0.3448 | Reward 0.3185 | Act 0.6451 | Pose 8.3565 | 
+[Train] Epoch 1 iter 16 | Loss 11.7337 | KL 2.0496 | Recon 0.3296 | Reward 0.3871 | Act 0.6704 | Pose 8.2970 | 
+[Train] Epoch 1 iter 17 | Loss 12.0691 | KL 2.0438 | Recon 0.3339 | Reward 0.3914 | Act 0.6851 | Pose 8.6148 | 
+[Train] Epoch 1 iter 18 | Loss 10.5738 | KL 2.0378 | Recon 0.3434 | Reward 0.3566 | Act 0.5309 | Pose 7.3052 | 
+[Train] Epoch 1 iter 19 | Loss 11.9441 | KL 2.0346 | Recon 0.3370 | Reward 0.3359 | Act 0.6755 | Pose 8.5611 | 
+[Train] Epoch 1 iter 20 | Loss 11.2572 | KL 2.0266 | Recon 0.3210 | Reward 0.3599 | Act 0.6114 | Pose 7.9383 | 
+[Train] Epoch 1 iter 21 | Loss 11.1115 | KL 2.0192 | Recon 0.3322 | Reward 0.4170 | Act 0.6046 | Pose 7.7385 | 
+[Train] Epoch 1 iter 22 | Loss 11.6399 | KL 2.0128 | Recon 0.3218 | Reward 0.3317 | Act 0.6422 | Pose 8.3314 | 
+[Train] Epoch 1 iter 23 | Loss 10.6412 | KL 2.0064 | Recon 0.3301 | Reward 0.2864 | Act 0.5372 | Pose 7.4811 | 
+[Train] Epoch 1 iter 24 | Loss 10.3694 | KL 1.9998 | Recon 0.3360 | Reward 0.3132 | Act 0.5243 | Pose 7.1962 | 
+wm_v3_noise_01/ Epoch 1 loss 11.4652
+[val] Epoch 1  DistErr: 11.128032, NCC: 0.787238, ParaErr: 7.257232
+>> New best @ epoch 1: ParaErr=7.257232
+[Train] Epoch 2 iter 25 | Loss 10.4621 | KL 1.9931 | Recon 0.3146 | Reward 0.3157 | Act 0.5576 | Pose 7.2811 | 
+[Train] Epoch 2 iter 26 | Loss 10.7477 | KL 1.9854 | Recon 0.2985 | Reward 0.3368 | Act 0.5660 | Pose 7.5610 | 
+[Train] Epoch 2 iter 27 | Loss 10.0351 | KL 1.9769 | Recon 0.3103 | Reward 0.3315 | Act 0.5043 | Pose 6.9121 | 
+[Train] Epoch 2 iter 28 | Loss 10.5873 | KL 1.9686 | Recon 0.3013 | Reward 0.2670 | Act 0.5819 | Pose 7.4684 | 
+[Train] Epoch 2 iter 29 | Loss 10.5325 | KL 1.9603 | Recon 0.2984 | Reward 0.3137 | Act 0.5378 | Pose 7.4223 | 
+[Train] Epoch 2 iter 30 | Loss 10.8983 | KL 1.9520 | Recon 0.2735 | Reward 0.3149 | Act 0.5972 | Pose 7.7608 | 
+[Train] Epoch 2 iter 31 | Loss 9.9702 | KL 1.9435 | Recon 0.2710 | Reward 0.2927 | Act 0.5319 | Pose 6.9311 | 
+[Train] Epoch 2 iter 32 | Loss 9.4286 | KL 1.9351 | Recon 0.2620 | Reward 0.1901 | Act 0.4558 | Pose 6.5856 | 
+[Train] Epoch 2 iter 33 | Loss 8.6142 | KL 1.9265 | Recon 0.2539 | Reward 0.2121 | Act 0.3889 | Pose 5.8327 | 
+[Train] Epoch 2 iter 34 | Loss 9.8735 | KL 1.9179 | Recon 0.2460 | Reward 0.2321 | Act 0.5218 | Pose 6.9557 | 
+[Train] Epoch 2 iter 35 | Loss 8.9858 | KL 1.9093 | Recon 0.2287 | Reward 0.1978 | Act 0.4424 | Pose 6.2075 | 
+[Train] Epoch 2 iter 36 | Loss 10.1418 | KL 1.9007 | Recon 0.2287 | Reward 0.2221 | Act 0.5529 | Pose 7.2375 | 
+wm_v3_noise_01/ Epoch 2 loss 10.0231
+[val] Epoch 2  DistErr: 9.829644, NCC: 0.815853, ParaErr: 6.479750
+>> New best @ epoch 2: ParaErr=6.479750
+[Train] Epoch 3 iter 37 | Loss 9.3932 | KL 1.8920 | Recon 0.2165 | Reward 0.1753 | Act 0.4938 | Pose 6.6157 | 
+[Train] Epoch 3 iter 38 | Loss 9.8308 | KL 1.8815 | Recon 0.2152 | Reward 0.1977 | Act 0.5014 | Pose 7.0350 | 
+[Train] Epoch 3 iter 39 | Loss 10.6757 | KL 1.8710 | Recon 0.2164 | Reward 0.2802 | Act 0.6683 | Pose 7.6398 | 
+[Train] Epoch 3 iter 40 | Loss 10.2794 | KL 1.8734 | Recon 0.2254 | Reward 0.1918 | Act 0.5476 | Pose 7.4411 | 
+[Train] Epoch 3 iter 41 | Loss 9.5271 | KL 1.8499 | Recon 0.2247 | Reward 0.2351 | Act 0.4805 | Pose 6.7370 | 
+[Train] Epoch 3 iter 42 | Loss 9.1606 | KL 1.8393 | Recon 0.2183 | Reward 0.1835 | Act 0.4742 | Pose 6.4452 | 
+[Train] Epoch 3 iter 43 | Loss 9.1339 | KL 1.8288 | Recon 0.2134 | Reward 0.2120 | Act 0.4533 | Pose 6.4264 | 
+[Train] Epoch 3 iter 44 | Loss 10.0715 | KL 1.8182 | Recon 0.2003 | Reward 0.3669 | Act 0.6229 | Pose 7.0633 | 
+[Train] Epoch 3 iter 45 | Loss 9.2490 | KL 1.8075 | Recon 0.1960 | Reward 0.2169 | Act 0.4852 | Pose 6.5433 | 
+[Train] Epoch 3 iter 46 | Loss 9.5147 | KL 1.7969 | Recon 0.2044 | Reward 0.2216 | Act 0.5102 | Pose 6.7816 | 
+[Train] Epoch 3 iter 47 | Loss 10.8375 | KL 1.7863 | Recon 0.1972 | Reward 0.2646 | Act 0.6871 | Pose 7.9023 | 
+[Train] Epoch 3 iter 48 | Loss 10.5655 | KL 1.7757 | Recon 0.2033 | Reward 0.1838 | Act 0.6022 | Pose 7.8004 | 
+wm_v3_noise_01/ Epoch 3 loss 9.8533
+[val] Epoch 3  DistErr: 10.175137, NCC: 0.813695, ParaErr: 6.684483
+[Train] Epoch 4 iter 49 | Loss 10.6795 | KL 1.7651 | Recon 0.1997 | Reward 0.2750 | Act 0.7061 | Pose 7.7336 | 
+[Train] Epoch 4 iter 50 | Loss 10.4450 | KL 1.7530 | Recon 0.1980 | Reward 0.2953 | Act 0.5994 | Pose 7.5992 | 
+[Train] Epoch 4 iter 51 | Loss 10.1755 | KL 1.7397 | Recon 0.1944 | Reward 0.2613 | Act 0.5617 | Pose 7.4184 | 
+[Train] Epoch 4 iter 52 | Loss 9.5508 | KL 1.7270 | Recon 0.1914 | Reward 0.1985 | Act 0.5157 | Pose 6.9182 | 
+[Train] Epoch 4 iter 53 | Loss 10.8691 | KL 1.7143 | Recon 0.1925 | Reward 0.5024 | Act 0.6115 | Pose 7.8483 | 
+[Train] Epoch 4 iter 54 | Loss 12.4057 | KL 1.7016 | Recon 0.2019 | Reward 0.2607 | Act 0.7705 | Pose 9.4710 | 
+[Train] Epoch 4 iter 55 | Loss 9.8276 | KL 1.6890 | Recon 0.1959 | Reward 0.6436 | Act 0.5239 | Pose 6.7753 | 
+[Train] Epoch 4 iter 56 | Loss 12.1229 | KL 1.6764 | Recon 0.1902 | Reward 0.3151 | Act 0.7447 | Pose 9.1966 | 
+[Train] Epoch 4 iter 57 | Loss 9.1197 | KL 1.6639 | Recon 0.1947 | Reward 0.2852 | Act 0.4868 | Pose 6.4891 | 
+[Train] Epoch 4 iter 58 | Loss 11.0327 | KL 1.6514 | Recon 0.1849 | Reward 0.3209 | Act 0.6291 | Pose 8.2463 | 
+[Train] Epoch 4 iter 59 | Loss 10.6310 | KL 1.6389 | Recon 0.1859 | Reward 0.2475 | Act 0.5955 | Pose 7.9632 | 
+[Train] Epoch 4 iter 60 | Loss 10.2109 | KL 1.6265 | Recon 0.1950 | Reward 0.2628 | Act 0.5574 | Pose 7.5693 | 
+wm_v3_noise_01/ Epoch 4 loss 10.5892
+[val] Epoch 4  DistErr: 11.867873, NCC: 0.735456, ParaErr: 8.054199
+[Train] Epoch 5 iter 61 | Loss 10.9268 | KL 1.6141 | Recon 0.1933 | Reward 0.2247 | Act 0.6904 | Pose 8.2043 | 
+[Train] Epoch 5 iter 62 | Loss 10.7574 | KL 1.5992 | Recon 0.1915 | Reward 0.2681 | Act 0.6358 | Pose 8.0628 | 
+[Train] Epoch 5 iter 63 | Loss 9.8222 | KL 1.5845 | Recon 0.1927 | Reward 0.2371 | Act 0.5518 | Pose 7.2560 | 
+[Train] Epoch 5 iter 64 | Loss 11.5039 | KL 1.5698 | Recon 0.1868 | Reward 0.3500 | Act 0.7323 | Pose 8.6649 | 
+[Train] Epoch 5 iter 65 | Loss 9.0443 | KL 1.5552 | Recon 0.1873 | Reward 0.2732 | Act 0.5141 | Pose 6.5145 | 
+[Train] Epoch 5 iter 66 | Loss 11.3027 | KL 1.5406 | Recon 0.1832 | Reward 0.2833 | Act 0.6979 | Pose 8.5977 | 
+[Train] Epoch 5 iter 67 | Loss 9.9499 | KL 1.5262 | Recon 0.1944 | Reward 0.3141 | Act 0.5677 | Pose 7.3475 | 
+[Train] Epoch 5 iter 68 | Loss 11.2851 | KL 1.5118 | Recon 0.1903 | Reward 0.2495 | Act 0.7138 | Pose 8.6196 | 
+[Train] Epoch 5 iter 69 | Loss 8.7283 | KL 1.4975 | Recon 0.1865 | Reward 0.2357 | Act 0.4748 | Pose 6.3338 | 
+[Train] Epoch 5 iter 70 | Loss 9.6141 | KL 1.4833 | Recon 0.1890 | Reward 0.1866 | Act 0.5227 | Pose 7.2326 | 
+[Train] Epoch 5 iter 71 | Loss 9.4863 | KL 1.4692 | Recon 0.1914 | Reward 0.2764 | Act 0.5095 | Pose 7.0399 | 
+[Train] Epoch 5 iter 72 | Loss 9.6886 | KL 1.4551 | Recon 0.1909 | Reward 0.2576 | Act 0.5578 | Pose 7.2271 | 
+wm_v3_noise_01/ Epoch 5 loss 10.1758
+[val] Epoch 5  DistErr: 10.894617, NCC: 0.783724, ParaErr: 7.152077
+[Train] Epoch 6 iter 73 | Loss 10.0903 | KL 1.4422 | Recon 0.1881 | Reward 0.2860 | Act 0.6253 | Pose 7.5486 | 
+[Train] Epoch 6 iter 74 | Loss 8.1833 | KL 1.4245 | Recon 0.1880 | Reward 0.1843 | Act 0.4199 | Pose 5.9666 | 
+[Train] Epoch 6 iter 75 | Loss 9.9803 | KL 1.4080 | Recon 0.1889 | Reward 0.3566 | Act 0.6034 | Pose 7.4235 | 
+[Train] Epoch 6 iter 76 | Loss 8.3344 | KL 1.3917 | Recon 0.1857 | Reward 0.2021 | Act 0.4707 | Pose 6.0843 | 
+[Train] Epoch 6 iter 77 | Loss 9.5344 | KL 1.3755 | Recon 0.1881 | Reward 0.1901 | Act 0.5134 | Pose 7.2673 | 
+[Train] Epoch 6 iter 78 | Loss 9.2435 | KL 1.3593 | Recon 0.1853 | Reward 0.2602 | Act 0.5332 | Pose 6.9055 | 
+[Train] Epoch 6 iter 79 | Loss 9.8404 | KL 1.3433 | Recon 0.1856 | Reward 0.2272 | Act 0.5521 | Pose 7.5322 | 
+[Train] Epoch 6 iter 80 | Loss 10.7135 | KL 1.3275 | Recon 0.1879 | Reward 0.2840 | Act 0.6628 | Pose 8.2514 | 
+[Train] Epoch 6 iter 81 | Loss 7.9257 | KL 1.3128 | Recon 0.1899 | Reward 0.1617 | Act 0.4278 | Pose 5.8335 | 
+[Train] Epoch 6 iter 82 | Loss 10.4353 | KL 1.2962 | Recon 0.1869 | Reward 0.2844 | Act 0.6088 | Pose 8.0590 | 
+[Train] Epoch 6 iter 83 | Loss 9.0805 | KL 1.2808 | Recon 0.1881 | Reward 0.2301 | Act 0.5039 | Pose 6.8777 | 
+[Train] Epoch 6 iter 84 | Loss 9.5689 | KL 1.2656 | Recon 0.1896 | Reward 0.2205 | Act 0.5852 | Pose 7.3080 | 
+wm_v3_noise_01/ Epoch 6 loss 9.4109
+[val] Epoch 6  DistErr: 10.445199, NCC: 0.808490, ParaErr: 6.880559
+[Train] Epoch 7 iter 85 | Loss 8.8581 | KL 1.2504 | Recon 0.1884 | Reward 0.2768 | Act 0.5122 | Pose 6.6302 | 
+[Train] Epoch 7 iter 86 | Loss 9.0985 | KL 1.2354 | Recon 0.1872 | Reward 0.1777 | Act 0.5120 | Pose 6.9862 | 
+[Train] Epoch 7 iter 87 | Loss 9.1240 | KL 1.2206 | Recon 0.1828 | Reward 0.2417 | Act 0.5260 | Pose 6.9529 | 
+[Train] Epoch 7 iter 88 | Loss 8.6582 | KL 1.2059 | Recon 0.1892 | Reward 0.2577 | Act 0.4871 | Pose 6.5184 | 
+[Train] Epoch 7 iter 89 | Loss 8.2782 | KL 1.1915 | Recon 0.1871 | Reward 0.1845 | Act 0.4258 | Pose 6.2892 | 
+[Train] Epoch 7 iter 90 | Loss 8.2520 | KL 1.1769 | Recon 0.1823 | Reward 0.2196 | Act 0.4653 | Pose 6.2080 | 
+[Train] Epoch 7 iter 91 | Loss 8.2795 | KL 1.1626 | Recon 0.1817 | Reward 0.1948 | Act 0.4695 | Pose 6.2708 | 
+[Train] Epoch 7 iter 92 | Loss 8.3150 | KL 1.1485 | Recon 0.1814 | Reward 0.1485 | Act 0.4504 | Pose 6.3863 | 
+[Train] Epoch 7 iter 93 | Loss 8.3843 | KL 1.1345 | Recon 0.1859 | Reward 0.1527 | Act 0.4769 | Pose 6.4343 | 
+[Train] Epoch 7 iter 94 | Loss 7.9557 | KL 1.1206 | Recon 0.1922 | Reward 0.1764 | Act 0.4447 | Pose 6.0217 | 
+[Train] Epoch 7 iter 95 | Loss 7.3967 | KL 1.1069 | Recon 0.1836 | Reward 0.1118 | Act 0.3943 | Pose 5.6000 | 
+[Train] Epoch 7 iter 96 | Loss 7.8016 | KL 1.0934 | Recon 0.1861 | Reward 0.1762 | Act 0.4368 | Pose 5.9091 | 
+wm_v3_noise_01/ Epoch 7 loss 8.3668
+[val] Epoch 7  DistErr: 8.863094, NCC: 0.838739, ParaErr: 5.828536
+>> New best @ epoch 7: ParaErr=5.828536
+[Train] Epoch 8 iter 97 | Loss 8.2299 | KL 1.0799 | Recon 0.1833 | Reward 0.1597 | Act 0.4595 | Pose 6.3475 | 
+[Train] Epoch 8 iter 98 | Loss 8.0583 | KL 1.0666 | Recon 0.1805 | Reward 0.1497 | Act 0.4608 | Pose 6.2007 | 
+[Train] Epoch 8 iter 99 | Loss 8.2980 | KL 1.0535 | Recon 0.1844 | Reward 0.1788 | Act 0.4708 | Pose 6.4106 | 
+[Train] Epoch 8 iter 100 | Loss 7.4579 | KL 1.0404 | Recon 0.1822 | Reward 0.1368 | Act 0.4001 | Pose 5.6984 | 
+[Train] Epoch 8 iter 101 | Loss 8.3791 | KL 1.0276 | Recon 0.1824 | Reward 0.1922 | Act 0.4780 | Pose 6.4990 | 
+[Train] Epoch 8 iter 102 | Loss 7.6619 | KL 1.0148 | Recon 0.1851 | Reward 0.1293 | Act 0.4126 | Pose 5.9201 | 
+[Train] Epoch 8 iter 103 | Loss 7.8486 | KL 1.0022 | Recon 0.1853 | Reward 0.1311 | Act 0.4391 | Pose 6.0908 | 
+[Train] Epoch 8 iter 104 | Loss 8.3292 | KL 0.9897 | Recon 0.1826 | Reward 0.1180 | Act 0.4802 | Pose 6.5586 | 
+[Train] Epoch 8 iter 105 | Loss 7.2095 | KL 0.9774 | Recon 0.1912 | Reward 0.1194 | Act 0.3902 | Pose 5.5314 | 
+[Train] Epoch 8 iter 106 | Loss 8.8788 | KL 0.9652 | Recon 0.1859 | Reward 0.1872 | Act 0.5095 | Pose 7.0309 | 
+[Train] Epoch 8 iter 107 | Loss 7.6065 | KL 0.9545 | Recon 0.1869 | Reward 0.1716 | Act 0.4227 | Pose 5.8709 | 
+[Train] Epoch 8 iter 108 | Loss 7.6821 | KL 0.9412 | Recon 0.1897 | Reward 0.1673 | Act 0.4099 | Pose 5.9741 | 
+wm_v3_noise_01/ Epoch 8 loss 7.9700
+[val] Epoch 8  DistErr: 8.948122, NCC: 0.827505, ParaErr: 5.891830
+[Train] Epoch 9 iter 109 | Loss 8.1665 | KL 0.9294 | Recon 0.1835 | Reward 0.1550 | Act 0.4741 | Pose 6.4245 | 
+[Train] Epoch 9 iter 110 | Loss 8.0542 | KL 0.9177 | Recon 0.1822 | Reward 0.1664 | Act 0.4650 | Pose 6.3228 | 
+[Train] Epoch 9 iter 111 | Loss 7.3308 | KL 0.9061 | Recon 0.1891 | Reward 0.1428 | Act 0.4079 | Pose 5.6849 | 
+[Train] Epoch 9 iter 112 | Loss 7.5434 | KL 0.8947 | Recon 0.1940 | Reward 0.1721 | Act 0.4262 | Pose 5.8564 | 
+[Train] Epoch 9 iter 113 | Loss 7.0659 | KL 0.8834 | Recon 0.1833 | Reward 0.1359 | Act 0.3707 | Pose 5.4927 | 
+[Train] Epoch 9 iter 114 | Loss 7.7343 | KL 0.8722 | Recon 0.1855 | Reward 0.1524 | Act 0.4384 | Pose 6.0857 | 
+[Train] Epoch 9 iter 115 | Loss 7.5598 | KL 0.8612 | Recon 0.1862 | Reward 0.1547 | Act 0.4311 | Pose 5.9266 | 
+[Train] Epoch 9 iter 116 | Loss 7.7363 | KL 0.8503 | Recon 0.1883 | Reward 0.1973 | Act 0.4398 | Pose 6.0607 | 
+[Train] Epoch 9 iter 117 | Loss 7.8138 | KL 0.8395 | Recon 0.1811 | Reward 0.1396 | Act 0.4851 | Pose 6.1685 | 
+[Train] Epoch 9 iter 118 | Loss 7.3530 | KL 0.8288 | Recon 0.1749 | Reward 0.1292 | Act 0.4241 | Pose 5.7961 | 
+[Train] Epoch 9 iter 119 | Loss 7.3301 | KL 0.8182 | Recon 0.1826 | Reward 0.1461 | Act 0.4143 | Pose 5.7688 | 
+[Train] Epoch 9 iter 120 | Loss 7.0996 | KL 0.8078 | Recon 0.1816 | Reward 0.1549 | Act 0.4033 | Pose 5.5520 | 
+wm_v3_noise_01/ Epoch 9 loss 7.5656
+[val] Epoch 9  DistErr: 8.512365, NCC: 0.847919, ParaErr: 5.475521
+>> New best @ epoch 9: ParaErr=5.475521
+[Train] Epoch 10 iter 121 | Loss 7.1149 | KL 0.7975 | Recon 0.1794 | Reward 0.1821 | Act 0.4179 | Pose 5.5380 | 
+[Train] Epoch 10 iter 122 | Loss 7.8736 | KL 0.7873 | Recon 0.1852 | Reward 0.1980 | Act 0.4812 | Pose 6.2219 | 
+[Train] Epoch 10 iter 123 | Loss 7.4973 | KL 0.7772 | Recon 0.1835 | Reward 0.1872 | Act 0.4476 | Pose 5.9018 | 
+[Train] Epoch 10 iter 124 | Loss 7.2988 | KL 0.7672 | Recon 0.1798 | Reward 0.1638 | Act 0.4135 | Pose 5.7744 | 
+[Train] Epoch 10 iter 125 | Loss 7.9466 | KL 0.7574 | Recon 0.1892 | Reward 0.1666 | Act 0.4773 | Pose 6.3561 | 
+[Train] Epoch 10 iter 126 | Loss 7.4961 | KL 0.7476 | Recon 0.1902 | Reward 0.2216 | Act 0.4511 | Pose 5.8855 | 
+[Train] Epoch 10 iter 127 | Loss 7.3699 | KL 0.7380 | Recon 0.1799 | Reward 0.1749 | Act 0.4405 | Pose 5.8366 | 
+[Train] Epoch 10 iter 128 | Loss 7.8103 | KL 0.7285 | Recon 0.1802 | Reward 0.1565 | Act 0.4681 | Pose 6.2769 | 
+[Train] Epoch 10 iter 129 | Loss 7.1278 | KL 0.7191 | Recon 0.1797 | Reward 0.0989 | Act 0.4020 | Pose 5.7282 | 
+[Train] Epoch 10 iter 130 | Loss 6.4264 | KL 0.7111 | Recon 0.1874 | Reward 0.1362 | Act 0.3525 | Pose 5.0391 | 
+[Train] Epoch 10 iter 131 | Loss 7.7385 | KL 0.7006 | Recon 0.1858 | Reward 0.1659 | Act 0.4489 | Pose 6.2373 | 
+[Train] Epoch 10 iter 132 | Loss 7.1584 | KL 0.6916 | Recon 0.1862 | Reward 0.1517 | Act 0.4081 | Pose 5.7208 | 
+wm_v3_noise_01/ Epoch 10 loss 7.4049
+[val] Epoch 10  DistErr: 8.996843, NCC: 0.833983, ParaErr: 5.828382
+[Train] Epoch 11 iter 133 | Loss 7.0282 | KL 0.6826 | Recon 0.1839 | Reward 0.1201 | Act 0.4026 | Pose 5.6390 | 
+[Train] Epoch 11 iter 134 | Loss 6.8604 | KL 0.6737 | Recon 0.1852 | Reward 0.1410 | Act 0.3883 | Pose 5.4722 | 
+[Train] Epoch 11 iter 135 | Loss 7.0268 | KL 0.6650 | Recon 0.1897 | Reward 0.1540 | Act 0.3842 | Pose 5.6339 | 
+[Train] Epoch 11 iter 136 | Loss 7.8289 | KL 0.6563 | Recon 0.1881 | Reward 0.1856 | Act 0.4794 | Pose 6.3195 | 
+[Train] Epoch 11 iter 137 | Loss 7.5022 | KL 0.6508 | Recon 0.1842 | Reward 0.1814 | Act 0.4493 | Pose 6.0366 | 
+[Train] Epoch 11 iter 138 | Loss 7.2170 | KL 0.6393 | Recon 0.1820 | Reward 0.1335 | Act 0.3958 | Pose 5.8664 | 
+[Train] Epoch 11 iter 139 | Loss 6.7876 | KL 0.6310 | Recon 0.1814 | Reward 0.1317 | Act 0.3830 | Pose 5.4605 | 
+[Train] Epoch 11 iter 140 | Loss 7.3358 | KL 0.6227 | Recon 0.1818 | Reward 0.1473 | Act 0.4206 | Pose 5.9633 | 
+[Train] Epoch 11 iter 141 | Loss 7.8287 | KL 0.6146 | Recon 0.1809 | Reward 0.1906 | Act 0.4724 | Pose 6.3701 | 
+[Train] Epoch 11 iter 142 | Loss 6.4703 | KL 0.6065 | Recon 0.1788 | Reward 0.1198 | Act 0.3629 | Pose 5.2023 | 
+[Train] Epoch 11 iter 143 | Loss 6.6490 | KL 0.5986 | Recon 0.1840 | Reward 0.1300 | Act 0.3697 | Pose 5.3667 | 
+[Train] Epoch 11 iter 144 | Loss 7.4138 | KL 0.5907 | Recon 0.1873 | Reward 0.1049 | Act 0.4364 | Pose 6.0945 | 
+wm_v3_noise_01/ Epoch 11 loss 7.1624
+[val] Epoch 11  DistErr: 8.720956, NCC: 0.843790, ParaErr: 5.646296
+[Train] Epoch 12 iter 145 | Loss 7.0643 | KL 0.5830 | Recon 0.1855 | Reward 0.1317 | Act 0.4192 | Pose 5.7449 | 
+[Train] Epoch 12 iter 146 | Loss 6.9185 | KL 0.5753 | Recon 0.1820 | Reward 0.1334 | Act 0.4039 | Pose 5.6240 | 
+[Train] Epoch 12 iter 147 | Loss 7.2412 | KL 0.5677 | Recon 0.1821 | Reward 0.2226 | Act 0.4378 | Pose 5.8310 | 
+[Train] Epoch 12 iter 148 | Loss 6.5863 | KL 0.5602 | Recon 0.1852 | Reward 0.1057 | Act 0.3852 | Pose 5.3500 | 
+[Train] Epoch 12 iter 149 | Loss 6.3123 | KL 0.5528 | Recon 0.1795 | Reward 0.1013 | Act 0.3590 | Pose 5.1197 | 
+[Train] Epoch 12 iter 150 | Loss 6.2978 | KL 0.5456 | Recon 0.1843 | Reward 0.1168 | Act 0.3632 | Pose 5.0880 | 
+[Train] Epoch 12 iter 151 | Loss 7.3338 | KL 0.5384 | Recon 0.1916 | Reward 0.1708 | Act 0.4531 | Pose 5.9798 | 
+[Train] Epoch 12 iter 152 | Loss 6.7206 | KL 0.5312 | Recon 0.1823 | Reward 0.1505 | Act 0.3968 | Pose 5.4597 | 
+[Train] Epoch 12 iter 153 | Loss 6.4835 | KL 0.5242 | Recon 0.1792 | Reward 0.1233 | Act 0.3712 | Pose 5.2857 | 
+[Train] Epoch 12 iter 154 | Loss 6.6568 | KL 0.5172 | Recon 0.1829 | Reward 0.1438 | Act 0.3892 | Pose 5.4237 | 
+[Train] Epoch 12 iter 155 | Loss 6.9023 | KL 0.5104 | Recon 0.1809 | Reward 0.1651 | Act 0.4110 | Pose 5.6349 | 
+[Train] Epoch 12 iter 156 | Loss 6.5591 | KL 0.5036 | Recon 0.1871 | Reward 0.2023 | Act 0.3778 | Pose 5.2883 | 
+wm_v3_noise_01/ Epoch 12 loss 6.7564
+[val] Epoch 12  DistErr: 8.517242, NCC: 0.860195, ParaErr: 5.374362
+>> New best @ epoch 12: ParaErr=5.374362
+[Train] Epoch 13 iter 157 | Loss 6.6748 | KL 0.4969 | Recon 0.1842 | Reward 0.1673 | Act 0.4016 | Pose 5.4248 | 
+[Train] Epoch 13 iter 158 | Loss 6.4684 | KL 0.4903 | Recon 0.1793 | Reward 0.1543 | Act 0.3744 | Pose 5.2701 | 
+[Train] Epoch 13 iter 159 | Loss 6.4560 | KL 0.4838 | Recon 0.1839 | Reward 0.1917 | Act 0.3682 | Pose 5.2284 | 
+[Train] Epoch 13 iter 160 | Loss 7.4834 | KL 0.4774 | Recon 0.1806 | Reward 0.1715 | Act 0.5114 | Pose 6.1425 | 
+[Train] Epoch 13 iter 161 | Loss 7.0958 | KL 0.4710 | Recon 0.1837 | Reward 0.2286 | Act 0.4312 | Pose 5.7814 | 
+[Train] Epoch 13 iter 162 | Loss 6.3093 | KL 0.4647 | Recon 0.1818 | Reward 0.1750 | Act 0.3593 | Pose 5.1285 | 
+[Train] Epoch 13 iter 163 | Loss 6.9006 | KL 0.4585 | Recon 0.1762 | Reward 0.1350 | Act 0.4299 | Pose 5.7010 | 
+[Train] Epoch 13 iter 164 | Loss 6.5284 | KL 0.4523 | Recon 0.1848 | Reward 0.1789 | Act 0.3818 | Pose 5.3306 | 
+[Train] Epoch 13 iter 165 | Loss 6.4995 | KL 0.4463 | Recon 0.1889 | Reward 0.1762 | Act 0.3875 | Pose 5.3006 | 
+[Train] Epoch 13 iter 166 | Loss 7.1156 | KL 0.4403 | Recon 0.1874 | Reward 0.1944 | Act 0.4795 | Pose 5.8141 | 
+[Train] Epoch 13 iter 167 | Loss 6.7167 | KL 0.4344 | Recon 0.1847 | Reward 0.1956 | Act 0.4146 | Pose 5.4873 | 
+[Train] Epoch 13 iter 168 | Loss 6.6918 | KL 0.4286 | Recon 0.1821 | Reward 0.1977 | Act 0.4123 | Pose 5.4711 | 
+wm_v3_noise_01/ Epoch 13 loss 6.7450
+[val] Epoch 13  DistErr: 8.384457, NCC: 0.860239, ParaErr: 5.289888
+>> New best @ epoch 13: ParaErr=5.289888
+[Train] Epoch 14 iter 169 | Loss 6.5074 | KL 0.4228 | Recon 0.1840 | Reward 0.1670 | Act 0.4074 | Pose 5.3262 | 
+[Train] Epoch 14 iter 170 | Loss 7.4471 | KL 0.4172 | Recon 0.1811 | Reward 0.1482 | Act 0.4743 | Pose 6.2262 | 
+[Train] Epoch 14 iter 171 | Loss 7.1971 | KL 0.4116 | Recon 0.1850 | Reward 0.1599 | Act 0.4717 | Pose 5.9689 | 
+[Train] Epoch 14 iter 172 | Loss 6.6709 | KL 0.4060 | Recon 0.1868 | Reward 0.1469 | Act 0.4102 | Pose 5.5210 | 
+[Train] Epoch 14 iter 173 | Loss 6.9806 | KL 0.4006 | Recon 0.1860 | Reward 0.1189 | Act 0.4487 | Pose 5.8264 | 
+[Train] Epoch 14 iter 174 | Loss 6.2048 | KL 0.3952 | Recon 0.1836 | Reward 0.1087 | Act 0.3447 | Pose 5.1726 | 
+[Train] Epoch 14 iter 175 | Loss 6.5084 | KL 0.3898 | Recon 0.1827 | Reward 0.1121 | Act 0.3838 | Pose 5.4398 | 
+[Train] Epoch 14 iter 176 | Loss 6.4898 | KL 0.3846 | Recon 0.1874 | Reward 0.1625 | Act 0.3940 | Pose 5.3613 | 
+[Train] Epoch 14 iter 177 | Loss 6.2585 | KL 0.3794 | Recon 0.1821 | Reward 0.2230 | Act 0.3716 | Pose 5.1024 | 
+[Train] Epoch 14 iter 178 | Loss 6.6182 | KL 0.3743 | Recon 0.1817 | Reward 0.1601 | Act 0.4023 | Pose 5.4998 | 
+[Train] Epoch 14 iter 179 | Loss 6.3184 | KL 0.3692 | Recon 0.1821 | Reward 0.1438 | Act 0.3737 | Pose 5.2496 | 
+[Train] Epoch 14 iter 180 | Loss 7.3295 | KL 0.3642 | Recon 0.1777 | Reward 0.1291 | Act 0.4785 | Pose 6.1801 | 
+wm_v3_noise_01/ Epoch 14 loss 6.7109
+[val] Epoch 14  DistErr: 8.141136, NCC: 0.861262, ParaErr: 5.126852
+>> New best @ epoch 14: ParaErr=5.126852
+[Train] Epoch 15 iter 181 | Loss 7.0088 | KL 0.3593 | Recon 0.1842 | Reward 0.1184 | Act 0.4597 | Pose 5.8872 | 
+[Train] Epoch 15 iter 182 | Loss 6.4327 | KL 0.3544 | Recon 0.1813 | Reward 0.1400 | Act 0.3951 | Pose 5.3620 | 
+[Train] Epoch 15 iter 183 | Loss 7.3295 | KL 0.3496 | Recon 0.1809 | Reward 0.1751 | Act 0.5125 | Pose 6.1115 | 
+[Train] Epoch 15 iter 184 | Loss 6.3523 | KL 0.3449 | Recon 0.1815 | Reward 0.1820 | Act 0.3982 | Pose 5.2457 | 
+[Train] Epoch 15 iter 185 | Loss 6.2747 | KL 0.3402 | Recon 0.1814 | Reward 0.1303 | Act 0.3914 | Pose 5.2314 | 
+[Train] Epoch 15 iter 186 | Loss 6.4371 | KL 0.3356 | Recon 0.1750 | Reward 0.1564 | Act 0.4041 | Pose 5.3660 | 
+[Train] Epoch 15 iter 187 | Loss 6.8274 | KL 0.3310 | Recon 0.1834 | Reward 0.1069 | Act 0.4391 | Pose 5.7670 | 
+[Train] Epoch 15 iter 188 | Loss 6.3330 | KL 0.3265 | Recon 0.1787 | Reward 0.1112 | Act 0.3874 | Pose 5.3291 | 
+[Train] Epoch 15 iter 189 | Loss 5.3698 | KL 0.3221 | Recon 0.1823 | Reward 0.0762 | Act 0.3083 | Pose 4.4809 | 
+[Train] Epoch 15 iter 190 | Loss 6.5985 | KL 0.3177 | Recon 0.1856 | Reward 0.1673 | Act 0.4154 | Pose 5.5125 | 
+[Train] Epoch 15 iter 191 | Loss 6.1923 | KL 0.3134 | Recon 0.1839 | Reward 0.1332 | Act 0.3681 | Pose 5.1937 | 
+[Train] Epoch 15 iter 192 | Loss 6.0323 | KL 0.3091 | Recon 0.1756 | Reward 0.0850 | Act 0.3652 | Pose 5.0974 | 
+wm_v3_noise_01/ Epoch 15 loss 6.4324
+[val] Epoch 15  DistErr: 8.000682, NCC: 0.861644, ParaErr: 5.051654
+>> New best @ epoch 15: ParaErr=5.051654
+[Train] Epoch 16 iter 193 | Loss 6.0734 | KL 0.3049 | Recon 0.1810 | Reward 0.1031 | Act 0.3729 | Pose 5.1115 | 
+[Train] Epoch 16 iter 194 | Loss 6.6360 | KL 0.3007 | Recon 0.1758 | Reward 0.1343 | Act 0.4165 | Pose 5.6087 | 
+[Train] Epoch 16 iter 195 | Loss 6.6423 | KL 0.2966 | Recon 0.1817 | Reward 0.1330 | Act 0.4387 | Pose 5.5922 | 
+[Train] Epoch 16 iter 196 | Loss 6.3887 | KL 0.2926 | Recon 0.1765 | Reward 0.1739 | Act 0.3893 | Pose 5.3565 | 
+[Train] Epoch 16 iter 197 | Loss 6.1284 | KL 0.2886 | Recon 0.1816 | Reward 0.1275 | Act 0.3861 | Pose 5.1446 | 
+[Train] Epoch 16 iter 198 | Loss 6.3086 | KL 0.2846 | Recon 0.1798 | Reward 0.1588 | Act 0.3891 | Pose 5.2963 | 
+[Train] Epoch 16 iter 199 | Loss 6.0879 | KL 0.2807 | Recon 0.1820 | Reward 0.1094 | Act 0.3676 | Pose 5.1483 | 
+[Train] Epoch 16 iter 200 | Loss 6.0053 | KL 0.2769 | Recon 0.1835 | Reward 0.1602 | Act 0.3664 | Pose 5.0182 | 
+[Train] Epoch 16 iter 201 | Loss 6.1015 | KL 0.2731 | Recon 0.1792 | Reward 0.1347 | Act 0.3649 | Pose 5.1496 | 
+[Train] Epoch 16 iter 202 | Loss 5.9047 | KL 0.2694 | Recon 0.1884 | Reward 0.1620 | Act 0.3334 | Pose 4.9515 | 
+[Train] Epoch 16 iter 203 | Loss 6.5030 | KL 0.2657 | Recon 0.1818 | Reward 0.1365 | Act 0.4225 | Pose 5.4966 | 
+[Train] Epoch 16 iter 204 | Loss 5.8346 | KL 0.2620 | Recon 0.1801 | Reward 0.1182 | Act 0.3572 | Pose 4.9170 | 
+wm_v3_noise_01/ Epoch 16 loss 6.2179
+[val] Epoch 16  DistErr: 7.954753, NCC: 0.863473, ParaErr: 4.992861
+>> New best @ epoch 16: ParaErr=4.992861
+[Train] Epoch 17 iter 205 | Loss 6.1410 | KL 0.2584 | Recon 0.1834 | Reward 0.1110 | Act 0.3774 | Pose 5.2107 | 
+[Train] Epoch 17 iter 206 | Loss 6.0424 | KL 0.2549 | Recon 0.1837 | Reward 0.1262 | Act 0.3730 | Pose 5.1046 | 
+[Train] Epoch 17 iter 207 | Loss 5.7105 | KL 0.2514 | Recon 0.1763 | Reward 0.1515 | Act 0.3532 | Pose 4.7780 | 
+[Train] Epoch 17 iter 208 | Loss 6.1326 | KL 0.2480 | Recon 0.1770 | Reward 0.1499 | Act 0.3912 | Pose 5.1666 | 
+[Train] Epoch 17 iter 209 | Loss 6.2436 | KL 0.2446 | Recon 0.1807 | Reward 0.1064 | Act 0.3912 | Pose 5.3207 | 
+[Train] Epoch 17 iter 210 | Loss 6.2567 | KL 0.2412 | Recon 0.1803 | Reward 0.1158 | Act 0.3892 | Pose 5.3302 | 
+[Train] Epoch 17 iter 211 | Loss 5.7907 | KL 0.2379 | Recon 0.1804 | Reward 0.1078 | Act 0.3463 | Pose 4.9184 | 
+[Train] Epoch 17 iter 212 | Loss 5.8552 | KL 0.2346 | Recon 0.1762 | Reward 0.1148 | Act 0.3556 | Pose 4.9740 | 
+[Train] Epoch 17 iter 213 | Loss 6.3397 | KL 0.2314 | Recon 0.1806 | Reward 0.1635 | Act 0.3950 | Pose 5.3691 | 
+[Train] Epoch 17 iter 214 | Loss 5.7533 | KL 0.2282 | Recon 0.1798 | Reward 0.1515 | Act 0.3548 | Pose 4.8390 | 
+[Train] Epoch 17 iter 215 | Loss 5.9160 | KL 0.2251 | Recon 0.1789 | Reward 0.1386 | Act 0.3689 | Pose 5.0045 | 
+[Train] Epoch 17 iter 216 | Loss 6.4675 | KL 0.2220 | Recon 0.1751 | Reward 0.1564 | Act 0.4326 | Pose 5.4816 | 
+wm_v3_noise_01/ Epoch 17 loss 6.0541
+[val] Epoch 17  DistErr: 8.235857, NCC: 0.862917, ParaErr: 5.189652
+[Train] Epoch 18 iter 217 | Loss 6.2005 | KL 0.2189 | Recon 0.1698 | Reward 0.1270 | Act 0.4086 | Pose 5.2763 | 
+[Train] Epoch 18 iter 218 | Loss 6.3485 | KL 0.2159 | Recon 0.1784 | Reward 0.1213 | Act 0.4035 | Pose 5.4295 | 
+[Train] Epoch 18 iter 219 | Loss 5.9783 | KL 0.2129 | Recon 0.1757 | Reward 0.1422 | Act 0.3634 | Pose 5.0840 | 
+[Train] Epoch 18 iter 220 | Loss 6.3991 | KL 0.2100 | Recon 0.1736 | Reward 0.1451 | Act 0.4194 | Pose 5.4510 | 
+[Train] Epoch 18 iter 221 | Loss 6.1184 | KL 0.2071 | Recon 0.1756 | Reward 0.1473 | Act 0.3910 | Pose 5.1975 | 
+[Train] Epoch 18 iter 222 | Loss 5.5700 | KL 0.2042 | Recon 0.1701 | Reward 0.1385 | Act 0.3387 | Pose 4.7184 | 
+[Train] Epoch 18 iter 223 | Loss 6.6222 | KL 0.2014 | Recon 0.1754 | Reward 0.1735 | Act 0.4358 | Pose 5.6361 | 
+[Train] Epoch 18 iter 224 | Loss 6.0611 | KL 0.1986 | Recon 0.1818 | Reward 0.1400 | Act 0.3720 | Pose 5.1687 | 
+[Train] Epoch 18 iter 225 | Loss 6.0442 | KL 0.1959 | Recon 0.1872 | Reward 0.1610 | Act 0.3871 | Pose 5.1129 | 
+[Train] Epoch 18 iter 226 | Loss 6.0924 | KL 0.1932 | Recon 0.1783 | Reward 0.1267 | Act 0.3901 | Pose 5.2042 | 
+[Train] Epoch 18 iter 227 | Loss 6.5565 | KL 0.1905 | Recon 0.1798 | Reward 0.2366 | Act 0.4448 | Pose 5.5048 | 
+[Train] Epoch 18 iter 228 | Loss 6.2890 | KL 0.1879 | Recon 0.1827 | Reward 0.1855 | Act 0.4254 | Pose 5.3075 | 
+wm_v3_noise_01/ Epoch 18 loss 6.1900
+[val] Epoch 18  DistErr: 7.945009, NCC: 0.871474, ParaErr: 4.974589
+>> New best @ epoch 18: ParaErr=4.974589
+[Train] Epoch 19 iter 229 | Loss 6.4678 | KL 0.1853 | Recon 0.1760 | Reward 0.1116 | Act 0.4324 | Pose 5.5625 | 
+[Train] Epoch 19 iter 230 | Loss 6.1482 | KL 0.1827 | Recon 0.1743 | Reward 0.1318 | Act 0.4048 | Pose 5.2546 | 
+[Train] Epoch 19 iter 231 | Loss 5.8833 | KL 0.1802 | Recon 0.1761 | Reward 0.1460 | Act 0.3582 | Pose 5.0228 | 
+[Train] Epoch 19 iter 232 | Loss 6.3707 | KL 0.1777 | Recon 0.1757 | Reward 0.1106 | Act 0.4265 | Pose 5.4802 | 
+[Train] Epoch 19 iter 233 | Loss 5.9078 | KL 0.1752 | Recon 0.1782 | Reward 0.1029 | Act 0.3794 | Pose 5.0721 | 
+[Train] Epoch 19 iter 234 | Loss 5.9580 | KL 0.1738 | Recon 0.1789 | Reward 0.1391 | Act 0.3799 | Pose 5.0865 | 
+[Train] Epoch 19 iter 235 | Loss 5.5426 | KL 0.1704 | Recon 0.1779 | Reward 0.1003 | Act 0.3352 | Pose 4.7588 | 
+[Train] Epoch 19 iter 236 | Loss 6.0205 | KL 0.1681 | Recon 0.1766 | Reward 0.1616 | Act 0.3672 | Pose 5.1470 | 
+[Train] Epoch 19 iter 237 | Loss 6.3009 | KL 0.1657 | Recon 0.1776 | Reward 0.1224 | Act 0.4053 | Pose 5.4298 | 
+[Train] Epoch 19 iter 238 | Loss 5.8880 | KL 0.1634 | Recon 0.1722 | Reward 0.1325 | Act 0.3800 | Pose 5.0399 | 
+[Train] Epoch 19 iter 239 | Loss 5.7838 | KL 0.1612 | Recon 0.1753 | Reward 0.1248 | Act 0.3627 | Pose 4.9597 | 
+[Train] Epoch 19 iter 240 | Loss 6.3609 | KL 0.1589 | Recon 0.1781 | Reward 0.1931 | Act 0.4185 | Pose 5.4122 | 
+wm_v3_noise_01/ Epoch 19 loss 6.0527
+[val] Epoch 19  DistErr: 8.214437, NCC: 0.861287, ParaErr: 5.146986
+[Train] Epoch 20 iter 241 | Loss 6.0766 | KL 0.1567 | Recon 0.1795 | Reward 0.1470 | Act 0.3991 | Pose 5.1943 | 
+[Train] Epoch 20 iter 242 | Loss 5.9029 | KL 0.1546 | Recon 0.1760 | Reward 0.1391 | Act 0.3680 | Pose 5.0653 | 
+[Train] Epoch 20 iter 243 | Loss 5.9185 | KL 0.1524 | Recon 0.1746 | Reward 0.1134 | Act 0.3777 | Pose 5.1003 | 
+[Train] Epoch 20 iter 244 | Loss 6.2798 | KL 0.1503 | Recon 0.1727 | Reward 0.1452 | Act 0.4124 | Pose 5.3991 | 
+[Train] Epoch 20 iter 245 | Loss 6.0815 | KL 0.1482 | Recon 0.1756 | Reward 0.1337 | Act 0.4003 | Pose 5.2237 | 
+[Train] Epoch 20 iter 246 | Loss 6.2098 | KL 0.1462 | Recon 0.1665 | Reward 0.1658 | Act 0.4085 | Pose 5.3228 | 
+[Train] Epoch 20 iter 247 | Loss 5.7779 | KL 0.1441 | Recon 0.1749 | Reward 0.1100 | Act 0.3537 | Pose 4.9952 | 
+[Train] Epoch 20 iter 248 | Loss 6.2783 | KL 0.1421 | Recon 0.1701 | Reward 0.1267 | Act 0.4033 | Pose 5.4360 | 
+[Train] Epoch 20 iter 249 | Loss 6.2321 | KL 0.1402 | Recon 0.1745 | Reward 0.1498 | Act 0.4183 | Pose 5.3493 | 
+[Train] Epoch 20 iter 250 | Loss 5.5576 | KL 0.1382 | Recon 0.1721 | Reward 0.1398 | Act 0.3426 | Pose 4.7648 | 
+[Train] Epoch 20 iter 251 | Loss 5.6712 | KL 0.1363 | Recon 0.1732 | Reward 0.1101 | Act 0.3483 | Pose 4.9034 | 
+[Train] Epoch 20 iter 252 | Loss 6.0850 | KL 0.1347 | Recon 0.1759 | Reward 0.1353 | Act 0.3972 | Pose 5.2418 | 
+wm_v3_noise_01/ Epoch 20 loss 6.0059
+[val] Epoch 20  DistErr: 7.919753, NCC: 0.867769, ParaErr: 4.991317
+[Train] Epoch 21 iter 253 | Loss 5.2659 | KL 0.1326 | Recon 0.1772 | Reward 0.1006 | Act 0.3230 | Pose 4.5326 | 
+[Train] Epoch 21 iter 254 | Loss 5.6755 | KL 0.1307 | Recon 0.1709 | Reward 0.1532 | Act 0.3563 | Pose 4.8643 | 
+[Train] Epoch 21 iter 255 | Loss 5.3427 | KL 0.1289 | Recon 0.1752 | Reward 0.1183 | Act 0.3319 | Pose 4.5884 | 
+[Train] Epoch 21 iter 256 | Loss 5.4654 | KL 0.1271 | Recon 0.1690 | Reward 0.1151 | Act 0.3202 | Pose 4.7339 | 
+[Train] Epoch 21 iter 257 | Loss 6.5925 | KL 0.1253 | Recon 0.1763 | Reward 0.1205 | Act 0.4453 | Pose 5.7250 | 
+[Train] Epoch 21 iter 258 | Loss 5.4396 | KL 0.1236 | Recon 0.1782 | Reward 0.1175 | Act 0.3288 | Pose 4.6915 | 
+[Train] Epoch 21 iter 259 | Loss 6.1820 | KL 0.1219 | Recon 0.1698 | Reward 0.1163 | Act 0.4075 | Pose 5.3665 | 
+[Train] Epoch 21 iter 260 | Loss 5.9708 | KL 0.1202 | Recon 0.1751 | Reward 0.1427 | Act 0.3849 | Pose 5.1479 | 
+[Train] Epoch 21 iter 261 | Loss 6.0122 | KL 0.1185 | Recon 0.1682 | Reward 0.1024 | Act 0.3770 | Pose 5.2460 | 
+[Train] Epoch 21 iter 262 | Loss 6.4079 | KL 0.1169 | Recon 0.1663 | Reward 0.1412 | Act 0.4229 | Pose 5.5606 | 
+[Train] Epoch 21 iter 263 | Loss 5.8491 | KL 0.1153 | Recon 0.1740 | Reward 0.1225 | Act 0.3691 | Pose 5.0682 | 
+[Train] Epoch 21 iter 264 | Loss 5.8976 | KL 0.1137 | Recon 0.1706 | Reward 0.1237 | Act 0.3835 | Pose 5.1061 | 
+wm_v3_noise_01/ Epoch 21 loss 5.8418
+[val] Epoch 21  DistErr: 8.187791, NCC: 0.862619, ParaErr: 5.139024
+[Train] Epoch 22 iter 265 | Loss 5.5812 | KL 0.1121 | Recon 0.1711 | Reward 0.1287 | Act 0.3335 | Pose 4.8358 | 
+[Train] Epoch 22 iter 266 | Loss 5.7336 | KL 0.1105 | Recon 0.1718 | Reward 0.1219 | Act 0.3621 | Pose 4.9673 | 
+[Train] Epoch 22 iter 267 | Loss 5.6793 | KL 0.1090 | Recon 0.1676 | Reward 0.1251 | Act 0.3614 | Pose 4.9162 | 
+[Train] Epoch 22 iter 268 | Loss 6.1313 | KL 0.1075 | Recon 0.1655 | Reward 0.1381 | Act 0.4113 | Pose 5.3089 | 
+[Train] Epoch 22 iter 269 | Loss 5.4496 | KL 0.1060 | Recon 0.1695 | Reward 0.1856 | Act 0.3456 | Pose 4.6429 | 
+[Train] Epoch 22 iter 270 | Loss 6.1563 | KL 0.1045 | Recon 0.1741 | Reward 0.1777 | Act 0.4004 | Pose 5.2995 | 
+[Train] Epoch 22 iter 271 | Loss 5.9565 | KL 0.1031 | Recon 0.1682 | Reward 0.1348 | Act 0.3888 | Pose 5.1616 | 
+[Train] Epoch 22 iter 272 | Loss 6.2587 | KL 0.1017 | Recon 0.1680 | Reward 0.1470 | Act 0.4192 | Pose 5.4229 | 
+[Train] Epoch 22 iter 273 | Loss 5.9254 | KL 0.1002 | Recon 0.1702 | Reward 0.1284 | Act 0.3837 | Pose 5.1429 | 
+[Train] Epoch 22 iter 274 | Loss 5.8801 | KL 0.0989 | Recon 0.1737 | Reward 0.1426 | Act 0.3902 | Pose 5.0747 | 
+[Train] Epoch 22 iter 275 | Loss 6.4465 | KL 0.0975 | Recon 0.1658 | Reward 0.1584 | Act 0.4454 | Pose 5.5795 | 
+[Train] Epoch 22 iter 276 | Loss 5.6193 | KL 0.0961 | Recon 0.1685 | Reward 0.0991 | Act 0.3530 | Pose 4.9025 | 
+wm_v3_noise_01/ Epoch 22 loss 5.9015
+[val] Epoch 22  DistErr: 7.775442, NCC: 0.876177, ParaErr: 4.828651
+>> New best @ epoch 22: ParaErr=4.828651
+[Train] Epoch 23 iter 277 | Loss 5.5114 | KL 0.0948 | Recon 0.1678 | Reward 0.1167 | Act 0.3516 | Pose 4.7805 | 
+[Train] Epoch 23 iter 278 | Loss 5.7034 | KL 0.0935 | Recon 0.1681 | Reward 0.0630 | Act 0.3713 | Pose 5.0075 | 
+[Train] Epoch 23 iter 279 | Loss 5.4629 | KL 0.0922 | Recon 0.1700 | Reward 0.1079 | Act 0.3445 | Pose 4.7483 | 
+[Train] Epoch 23 iter 280 | Loss 5.5828 | KL 0.0909 | Recon 0.1705 | Reward 0.1592 | Act 0.3575 | Pose 4.8046 | 
+[Train] Epoch 23 iter 281 | Loss 5.9201 | KL 0.0898 | Recon 0.1714 | Reward 0.1202 | Act 0.3967 | Pose 5.1420 | 
+[Train] Epoch 23 iter 282 | Loss 5.1491 | KL 0.0884 | Recon 0.1680 | Reward 0.0855 | Act 0.3161 | Pose 4.4910 | 
+[Train] Epoch 23 iter 283 | Loss 5.8489 | KL 0.0872 | Recon 0.1687 | Reward 0.1386 | Act 0.3873 | Pose 5.0671 | 
+[Train] Epoch 23 iter 284 | Loss 5.8945 | KL 0.0860 | Recon 0.1663 | Reward 0.1181 | Act 0.4008 | Pose 5.1233 | 
+[Train] Epoch 23 iter 285 | Loss 5.5667 | KL 0.0848 | Recon 0.1672 | Reward 0.1232 | Act 0.3520 | Pose 4.8396 | 
+[Train] Epoch 23 iter 286 | Loss 5.4945 | KL 0.0836 | Recon 0.1646 | Reward 0.1571 | Act 0.3523 | Pose 4.7369 | 
+[Train] Epoch 23 iter 287 | Loss 6.3819 | KL 0.0825 | Recon 0.1702 | Reward 0.1469 | Act 0.4285 | Pose 5.5538 | 
+[Train] Epoch 23 iter 288 | Loss 5.6455 | KL 0.0814 | Recon 0.1704 | Reward 0.1117 | Act 0.3676 | Pose 4.9144 | 
+wm_v3_noise_01/ Epoch 23 loss 5.6801
+[val] Epoch 23  DistErr: 8.155579, NCC: 0.869044, ParaErr: 5.189040
+[Train] Epoch 24 iter 289 | Loss 5.8101 | KL 0.0802 | Recon 0.1693 | Reward 0.1880 | Act 0.3755 | Pose 4.9972 | 
+[Train] Epoch 24 iter 290 | Loss 5.8340 | KL 0.0791 | Recon 0.1743 | Reward 0.1512 | Act 0.4049 | Pose 5.0245 | 
+[Train] Epoch 24 iter 291 | Loss 6.3698 | KL 0.0780 | Recon 0.1727 | Reward 0.1202 | Act 0.4360 | Pose 5.5629 | 
+[Train] Epoch 24 iter 292 | Loss 5.2884 | KL 0.0769 | Recon 0.1690 | Reward 0.1408 | Act 0.3230 | Pose 4.5787 | 
+[Train] Epoch 24 iter 293 | Loss 5.8001 | KL 0.0759 | Recon 0.1656 | Reward 0.1280 | Act 0.3688 | Pose 5.0619 | 
+[Train] Epoch 24 iter 294 | Loss 6.2633 | KL 0.0748 | Recon 0.1719 | Reward 0.1044 | Act 0.4262 | Pose 5.4860 | 
+[Train] Epoch 24 iter 295 | Loss 5.9247 | KL 0.0738 | Recon 0.1640 | Reward 0.1474 | Act 0.3913 | Pose 5.1482 | 
+[Train] Epoch 24 iter 296 | Loss 5.8882 | KL 0.0728 | Recon 0.1689 | Reward 0.1150 | Act 0.3791 | Pose 5.1525 | 
+[Train] Epoch 24 iter 297 | Loss 5.7062 | KL 0.0718 | Recon 0.1719 | Reward 0.0956 | Act 0.3714 | Pose 4.9954 | 
+[Train] Epoch 24 iter 298 | Loss 5.7294 | KL 0.0708 | Recon 0.1745 | Reward 0.0920 | Act 0.3847 | Pose 5.0074 | 
+[Train] Epoch 24 iter 299 | Loss 5.9592 | KL 0.0698 | Recon 0.1650 | Reward 0.1223 | Act 0.3780 | Pose 5.2242 | 
+[Train] Epoch 24 iter 300 | Loss 5.7824 | KL 0.0688 | Recon 0.1658 | Reward 0.1277 | Act 0.3690 | Pose 5.0510 | 
+wm_v3_noise_01/ Epoch 24 loss 5.8630
+[val] Epoch 24  DistErr: 7.979366, NCC: 0.866399, ParaErr: 5.058691
+[Train] Epoch 25 iter 301 | Loss 5.9679 | KL 0.0679 | Recon 0.1665 | Reward 0.1264 | Act 0.3908 | Pose 5.2163 | 
+[Train] Epoch 25 iter 302 | Loss 5.5969 | KL 0.0669 | Recon 0.1625 | Reward 0.0697 | Act 0.3683 | Pose 4.9295 | 
+[Train] Epoch 25 iter 303 | Loss 5.3110 | KL 0.0660 | Recon 0.1612 | Reward 0.0826 | Act 0.3300 | Pose 4.6710 | 
+[Train] Epoch 25 iter 304 | Loss 5.4566 | KL 0.0651 | Recon 0.1662 | Reward 0.1304 | Act 0.3370 | Pose 4.7579 | 
+[Train] Epoch 25 iter 305 | Loss 5.7083 | KL 0.0642 | Recon 0.1629 | Reward 0.1238 | Act 0.3604 | Pose 4.9971 | 
+[Train] Epoch 25 iter 306 | Loss 5.2409 | KL 0.0633 | Recon 0.1652 | Reward 0.1313 | Act 0.3260 | Pose 4.5549 | 
+[Train] Epoch 25 iter 307 | Loss 5.8137 | KL 0.0625 | Recon 0.1637 | Reward 0.1520 | Act 0.3745 | Pose 5.0610 | 
+[Train] Epoch 25 iter 308 | Loss 5.3092 | KL 0.0616 | Recon 0.1613 | Reward 0.1401 | Act 0.3344 | Pose 4.6117 | 
+[Train] Epoch 25 iter 309 | Loss 5.4909 | KL 0.0620 | Recon 0.1626 | Reward 0.1313 | Act 0.3735 | Pose 4.7615 | 
+[Train] Epoch 25 iter 310 | Loss 5.9762 | KL 0.0599 | Recon 0.1637 | Reward 0.1001 | Act 0.4164 | Pose 5.2361 | 
+[Train] Epoch 25 iter 311 | Loss 5.6081 | KL 0.0591 | Recon 0.1614 | Reward 0.1097 | Act 0.3787 | Pose 4.8993 | 
+[Train] Epoch 25 iter 312 | Loss 5.6555 | KL 0.0583 | Recon 0.1569 | Reward 0.1059 | Act 0.3607 | Pose 4.9737 | 
+wm_v3_noise_01/ Epoch 25 loss 5.5946
+[val] Epoch 25  DistErr: 7.711029, NCC: 0.873724, ParaErr: 4.796504
+>> New best @ epoch 25: ParaErr=4.796504
+[Train] Epoch 26 iter 313 | Loss 5.0742 | KL 0.0575 | Recon 0.1584 | Reward 0.0757 | Act 0.3208 | Pose 4.4617 | 
+[Train] Epoch 26 iter 314 | Loss 5.5279 | KL 0.0567 | Recon 0.1624 | Reward 0.1164 | Act 0.3616 | Pose 4.8309 | 
+[Train] Epoch 26 iter 315 | Loss 5.8047 | KL 0.0559 | Recon 0.1616 | Reward 0.1205 | Act 0.3776 | Pose 5.0890 | 
+[Train] Epoch 26 iter 316 | Loss 6.3462 | KL 0.0552 | Recon 0.1597 | Reward 0.1410 | Act 0.4368 | Pose 5.5535 | 
+[Train] Epoch 26 iter 317 | Loss 5.6525 | KL 0.0544 | Recon 0.1559 | Reward 0.1328 | Act 0.3731 | Pose 4.9363 | 
+[Train] Epoch 26 iter 318 | Loss 5.6004 | KL 0.0537 | Recon 0.1525 | Reward 0.1085 | Act 0.3589 | Pose 4.9268 | 
+[Train] Epoch 26 iter 319 | Loss 5.1462 | KL 0.0529 | Recon 0.1512 | Reward 0.1255 | Act 0.3115 | Pose 4.5051 | 
+[Train] Epoch 26 iter 320 | Loss 5.6315 | KL 0.0522 | Recon 0.1549 | Reward 0.1324 | Act 0.3752 | Pose 4.9168 | 
+[Train] Epoch 26 iter 321 | Loss 5.4223 | KL 0.0515 | Recon 0.1568 | Reward 0.0980 | Act 0.3476 | Pose 4.7683 | 
+[Train] Epoch 26 iter 322 | Loss 5.7404 | KL 0.0508 | Recon 0.1569 | Reward 0.1433 | Act 0.3792 | Pose 5.0103 | 
+[Train] Epoch 26 iter 323 | Loss 5.6165 | KL 0.0501 | Recon 0.1494 | Reward 0.1259 | Act 0.3683 | Pose 4.9228 | 
+[Train] Epoch 26 iter 324 | Loss 5.5359 | KL 0.0494 | Recon 0.1580 | Reward 0.1153 | Act 0.3787 | Pose 4.8345 | 
+wm_v3_noise_01/ Epoch 26 loss 5.5916
+[val] Epoch 26  DistErr: 7.609458, NCC: 0.876708, ParaErr: 4.701382
+>> New best @ epoch 26: ParaErr=4.701382
+[Train] Epoch 27 iter 325 | Loss 5.5960 | KL 0.0487 | Recon 0.1621 | Reward 0.1162 | Act 0.3668 | Pose 4.9022 | 
+[Train] Epoch 27 iter 326 | Loss 5.9446 | KL 0.0481 | Recon 0.1566 | Reward 0.1214 | Act 0.3885 | Pose 5.2300 | 
+[Train] Epoch 27 iter 327 | Loss 5.3616 | KL 0.0474 | Recon 0.1546 | Reward 0.0922 | Act 0.3392 | Pose 4.7282 | 
+[Train] Epoch 27 iter 328 | Loss 5.3613 | KL 0.0468 | Recon 0.1496 | Reward 0.0917 | Act 0.3328 | Pose 4.7404 | 
+[Train] Epoch 27 iter 329 | Loss 5.7510 | KL 0.0461 | Recon 0.1500 | Reward 0.1532 | Act 0.3830 | Pose 5.0187 | 
+[Train] Epoch 27 iter 330 | Loss 5.4905 | KL 0.0455 | Recon 0.1540 | Reward 0.1371 | Act 0.3621 | Pose 4.7918 | 
+[Train] Epoch 27 iter 331 | Loss 5.4426 | KL 0.0449 | Recon 0.1534 | Reward 0.1025 | Act 0.3515 | Pose 4.7903 | 
+[Train] Epoch 27 iter 332 | Loss 5.7837 | KL 0.0443 | Recon 0.1546 | Reward 0.1534 | Act 0.3811 | Pose 5.0503 | 
+[Train] Epoch 27 iter 333 | Loss 5.5089 | KL 0.0437 | Recon 0.1511 | Reward 0.1087 | Act 0.3528 | Pose 4.8526 | 
+[Train] Epoch 27 iter 334 | Loss 6.2012 | KL 0.0431 | Recon 0.1561 | Reward 0.1501 | Act 0.4228 | Pose 5.4291 | 
+[Train] Epoch 27 iter 335 | Loss 5.1912 | KL 0.0425 | Recon 0.1510 | Reward 0.0817 | Act 0.3274 | Pose 4.5885 | 
+[Train] Epoch 27 iter 336 | Loss 5.2503 | KL 0.0419 | Recon 0.1500 | Reward 0.0900 | Act 0.3399 | Pose 4.6284 | 
+wm_v3_noise_01/ Epoch 27 loss 5.5736
+[val] Epoch 27  DistErr: 7.714347, NCC: 0.870607, ParaErr: 4.795486
+[Train] Epoch 28 iter 337 | Loss 5.6921 | KL 0.0413 | Recon 0.1498 | Reward 0.1178 | Act 0.3784 | Pose 5.0048 | 
+[Train] Epoch 28 iter 338 | Loss 5.6935 | KL 0.0408 | Recon 0.1462 | Reward 0.1497 | Act 0.3735 | Pose 4.9833 | 
+[Train] Epoch 28 iter 339 | Loss 5.7867 | KL 0.0402 | Recon 0.1520 | Reward 0.1400 | Act 0.3892 | Pose 5.0653 | 
+[Train] Epoch 28 iter 340 | Loss 4.9249 | KL 0.0397 | Recon 0.1486 | Reward 0.1063 | Act 0.2948 | Pose 4.3355 | 
+[Train] Epoch 28 iter 341 | Loss 5.7334 | KL 0.0392 | Recon 0.1467 | Reward 0.1348 | Act 0.3796 | Pose 5.0331 | 
+[Train] Epoch 28 iter 342 | Loss 5.8721 | KL 0.0386 | Recon 0.1494 | Reward 0.1501 | Act 0.3772 | Pose 5.1567 | 
+[Train] Epoch 28 iter 343 | Loss 5.6474 | KL 0.0381 | Recon 0.1470 | Reward 0.1638 | Act 0.3824 | Pose 4.9161 | 
+[Train] Epoch 28 iter 344 | Loss 5.7140 | KL 0.0376 | Recon 0.1443 | Reward 0.1544 | Act 0.3755 | Pose 5.0022 | 
+[Train] Epoch 28 iter 345 | Loss 5.5076 | KL 0.0371 | Recon 0.1491 | Reward 0.1515 | Act 0.3742 | Pose 4.7958 | 
+[Train] Epoch 28 iter 346 | Loss 5.6338 | KL 0.0366 | Recon 0.1475 | Reward 0.1484 | Act 0.3745 | Pose 4.9269 | 
+[Train] Epoch 28 iter 347 | Loss 5.8292 | KL 0.0361 | Recon 0.1467 | Reward 0.1197 | Act 0.4097 | Pose 5.1171 | 
+[Train] Epoch 28 iter 348 | Loss 5.6682 | KL 0.0356 | Recon 0.1458 | Reward 0.1380 | Act 0.3815 | Pose 4.9673 | 
+wm_v3_noise_01/ Epoch 28 loss 5.6419
+[val] Epoch 28  DistErr: 7.848816, NCC: 0.875441, ParaErr: 4.882512
+[Train] Epoch 29 iter 349 | Loss 5.6713 | KL 0.0351 | Recon 0.1504 | Reward 0.1838 | Act 0.3836 | Pose 4.9184 | 
+[Train] Epoch 29 iter 350 | Loss 6.6603 | KL 0.0347 | Recon 0.1495 | Reward 0.1728 | Act 0.4799 | Pose 5.8234 | 
+[Train] Epoch 29 iter 351 | Loss 5.2334 | KL 0.0342 | Recon 0.1471 | Reward 0.1510 | Act 0.3467 | Pose 4.5546 | 
+[Train] Epoch 29 iter 352 | Loss 6.1300 | KL 0.0337 | Recon 0.1451 | Reward 0.1298 | Act 0.4106 | Pose 5.4108 | 
+[Train] Epoch 29 iter 353 | Loss 5.4595 | KL 0.0333 | Recon 0.1445 | Reward 0.1346 | Act 0.3513 | Pose 4.7957 | 
+[Train] Epoch 29 iter 354 | Loss 5.4090 | KL 0.0328 | Recon 0.1478 | Reward 0.1567 | Act 0.3431 | Pose 4.7285 | 
+[Train] Epoch 29 iter 355 | Loss 5.1208 | KL 0.0324 | Recon 0.1410 | Reward 0.0832 | Act 0.3243 | Pose 4.5399 | 
+[Train] Epoch 29 iter 356 | Loss 5.1950 | KL 0.0320 | Recon 0.1504 | Reward 0.0842 | Act 0.3375 | Pose 4.5908 | 
+[Train] Epoch 29 iter 357 | Loss 5.4786 | KL 0.0315 | Recon 0.1472 | Reward 0.1294 | Act 0.3490 | Pose 4.8214 | 
+[Train] Epoch 29 iter 358 | Loss 5.5520 | KL 0.0311 | Recon 0.1476 | Reward 0.1153 | Act 0.3584 | Pose 4.8995 | 
+[Train] Epoch 29 iter 359 | Loss 5.2320 | KL 0.0307 | Recon 0.1409 | Reward 0.0921 | Act 0.3384 | Pose 4.6299 | 
+[Train] Epoch 29 iter 360 | Loss 5.9219 | KL 0.0303 | Recon 0.1451 | Reward 0.1415 | Act 0.4108 | Pose 5.1942 | 
+wm_v3_noise_01/ Epoch 29 loss 5.5886
+[val] Epoch 29  DistErr: 7.773844, NCC: 0.872211, ParaErr: 4.817787
+[Train] Epoch 30 iter 361 | Loss 5.0408 | KL 0.0299 | Recon 0.1424 | Reward 0.1203 | Act 0.3042 | Pose 4.4440 | 
+[Train] Epoch 30 iter 362 | Loss 5.4711 | KL 0.0297 | Recon 0.1444 | Reward 0.1307 | Act 0.3632 | Pose 4.8030 | 
+[Train] Epoch 30 iter 363 | Loss 4.7295 | KL 0.0295 | Recon 0.1425 | Reward 0.1015 | Act 0.2899 | Pose 4.1660 | 
+[Train] Epoch 30 iter 364 | Loss 5.0399 | KL 0.0298 | Recon 0.1377 | Reward 0.1677 | Act 0.3178 | Pose 4.3869 | 
+[Train] Epoch 30 iter 365 | Loss 5.6377 | KL 0.0291 | Recon 0.1402 | Reward 0.1518 | Act 0.3717 | Pose 4.9449 | 
+[Train] Epoch 30 iter 366 | Loss 6.0364 | KL 0.0289 | Recon 0.1410 | Reward 0.1345 | Act 0.4166 | Pose 5.3154 | 
+[Train] Epoch 30 iter 367 | Loss 5.1605 | KL 0.0287 | Recon 0.1353 | Reward 0.1098 | Act 0.3413 | Pose 4.5453 | 
+[Train] Epoch 30 iter 368 | Loss 5.3693 | KL 0.0285 | Recon 0.1388 | Reward 0.1167 | Act 0.3625 | Pose 4.7229 | 
+[Train] Epoch 30 iter 369 | Loss 5.7784 | KL 0.0283 | Recon 0.1416 | Reward 0.1526 | Act 0.3859 | Pose 5.0699 | 
+[Train] Epoch 30 iter 370 | Loss 5.7625 | KL 0.0281 | Recon 0.1444 | Reward 0.1053 | Act 0.4005 | Pose 5.0841 | 
+[Train] Epoch 30 iter 371 | Loss 5.7781 | KL 0.0280 | Recon 0.1468 | Reward 0.0772 | Act 0.3920 | Pose 5.1342 | 
+[Train] Epoch 30 iter 372 | Loss 5.2836 | KL 0.0278 | Recon 0.1401 | Reward 0.1161 | Act 0.3510 | Pose 4.6486 | 
+wm_v3_noise_01/ Epoch 30 loss 5.4240
+[val] Epoch 30  DistErr: 7.656848, NCC: 0.879665, ParaErr: 4.724136
+[Train] Epoch 31 iter 373 | Loss 4.9200 | KL 0.0276 | Recon 0.1406 | Reward 0.1215 | Act 0.3114 | Pose 4.3189 | 
+[Train] Epoch 31 iter 374 | Loss 5.3103 | KL 0.0274 | Recon 0.1424 | Reward 0.1227 | Act 0.3384 | Pose 4.6794 | 
+[Train] Epoch 31 iter 375 | Loss 4.9783 | KL 0.0272 | Recon 0.1402 | Reward 0.1364 | Act 0.3150 | Pose 4.3595 | 
+[Train] Epoch 31 iter 376 | Loss 5.0363 | KL 0.0271 | Recon 0.1408 | Reward 0.1079 | Act 0.3161 | Pose 4.4444 | 
+[Train] Epoch 31 iter 377 | Loss 5.2575 | KL 0.0269 | Recon 0.1423 | Reward 0.1410 | Act 0.3268 | Pose 4.6206 | 
+[Train] Epoch 31 iter 378 | Loss 5.4905 | KL 0.0267 | Recon 0.1447 | Reward 0.1009 | Act 0.3492 | Pose 4.8690 | 
+[Train] Epoch 31 iter 379 | Loss 6.1546 | KL 0.0265 | Recon 0.1388 | Reward 0.1366 | Act 0.4361 | Pose 5.4166 | 
+[Train] Epoch 31 iter 380 | Loss 5.6173 | KL 0.0264 | Recon 0.1399 | Reward 0.1157 | Act 0.3855 | Pose 4.9498 | 
+[Train] Epoch 31 iter 381 | Loss 5.1546 | KL 0.0262 | Recon 0.1395 | Reward 0.1273 | Act 0.3401 | Pose 4.5214 | 
+[Train] Epoch 31 iter 382 | Loss 4.6381 | KL 0.0260 | Recon 0.1429 | Reward 0.0955 | Act 0.2877 | Pose 4.0859 | 
+[Train] Epoch 31 iter 383 | Loss 5.2399 | KL 0.0259 | Recon 0.1455 | Reward 0.1096 | Act 0.3464 | Pose 4.6126 | 
+[Train] Epoch 31 iter 384 | Loss 5.6072 | KL 0.0257 | Recon 0.1392 | Reward 0.1102 | Act 0.3817 | Pose 4.9504 | 
+wm_v3_noise_01/ Epoch 31 loss 5.2837
+[val] Epoch 31  DistErr: 7.567073, NCC: 0.878044, ParaErr: 4.670426
+>> New best @ epoch 31: ParaErr=4.670426
+[Train] Epoch 32 iter 385 | Loss 5.3360 | KL 0.0255 | Recon 0.1421 | Reward 0.1088 | Act 0.3362 | Pose 4.7234 | 
+[Train] Epoch 32 iter 386 | Loss 5.0908 | KL 0.0253 | Recon 0.1376 | Reward 0.0825 | Act 0.3298 | Pose 4.5157 | 
+[Train] Epoch 32 iter 387 | Loss 5.4940 | KL 0.0252 | Recon 0.1408 | Reward 0.1607 | Act 0.3821 | Pose 4.7853 | 
+[Train] Epoch 32 iter 388 | Loss 5.0498 | KL 0.0250 | Recon 0.1466 | Reward 0.0970 | Act 0.3233 | Pose 4.4580 | 
+[Train] Epoch 32 iter 389 | Loss 4.9800 | KL 0.0249 | Recon 0.1341 | Reward 0.1487 | Act 0.3241 | Pose 4.3483 | 
+[Train] Epoch 32 iter 390 | Loss 5.5613 | KL 0.0247 | Recon 0.1376 | Reward 0.1092 | Act 0.3778 | Pose 4.9120 | 
+[Train] Epoch 32 iter 391 | Loss 5.0235 | KL 0.0245 | Recon 0.1372 | Reward 0.1090 | Act 0.3207 | Pose 4.4321 | 
+[Train] Epoch 32 iter 392 | Loss 5.2116 | KL 0.0244 | Recon 0.1430 | Reward 0.0790 | Act 0.3275 | Pose 4.6377 | 
+[Train] Epoch 32 iter 393 | Loss 5.0544 | KL 0.0242 | Recon 0.1365 | Reward 0.1091 | Act 0.3240 | Pose 4.4605 | 
+[Train] Epoch 32 iter 394 | Loss 4.9579 | KL 0.0241 | Recon 0.1420 | Reward 0.0655 | Act 0.3097 | Pose 4.4166 | 
+[Train] Epoch 32 iter 395 | Loss 5.0950 | KL 0.0239 | Recon 0.1390 | Reward 0.1390 | Act 0.3324 | Pose 4.4608 | 
+[Train] Epoch 32 iter 396 | Loss 5.0433 | KL 0.0237 | Recon 0.1378 | Reward 0.0931 | Act 0.3307 | Pose 4.4580 | 
+wm_v3_noise_01/ Epoch 32 loss 5.1581
+[val] Epoch 32  DistErr: 7.734847, NCC: 0.879810, ParaErr: 4.743130
+[Train] Epoch 33 iter 397 | Loss 5.1764 | KL 0.0236 | Recon 0.1441 | Reward 0.1326 | Act 0.3393 | Pose 4.5368 | 
+[Train] Epoch 33 iter 398 | Loss 5.4474 | KL 0.0234 | Recon 0.1377 | Reward 0.1183 | Act 0.3839 | Pose 4.7840 | 
+[Train] Epoch 33 iter 399 | Loss 5.3263 | KL 0.0233 | Recon 0.1419 | Reward 0.1603 | Act 0.3495 | Pose 4.6514 | 
+[Train] Epoch 33 iter 400 | Loss 4.8836 | KL 0.0231 | Recon 0.1365 | Reward 0.1103 | Act 0.3338 | Pose 4.2798 | 
+[Train] Epoch 33 iter 401 | Loss 5.2981 | KL 0.0230 | Recon 0.1377 | Reward 0.1125 | Act 0.3340 | Pose 4.6909 | 
+[Train] Epoch 33 iter 402 | Loss 5.5633 | KL 0.0228 | Recon 0.1446 | Reward 0.1102 | Act 0.3728 | Pose 4.9129 | 
+[Train] Epoch 33 iter 403 | Loss 5.1705 | KL 0.0227 | Recon 0.1368 | Reward 0.1252 | Act 0.3594 | Pose 4.5263 | 
+[Train] Epoch 33 iter 404 | Loss 5.2302 | KL 0.0225 | Recon 0.1371 | Reward 0.1497 | Act 0.3519 | Pose 4.5690 | 
+[Train] Epoch 33 iter 405 | Loss 5.2777 | KL 0.0224 | Recon 0.1392 | Reward 0.1018 | Act 0.3585 | Pose 4.6559 | 
+[Train] Epoch 33 iter 406 | Loss 4.9328 | KL 0.0222 | Recon 0.1344 | Reward 0.1115 | Act 0.3062 | Pose 4.3585 | 
+[Train] Epoch 33 iter 407 | Loss 5.3746 | KL 0.0221 | Recon 0.1398 | Reward 0.0874 | Act 0.3530 | Pose 4.7724 | 
+[Train] Epoch 33 iter 408 | Loss 5.1711 | KL 0.0220 | Recon 0.1332 | Reward 0.1113 | Act 0.3334 | Pose 4.5713 | 
+wm_v3_noise_01/ Epoch 33 loss 5.2377
+[val] Epoch 33  DistErr: 7.617297, NCC: 0.878632, ParaErr: 4.689713
+[Train] Epoch 34 iter 409 | Loss 4.6201 | KL 0.0218 | Recon 0.1359 | Reward 0.0694 | Act 0.2721 | Pose 4.1209 | 
+[Train] Epoch 34 iter 410 | Loss 4.6732 | KL 0.0217 | Recon 0.1385 | Reward 0.0890 | Act 0.2833 | Pose 4.1408 | 
+[Train] Epoch 34 iter 411 | Loss 4.5324 | KL 0.0215 | Recon 0.1358 | Reward 0.0996 | Act 0.2680 | Pose 4.0075 | 
+[Train] Epoch 34 iter 412 | Loss 5.3746 | KL 0.0214 | Recon 0.1359 | Reward 0.1301 | Act 0.3666 | Pose 4.7207 | 
+[Train] Epoch 34 iter 413 | Loss 5.1069 | KL 0.0212 | Recon 0.1325 | Reward 0.1052 | Act 0.3352 | Pose 4.5127 | 
+[Train] Epoch 34 iter 414 | Loss 5.0493 | KL 0.0211 | Recon 0.1392 | Reward 0.1036 | Act 0.3261 | Pose 4.4593 | 
+[Train] Epoch 34 iter 415 | Loss 4.8656 | KL 0.0210 | Recon 0.1323 | Reward 0.1267 | Act 0.2992 | Pose 4.2864 | 
+[Train] Epoch 34 iter 416 | Loss 4.7933 | KL 0.0208 | Recon 0.1315 | Reward 0.1189 | Act 0.3088 | Pose 4.2132 | 
+[Train] Epoch 34 iter 417 | Loss 5.4216 | KL 0.0207 | Recon 0.1370 | Reward 0.1317 | Act 0.3709 | Pose 4.7614 | 
+[Train] Epoch 34 iter 418 | Loss 5.2783 | KL 0.0206 | Recon 0.1415 | Reward 0.0968 | Act 0.3364 | Pose 4.6830 | 
+[Train] Epoch 34 iter 419 | Loss 5.4020 | KL 0.0204 | Recon 0.1395 | Reward 0.0797 | Act 0.3727 | Pose 4.7897 | 
+[Train] Epoch 34 iter 420 | Loss 4.9819 | KL 0.0203 | Recon 0.1382 | Reward 0.1011 | Act 0.3306 | Pose 4.3918 | 
+wm_v3_noise_01/ Epoch 34 loss 5.0083
+[val] Epoch 34  DistErr: 7.585630, NCC: 0.881698, ParaErr: 4.679158
+[Train] Epoch 35 iter 421 | Loss 4.9716 | KL 0.0201 | Recon 0.1390 | Reward 0.0742 | Act 0.3127 | Pose 4.4254 | 
+[Train] Epoch 35 iter 422 | Loss 5.2678 | KL 0.0201 | Recon 0.1375 | Reward 0.1074 | Act 0.3614 | Pose 4.6413 | 
+[Train] Epoch 35 iter 423 | Loss 5.3263 | KL 0.0200 | Recon 0.1362 | Reward 0.1076 | Act 0.3474 | Pose 4.7150 | 
+[Train] Epoch 35 iter 424 | Loss 4.8488 | KL 0.0200 | Recon 0.1368 | Reward 0.0559 | Act 0.2974 | Pose 4.3388 | 
+[Train] Epoch 35 iter 425 | Loss 6.0207 | KL 0.0199 | Recon 0.1368 | Reward 0.1574 | Act 0.4441 | Pose 5.2625 | 
+[Train] Epoch 35 iter 426 | Loss 5.4818 | KL 0.0198 | Recon 0.1349 | Reward 0.1542 | Act 0.3660 | Pose 4.8069 | 
+[Train] Epoch 35 iter 427 | Loss 4.9065 | KL 0.0198 | Recon 0.1271 | Reward 0.0706 | Act 0.3146 | Pose 4.3745 | 
+[Train] Epoch 35 iter 428 | Loss 4.7081 | KL 0.0197 | Recon 0.1348 | Reward 0.1106 | Act 0.2931 | Pose 4.1500 | 
+[Train] Epoch 35 iter 429 | Loss 5.1063 | KL 0.0196 | Recon 0.1387 | Reward 0.1080 | Act 0.3315 | Pose 4.5085 | 
+[Train] Epoch 35 iter 430 | Loss 5.1475 | KL 0.0196 | Recon 0.1409 | Reward 0.1076 | Act 0.3335 | Pose 4.5460 | 
+[Train] Epoch 35 iter 431 | Loss 5.1471 | KL 0.0195 | Recon 0.1359 | Reward 0.1008 | Act 0.3378 | Pose 4.5532 | 
+[Train] Epoch 35 iter 432 | Loss 5.3465 | KL 0.0194 | Recon 0.1368 | Reward 0.1178 | Act 0.3645 | Pose 4.7079 | 
+wm_v3_noise_01/ Epoch 35 loss 5.1899
+[val] Epoch 35  DistErr: 7.529889, NCC: 0.882867, ParaErr: 4.581648
+>> New best @ epoch 35: ParaErr=4.581648
+[Train] Epoch 36 iter 433 | Loss 5.0384 | KL 0.0194 | Recon 0.1314 | Reward 0.1262 | Act 0.3145 | Pose 4.4469 | 
+[Train] Epoch 36 iter 434 | Loss 5.1468 | KL 0.0193 | Recon 0.1376 | Reward 0.1220 | Act 0.3423 | Pose 4.5255 | 
+[Train] Epoch 36 iter 435 | Loss 5.2992 | KL 0.0192 | Recon 0.1357 | Reward 0.1277 | Act 0.3560 | Pose 4.6605 | 
+[Train] Epoch 36 iter 436 | Loss 5.1868 | KL 0.0192 | Recon 0.1354 | Reward 0.1095 | Act 0.3362 | Pose 4.5865 | 
+[Train] Epoch 36 iter 437 | Loss 5.0404 | KL 0.0191 | Recon 0.1380 | Reward 0.0633 | Act 0.3228 | Pose 4.4972 | 
+[Train] Epoch 36 iter 438 | Loss 5.1002 | KL 0.0191 | Recon 0.1315 | Reward 0.1147 | Act 0.3423 | Pose 4.4927 | 
+[Train] Epoch 36 iter 439 | Loss 5.1726 | KL 0.0190 | Recon 0.1356 | Reward 0.1210 | Act 0.3522 | Pose 4.5448 | 
+[Train] Epoch 36 iter 440 | Loss 5.3911 | KL 0.0189 | Recon 0.1343 | Reward 0.1199 | Act 0.3624 | Pose 4.7555 | 
+[Train] Epoch 36 iter 441 | Loss 4.5953 | KL 0.0189 | Recon 0.1374 | Reward 0.0922 | Act 0.2923 | Pose 4.0545 | 
+[Train] Epoch 36 iter 442 | Loss 5.4406 | KL 0.0188 | Recon 0.1406 | Reward 0.1467 | Act 0.3644 | Pose 4.7701 | 
+[Train] Epoch 36 iter 443 | Loss 5.0150 | KL 0.0187 | Recon 0.1339 | Reward 0.0962 | Act 0.3438 | Pose 4.4224 | 
+[Train] Epoch 36 iter 444 | Loss 5.5249 | KL 0.0187 | Recon 0.1385 | Reward 0.1359 | Act 0.3753 | Pose 4.8565 | 
+wm_v3_noise_01/ Epoch 36 loss 5.1626
+[val] Epoch 36  DistErr: 7.476742, NCC: 0.884028, ParaErr: 4.565085
+>> New best @ epoch 36: ParaErr=4.565085
+[Train] Epoch 37 iter 445 | Loss 4.9886 | KL 0.0186 | Recon 0.1325 | Reward 0.1138 | Act 0.3322 | Pose 4.3915 | 
+[Train] Epoch 37 iter 446 | Loss 4.7686 | KL 0.0186 | Recon 0.1362 | Reward 0.1159 | Act 0.3023 | Pose 4.1956 | 
+[Train] Epoch 37 iter 447 | Loss 5.5732 | KL 0.0185 | Recon 0.1332 | Reward 0.1634 | Act 0.3830 | Pose 4.8751 | 
+[Train] Epoch 37 iter 448 | Loss 4.9298 | KL 0.0184 | Recon 0.1387 | Reward 0.0728 | Act 0.3152 | Pose 4.3846 | 
+[Train] Epoch 37 iter 449 | Loss 4.7676 | KL 0.0184 | Recon 0.1348 | Reward 0.0795 | Act 0.3011 | Pose 4.2338 | 
+[Train] Epoch 37 iter 450 | Loss 5.5307 | KL 0.0183 | Recon 0.1385 | Reward 0.1232 | Act 0.3805 | Pose 4.8702 | 
+[Train] Epoch 37 iter 451 | Loss 5.0935 | KL 0.0183 | Recon 0.1316 | Reward 0.0829 | Act 0.3405 | Pose 4.5202 | 
+[Train] Epoch 37 iter 452 | Loss 5.3688 | KL 0.0182 | Recon 0.1335 | Reward 0.1002 | Act 0.3673 | Pose 4.7496 | 
+[Train] Epoch 37 iter 453 | Loss 5.1923 | KL 0.0181 | Recon 0.1388 | Reward 0.1136 | Act 0.3437 | Pose 4.5781 | 
+[Train] Epoch 37 iter 454 | Loss 4.7722 | KL 0.0181 | Recon 0.1369 | Reward 0.0889 | Act 0.3196 | Pose 4.2088 | 
+[Train] Epoch 37 iter 455 | Loss 4.5209 | KL 0.0180 | Recon 0.1356 | Reward 0.0846 | Act 0.2686 | Pose 4.0140 | 
+[Train] Epoch 37 iter 456 | Loss 5.3348 | KL 0.0180 | Recon 0.1312 | Reward 0.1058 | Act 0.3592 | Pose 4.7207 | 
+wm_v3_noise_01/ Epoch 37 loss 5.0701
+[val] Epoch 37  DistErr: 7.378114, NCC: 0.886080, ParaErr: 4.486274
+>> New best @ epoch 37: ParaErr=4.486274
+[Train] Epoch 38 iter 457 | Loss 5.3368 | KL 0.0179 | Recon 0.1348 | Reward 0.1385 | Act 0.3642 | Pose 4.6814 | 
+[Train] Epoch 38 iter 458 | Loss 5.1380 | KL 0.0178 | Recon 0.1416 | Reward 0.1269 | Act 0.3350 | Pose 4.5167 | 
+[Train] Epoch 38 iter 459 | Loss 4.5770 | KL 0.0178 | Recon 0.1347 | Reward 0.1144 | Act 0.2863 | Pose 4.0238 | 
+[Train] Epoch 38 iter 460 | Loss 4.9259 | KL 0.0177 | Recon 0.1335 | Reward 0.1000 | Act 0.3188 | Pose 4.3559 | 
+[Train] Epoch 38 iter 461 | Loss 5.4594 | KL 0.0177 | Recon 0.1372 | Reward 0.1239 | Act 0.3555 | Pose 4.8251 | 
+[Train] Epoch 38 iter 462 | Loss 4.8984 | KL 0.0176 | Recon 0.1337 | Reward 0.1250 | Act 0.3125 | Pose 4.3097 | 
+[Train] Epoch 38 iter 463 | Loss 5.1800 | KL 0.0175 | Recon 0.1377 | Reward 0.0840 | Act 0.3411 | Pose 4.5997 | 
+[Train] Epoch 38 iter 464 | Loss 5.1944 | KL 0.0175 | Recon 0.1331 | Reward 0.1029 | Act 0.3523 | Pose 4.5887 | 
+[Train] Epoch 38 iter 465 | Loss 4.8526 | KL 0.0174 | Recon 0.1322 | Reward 0.0880 | Act 0.3101 | Pose 4.3048 | 
+[Train] Epoch 38 iter 466 | Loss 5.1335 | KL 0.0174 | Recon 0.1339 | Reward 0.1083 | Act 0.3416 | Pose 4.5324 | 
+[Train] Epoch 38 iter 467 | Loss 4.7083 | KL 0.0173 | Recon 0.1376 | Reward 0.1256 | Act 0.3004 | Pose 4.1273 | 
+[Train] Epoch 38 iter 468 | Loss 4.8287 | KL 0.0173 | Recon 0.1316 | Reward 0.1057 | Act 0.3148 | Pose 4.2592 | 
+wm_v3_noise_01/ Epoch 38 loss 5.0194
+[val] Epoch 38  DistErr: 7.459353, NCC: 0.882714, ParaErr: 4.537279
+[Train] Epoch 39 iter 469 | Loss 5.1258 | KL 0.0172 | Recon 0.1336 | Reward 0.0847 | Act 0.3437 | Pose 4.5466 | 
+[Train] Epoch 39 iter 470 | Loss 4.9196 | KL 0.0171 | Recon 0.1302 | Reward 0.1074 | Act 0.3151 | Pose 4.3497 | 
+[Train] Epoch 39 iter 471 | Loss 4.7854 | KL 0.0171 | Recon 0.1356 | Reward 0.1196 | Act 0.3062 | Pose 4.2069 | 
+[Train] Epoch 39 iter 472 | Loss 4.8950 | KL 0.0170 | Recon 0.1313 | Reward 0.1135 | Act 0.3179 | Pose 4.3153 | 
+[Train] Epoch 39 iter 473 | Loss 4.5961 | KL 0.0170 | Recon 0.1310 | Reward 0.0840 | Act 0.2916 | Pose 4.0726 | 
+[Train] Epoch 39 iter 474 | Loss 5.4808 | KL 0.0169 | Recon 0.1304 | Reward 0.1123 | Act 0.3693 | Pose 4.8519 | 
+[Train] Epoch 39 iter 475 | Loss 5.1209 | KL 0.0168 | Recon 0.1297 | Reward 0.0823 | Act 0.3256 | Pose 4.5665 | 
+[Train] Epoch 39 iter 476 | Loss 5.5092 | KL 0.0168 | Recon 0.1323 | Reward 0.1130 | Act 0.3830 | Pose 4.8641 | 
+[Train] Epoch 39 iter 477 | Loss 4.8500 | KL 0.0167 | Recon 0.1381 | Reward 0.1311 | Act 0.3088 | Pose 4.2552 | 
+[Train] Epoch 39 iter 478 | Loss 4.9960 | KL 0.0167 | Recon 0.1362 | Reward 0.0935 | Act 0.3152 | Pose 4.4344 | 
+[Train] Epoch 39 iter 479 | Loss 5.4940 | KL 0.0166 | Recon 0.1343 | Reward 0.1115 | Act 0.3736 | Pose 4.8580 | 
+[Train] Epoch 39 iter 480 | Loss 4.9570 | KL 0.0166 | Recon 0.1326 | Reward 0.0831 | Act 0.3254 | Pose 4.3993 | 
+wm_v3_noise_01/ Epoch 39 loss 5.0608
+[val] Epoch 39  DistErr: 7.525519, NCC: 0.880729, ParaErr: 4.653689
+[Train] Epoch 40 iter 481 | Loss 5.0364 | KL 0.0165 | Recon 0.1324 | Reward 0.1113 | Act 0.3300 | Pose 4.4463 | 
+[Train] Epoch 40 iter 482 | Loss 4.9562 | KL 0.0165 | Recon 0.1354 | Reward 0.0812 | Act 0.3300 | Pose 4.3931 | 
+[Train] Epoch 40 iter 483 | Loss 5.2426 | KL 0.0164 | Recon 0.1322 | Reward 0.0952 | Act 0.3831 | Pose 4.6158 | 
+[Train] Epoch 40 iter 484 | Loss 4.8413 | KL 0.0163 | Recon 0.1303 | Reward 0.0827 | Act 0.3079 | Pose 4.3040 | 
+[Train] Epoch 40 iter 485 | Loss 4.4399 | KL 0.0163 | Recon 0.1294 | Reward 0.1054 | Act 0.2719 | Pose 3.9168 | 
+[Train] Epoch 40 iter 486 | Loss 5.4208 | KL 0.0162 | Recon 0.1362 | Reward 0.0941 | Act 0.3788 | Pose 4.7955 | 
+[Train] Epoch 40 iter 487 | Loss 4.7267 | KL 0.0162 | Recon 0.1368 | Reward 0.0769 | Act 0.2892 | Pose 4.2077 | 
+[Train] Epoch 40 iter 488 | Loss 4.7461 | KL 0.0161 | Recon 0.1309 | Reward 0.0636 | Act 0.3068 | Pose 4.2286 | 
+[Train] Epoch 40 iter 489 | Loss 4.9656 | KL 0.0161 | Recon 0.1312 | Reward 0.1269 | Act 0.3204 | Pose 4.3710 | 
+[Train] Epoch 40 iter 490 | Loss 4.8976 | KL 0.0160 | Recon 0.1334 | Reward 0.0845 | Act 0.3135 | Pose 4.3502 | 
+[Train] Epoch 40 iter 491 | Loss 5.0082 | KL 0.0160 | Recon 0.1280 | Reward 0.0962 | Act 0.3352 | Pose 4.4328 | 
+[Train] Epoch 40 iter 492 | Loss 4.3408 | KL 0.0159 | Recon 0.1323 | Reward 0.0983 | Act 0.2690 | Pose 3.8253 | 
+wm_v3_noise_01/ Epoch 40 loss 4.8852
+[val] Epoch 40  DistErr: 7.349982, NCC: 0.887163, ParaErr: 4.435615
+>> New best @ epoch 40: ParaErr=4.435615
+[Train] Epoch 41 iter 493 | Loss 5.2390 | KL 0.0158 | Recon 0.1321 | Reward 0.1140 | Act 0.3697 | Pose 4.6074 | 
+[Train] Epoch 41 iter 494 | Loss 4.5877 | KL 0.0158 | Recon 0.1347 | Reward 0.0836 | Act 0.2914 | Pose 4.0621 | 
+[Train] Epoch 41 iter 495 | Loss 4.6939 | KL 0.0157 | Recon 0.1322 | Reward 0.1024 | Act 0.2946 | Pose 4.1490 | 
+[Train] Epoch 41 iter 496 | Loss 4.8692 | KL 0.0157 | Recon 0.1289 | Reward 0.1317 | Act 0.3186 | Pose 4.2744 | 
+[Train] Epoch 41 iter 497 | Loss 4.6182 | KL 0.0156 | Recon 0.1308 | Reward 0.1214 | Act 0.2943 | Pose 4.0561 | 
+[Train] Epoch 41 iter 498 | Loss 5.1336 | KL 0.0157 | Recon 0.1305 | Reward 0.1425 | Act 0.3448 | Pose 4.5001 | 
+[Train] Epoch 41 iter 499 | Loss 4.8692 | KL 0.0155 | Recon 0.1297 | Reward 0.1009 | Act 0.3091 | Pose 4.3140 | 
+[Train] Epoch 41 iter 500 | Loss 4.4573 | KL 0.0155 | Recon 0.1277 | Reward 0.1086 | Act 0.2755 | Pose 3.9300 | 
+[Train] Epoch 41 iter 501 | Loss 5.2791 | KL 0.0154 | Recon 0.1311 | Reward 0.1058 | Act 0.3489 | Pose 4.6778 | 
+[Train] Epoch 41 iter 502 | Loss 5.1559 | KL 0.0154 | Recon 0.1306 | Reward 0.0994 | Act 0.3616 | Pose 4.5490 | 
+[Train] Epoch 41 iter 503 | Loss 5.1001 | KL 0.0153 | Recon 0.1287 | Reward 0.1092 | Act 0.3319 | Pose 4.5150 | 
+[Train] Epoch 41 iter 504 | Loss 4.8492 | KL 0.0153 | Recon 0.1295 | Reward 0.1019 | Act 0.3304 | Pose 4.2722 | 
+wm_v3_noise_01/ Epoch 41 loss 4.9044
+[val] Epoch 41  DistErr: 7.346251, NCC: 0.886902, ParaErr: 4.451879
+[Train] Epoch 42 iter 505 | Loss 4.7414 | KL 0.0152 | Recon 0.1293 | Reward 0.0894 | Act 0.2930 | Pose 4.2145 | 
+[Train] Epoch 42 iter 506 | Loss 5.0063 | KL 0.0152 | Recon 0.1304 | Reward 0.0984 | Act 0.3197 | Pose 4.4427 | 
+[Train] Epoch 42 iter 507 | Loss 4.7724 | KL 0.0151 | Recon 0.1307 | Reward 0.0832 | Act 0.3118 | Pose 4.2316 | 
+[Train] Epoch 42 iter 508 | Loss 4.7537 | KL 0.0151 | Recon 0.1269 | Reward 0.0855 | Act 0.3143 | Pose 4.2119 | 
+[Train] Epoch 42 iter 509 | Loss 4.7206 | KL 0.0150 | Recon 0.1286 | Reward 0.0814 | Act 0.3062 | Pose 4.1895 | 
+[Train] Epoch 42 iter 510 | Loss 4.6129 | KL 0.0150 | Recon 0.1291 | Reward 0.0883 | Act 0.2994 | Pose 4.0811 | 
+[Train] Epoch 42 iter 511 | Loss 4.8725 | KL 0.0149 | Recon 0.1305 | Reward 0.1560 | Act 0.3150 | Pose 4.2561 | 
+[Train] Epoch 42 iter 512 | Loss 5.4655 | KL 0.0149 | Recon 0.1288 | Reward 0.1330 | Act 0.3642 | Pose 4.8247 | 
+[Train] Epoch 42 iter 513 | Loss 5.1984 | KL 0.0148 | Recon 0.1280 | Reward 0.1236 | Act 0.3522 | Pose 4.5799 | 
+[Train] Epoch 42 iter 514 | Loss 4.7864 | KL 0.0147 | Recon 0.1282 | Reward 0.1003 | Act 0.2995 | Pose 4.2436 | 
+[Train] Epoch 42 iter 515 | Loss 5.1716 | KL 0.0147 | Recon 0.1277 | Reward 0.1387 | Act 0.3568 | Pose 4.5337 | 
+[Train] Epoch 42 iter 516 | Loss 4.7441 | KL 0.0146 | Recon 0.1279 | Reward 0.1210 | Act 0.3118 | Pose 4.1687 | 
+wm_v3_noise_01/ Epoch 42 loss 4.9038
+[val] Epoch 42  DistErr: 7.365656, NCC: 0.886973, ParaErr: 4.425246
+>> New best @ epoch 42: ParaErr=4.425246
+[Train] Epoch 43 iter 517 | Loss 4.9779 | KL 0.0146 | Recon 0.1284 | Reward 0.1034 | Act 0.3164 | Pose 4.4150 | 
+[Train] Epoch 43 iter 518 | Loss 5.3563 | KL 0.0145 | Recon 0.1318 | Reward 0.0882 | Act 0.3626 | Pose 4.7591 | 
+[Train] Epoch 43 iter 519 | Loss 4.3483 | KL 0.0145 | Recon 0.1316 | Reward 0.0904 | Act 0.2837 | Pose 3.8281 | 
+[Train] Epoch 43 iter 520 | Loss 4.9508 | KL 0.0144 | Recon 0.1318 | Reward 0.0848 | Act 0.3370 | Pose 4.3828 | 
+[Train] Epoch 43 iter 521 | Loss 4.8254 | KL 0.0144 | Recon 0.1317 | Reward 0.0859 | Act 0.3219 | Pose 4.2715 | 
+[Train] Epoch 43 iter 522 | Loss 5.0118 | KL 0.0143 | Recon 0.1286 | Reward 0.1218 | Act 0.3376 | Pose 4.4095 | 
+[Train] Epoch 43 iter 523 | Loss 4.8810 | KL 0.0143 | Recon 0.1307 | Reward 0.0726 | Act 0.3312 | Pose 4.3322 | 
+[Train] Epoch 43 iter 524 | Loss 4.4882 | KL 0.0142 | Recon 0.1236 | Reward 0.0957 | Act 0.2867 | Pose 3.9679 | 
+[Train] Epoch 43 iter 525 | Loss 5.2384 | KL 0.0142 | Recon 0.1284 | Reward 0.1138 | Act 0.3535 | Pose 4.6286 | 
+[Train] Epoch 43 iter 526 | Loss 4.8968 | KL 0.0141 | Recon 0.1280 | Reward 0.1130 | Act 0.3246 | Pose 4.3171 | 
+[Train] Epoch 43 iter 527 | Loss 4.6714 | KL 0.0141 | Recon 0.1307 | Reward 0.1418 | Act 0.3085 | Pose 4.0762 | 
+[Train] Epoch 43 iter 528 | Loss 4.7835 | KL 0.0141 | Recon 0.1340 | Reward 0.1078 | Act 0.3157 | Pose 4.2119 | 
+wm_v3_noise_01/ Epoch 43 loss 4.8692
+[val] Epoch 43  DistErr: 7.385559, NCC: 0.886196, ParaErr: 4.471714
+[Train] Epoch 44 iter 529 | Loss 4.6348 | KL 0.0140 | Recon 0.1293 | Reward 0.1047 | Act 0.3066 | Pose 4.0803 | 
+[Train] Epoch 44 iter 530 | Loss 5.1459 | KL 0.0140 | Recon 0.1306 | Reward 0.1248 | Act 0.3357 | Pose 4.5408 | 
+[Train] Epoch 44 iter 531 | Loss 5.0101 | KL 0.0140 | Recon 0.1324 | Reward 0.1366 | Act 0.3237 | Pose 4.4034 | 
+[Train] Epoch 44 iter 532 | Loss 4.9046 | KL 0.0139 | Recon 0.1276 | Reward 0.1310 | Act 0.3135 | Pose 4.3185 | 
+[Train] Epoch 44 iter 533 | Loss 4.8003 | KL 0.0139 | Recon 0.1267 | Reward 0.1151 | Act 0.3141 | Pose 4.2306 | 
+[Train] Epoch 44 iter 534 | Loss 4.9949 | KL 0.0139 | Recon 0.1292 | Reward 0.0993 | Act 0.3274 | Pose 4.4251 | 
+[Train] Epoch 44 iter 535 | Loss 5.2197 | KL 0.0139 | Recon 0.1294 | Reward 0.0940 | Act 0.3591 | Pose 4.6234 | 
+[Train] Epoch 44 iter 536 | Loss 4.8335 | KL 0.0138 | Recon 0.1319 | Reward 0.0828 | Act 0.3045 | Pose 4.3006 | 
+[Train] Epoch 44 iter 537 | Loss 4.9093 | KL 0.0138 | Recon 0.1262 | Reward 0.0785 | Act 0.3196 | Pose 4.3712 | 
+[Train] Epoch 44 iter 538 | Loss 4.6435 | KL 0.0138 | Recon 0.1282 | Reward 0.1154 | Act 0.2914 | Pose 4.0948 | 
+[Train] Epoch 44 iter 539 | Loss 4.9137 | KL 0.0138 | Recon 0.1329 | Reward 0.1239 | Act 0.3133 | Pose 4.3297 | 
+[Train] Epoch 44 iter 540 | Loss 4.3699 | KL 0.0137 | Recon 0.1273 | Reward 0.1224 | Act 0.2779 | Pose 3.8285 | 
+wm_v3_noise_01/ Epoch 44 loss 4.8650
+[val] Epoch 44  DistErr: 7.435731, NCC: 0.884965, ParaErr: 4.527103
+[Train] Epoch 45 iter 541 | Loss 4.9517 | KL 0.0137 | Recon 0.1275 | Reward 0.1339 | Act 0.3242 | Pose 4.3525 | 
+[Train] Epoch 45 iter 542 | Loss 4.7443 | KL 0.0137 | Recon 0.1278 | Reward 0.1181 | Act 0.3140 | Pose 4.1707 | 
+[Train] Epoch 45 iter 543 | Loss 4.5524 | KL 0.0137 | Recon 0.1239 | Reward 0.0844 | Act 0.2938 | Pose 4.0366 | 
+[Train] Epoch 45 iter 544 | Loss 4.9136 | KL 0.0136 | Recon 0.1263 | Reward 0.0750 | Act 0.3279 | Pose 4.3708 | 
+[Train] Epoch 45 iter 545 | Loss 4.5702 | KL 0.0136 | Recon 0.1281 | Reward 0.1029 | Act 0.2885 | Pose 4.0372 | 
+[Train] Epoch 45 iter 546 | Loss 4.3678 | KL 0.0136 | Recon 0.1260 | Reward 0.0855 | Act 0.2701 | Pose 3.8725 | 
+[Train] Epoch 45 iter 547 | Loss 4.4073 | KL 0.0136 | Recon 0.1278 | Reward 0.1197 | Act 0.2707 | Pose 3.8754 | 
+[Train] Epoch 45 iter 548 | Loss 4.5907 | KL 0.0135 | Recon 0.1359 | Reward 0.1112 | Act 0.2943 | Pose 4.0358 | 
+[Train] Epoch 45 iter 549 | Loss 4.8309 | KL 0.0135 | Recon 0.1307 | Reward 0.1069 | Act 0.3146 | Pose 4.2651 | 
+[Train] Epoch 45 iter 550 | Loss 4.7181 | KL 0.0135 | Recon 0.1256 | Reward 0.1231 | Act 0.2997 | Pose 4.1561 | 
+[Train] Epoch 45 iter 551 | Loss 4.9079 | KL 0.0135 | Recon 0.1261 | Reward 0.0830 | Act 0.3262 | Pose 4.3591 | 
+[Train] Epoch 45 iter 552 | Loss 4.7985 | KL 0.0134 | Recon 0.1294 | Reward 0.0788 | Act 0.3083 | Pose 4.2685 | 
+wm_v3_noise_01/ Epoch 45 loss 4.6961
+[val] Epoch 45  DistErr: 7.319660, NCC: 0.888506, ParaErr: 4.411099
+>> New best @ epoch 45: ParaErr=4.411099
+[Train] Epoch 46 iter 553 | Loss 5.0717 | KL 0.0134 | Recon 0.1260 | Reward 0.1177 | Act 0.3509 | Pose 4.4637 | 
+[Train] Epoch 46 iter 554 | Loss 4.3635 | KL 0.0134 | Recon 0.1292 | Reward 0.0887 | Act 0.2727 | Pose 3.8594 | 
+[Train] Epoch 46 iter 555 | Loss 4.8861 | KL 0.0134 | Recon 0.1256 | Reward 0.0931 | Act 0.3139 | Pose 4.3400 | 
+[Train] Epoch 46 iter 556 | Loss 4.6446 | KL 0.0134 | Recon 0.1286 | Reward 0.1263 | Act 0.2979 | Pose 4.0785 | 
+[Train] Epoch 46 iter 557 | Loss 4.4496 | KL 0.0133 | Recon 0.1267 | Reward 0.0980 | Act 0.2792 | Pose 3.9323 | 
+[Train] Epoch 46 iter 558 | Loss 4.7321 | KL 0.0133 | Recon 0.1291 | Reward 0.1303 | Act 0.3137 | Pose 4.1456 | 
+[Train] Epoch 46 iter 559 | Loss 4.9420 | KL 0.0133 | Recon 0.1246 | Reward 0.1269 | Act 0.3326 | Pose 4.3446 | 
+[Train] Epoch 46 iter 560 | Loss 4.8971 | KL 0.0133 | Recon 0.1269 | Reward 0.1296 | Act 0.3228 | Pose 4.3045 | 
+[Train] Epoch 46 iter 561 | Loss 5.0364 | KL 0.0132 | Recon 0.1263 | Reward 0.0798 | Act 0.3253 | Pose 4.4918 | 
+[Train] Epoch 46 iter 562 | Loss 4.7356 | KL 0.0132 | Recon 0.1238 | Reward 0.1051 | Act 0.3030 | Pose 4.1905 | 
+[Train] Epoch 46 iter 563 | Loss 4.7664 | KL 0.0132 | Recon 0.1291 | Reward 0.1061 | Act 0.3261 | Pose 4.1918 | 
+[Train] Epoch 46 iter 564 | Loss 5.7134 | KL 0.0132 | Recon 0.1295 | Reward 0.1363 | Act 0.4183 | Pose 5.0161 | 
+wm_v3_noise_01/ Epoch 46 loss 4.8532
+[val] Epoch 46  DistErr: 7.339444, NCC: 0.888306, ParaErr: 4.431691
+[Train] Epoch 47 iter 565 | Loss 5.0918 | KL 0.0131 | Recon 0.1267 | Reward 0.1238 | Act 0.3560 | Pose 4.4722 | 
+[Train] Epoch 47 iter 566 | Loss 4.6244 | KL 0.0131 | Recon 0.1262 | Reward 0.0844 | Act 0.2841 | Pose 4.1166 | 
+[Train] Epoch 47 iter 567 | Loss 4.4120 | KL 0.0131 | Recon 0.1241 | Reward 0.1000 | Act 0.2753 | Pose 3.8994 | 
+[Train] Epoch 47 iter 568 | Loss 5.4192 | KL 0.0131 | Recon 0.1313 | Reward 0.1010 | Act 0.3649 | Pose 4.8090 | 
+[Train] Epoch 47 iter 569 | Loss 4.3173 | KL 0.0130 | Recon 0.1306 | Reward 0.1070 | Act 0.2635 | Pose 3.8032 | 
+[Train] Epoch 47 iter 570 | Loss 4.9819 | KL 0.0130 | Recon 0.1281 | Reward 0.0942 | Act 0.3282 | Pose 4.4184 | 
+[Train] Epoch 47 iter 571 | Loss 4.9324 | KL 0.0130 | Recon 0.1245 | Reward 0.0991 | Act 0.3293 | Pose 4.3665 | 
+[Train] Epoch 47 iter 572 | Loss 4.5092 | KL 0.0130 | Recon 0.1273 | Reward 0.0867 | Act 0.2832 | Pose 3.9991 | 
+[Train] Epoch 47 iter 573 | Loss 4.7569 | KL 0.0130 | Recon 0.1239 | Reward 0.0879 | Act 0.3107 | Pose 4.2214 | 
+[Train] Epoch 47 iter 574 | Loss 5.3676 | KL 0.0129 | Recon 0.1258 | Reward 0.0604 | Act 0.3668 | Pose 4.8017 | 
+[Train] Epoch 47 iter 575 | Loss 4.5309 | KL 0.0129 | Recon 0.1230 | Reward 0.0695 | Act 0.2829 | Pose 4.0426 | 
+[Train] Epoch 47 iter 576 | Loss 5.3497 | KL 0.0129 | Recon 0.1302 | Reward 0.1486 | Act 0.3757 | Pose 4.6823 | 
+wm_v3_noise_01/ Epoch 47 loss 4.8578
+[val] Epoch 47  DistErr: 7.438882, NCC: 0.885607, ParaErr: 4.518444
+[Train] Epoch 48 iter 577 | Loss 5.0420 | KL 0.0129 | Recon 0.1242 | Reward 0.1054 | Act 0.3534 | Pose 4.4462 | 
+[Train] Epoch 48 iter 578 | Loss 4.7117 | KL 0.0128 | Recon 0.1239 | Reward 0.1418 | Act 0.3128 | Pose 4.1202 | 
+[Train] Epoch 48 iter 579 | Loss 4.6613 | KL 0.0128 | Recon 0.1250 | Reward 0.0973 | Act 0.3081 | Pose 4.1180 | 
+[Train] Epoch 48 iter 580 | Loss 5.0492 | KL 0.0128 | Recon 0.1258 | Reward 0.1175 | Act 0.3427 | Pose 4.4504 | 
+[Train] Epoch 48 iter 581 | Loss 4.6343 | KL 0.0128 | Recon 0.1300 | Reward 0.1064 | Act 0.2975 | Pose 4.0876 | 
+[Train] Epoch 48 iter 582 | Loss 4.7429 | KL 0.0127 | Recon 0.1288 | Reward 0.1102 | Act 0.3008 | Pose 4.1904 | 
+[Train] Epoch 48 iter 583 | Loss 4.5465 | KL 0.0127 | Recon 0.1301 | Reward 0.0787 | Act 0.2874 | Pose 4.0376 | 
+[Train] Epoch 48 iter 584 | Loss 4.7553 | KL 0.0127 | Recon 0.1260 | Reward 0.0942 | Act 0.3001 | Pose 4.2223 | 
+[Train] Epoch 48 iter 585 | Loss 4.4475 | KL 0.0127 | Recon 0.1225 | Reward 0.0880 | Act 0.2881 | Pose 3.9362 | 
+[Train] Epoch 48 iter 586 | Loss 4.8057 | KL 0.0127 | Recon 0.1272 | Reward 0.0806 | Act 0.3214 | Pose 4.2639 | 
+[Train] Epoch 48 iter 587 | Loss 4.6344 | KL 0.0126 | Recon 0.1273 | Reward 0.0921 | Act 0.2883 | Pose 4.1139 | 
+[Train] Epoch 48 iter 588 | Loss 4.6809 | KL 0.0126 | Recon 0.1252 | Reward 0.1024 | Act 0.3015 | Pose 4.1393 | 
+wm_v3_noise_01/ Epoch 48 loss 4.7260
+[val] Epoch 48  DistErr: 7.409736, NCC: 0.888370, ParaErr: 4.455214
+[Train] Epoch 49 iter 589 | Loss 4.6735 | KL 0.0126 | Recon 0.1261 | Reward 0.1096 | Act 0.3039 | Pose 4.1213 | 
+[Train] Epoch 49 iter 590 | Loss 5.1813 | KL 0.0126 | Recon 0.1251 | Reward 0.1511 | Act 0.3428 | Pose 4.5497 | 
+[Train] Epoch 49 iter 591 | Loss 5.0807 | KL 0.0126 | Recon 0.1259 | Reward 0.1416 | Act 0.3431 | Pose 4.4575 | 
+[Train] Epoch 49 iter 592 | Loss 4.7357 | KL 0.0126 | Recon 0.1268 | Reward 0.0677 | Act 0.2934 | Pose 4.2352 | 
+[Train] Epoch 49 iter 593 | Loss 4.8898 | KL 0.0125 | Recon 0.1267 | Reward 0.0927 | Act 0.3217 | Pose 4.3362 | 
+[Train] Epoch 49 iter 594 | Loss 5.1612 | KL 0.0125 | Recon 0.1300 | Reward 0.1158 | Act 0.3522 | Pose 4.5506 | 
+[Train] Epoch 49 iter 595 | Loss 4.5548 | KL 0.0125 | Recon 0.1250 | Reward 0.1109 | Act 0.2891 | Pose 4.0173 | 
+[Train] Epoch 49 iter 596 | Loss 4.6063 | KL 0.0125 | Recon 0.1297 | Reward 0.0825 | Act 0.2897 | Pose 4.0919 | 
+[Train] Epoch 49 iter 597 | Loss 4.9738 | KL 0.0126 | Recon 0.1260 | Reward 0.1092 | Act 0.3251 | Pose 4.4009 | 
+[Train] Epoch 49 iter 598 | Loss 4.9542 | KL 0.0125 | Recon 0.1189 | Reward 0.0946 | Act 0.3368 | Pose 4.3914 | 
+[Train] Epoch 49 iter 599 | Loss 4.7535 | KL 0.0125 | Recon 0.1256 | Reward 0.0973 | Act 0.3015 | Pose 4.2167 | 
+[Train] Epoch 49 iter 600 | Loss 4.6474 | KL 0.0125 | Recon 0.1294 | Reward 0.1075 | Act 0.2971 | Pose 4.1010 | 
+wm_v3_noise_01/ Epoch 49 loss 4.8510
+[val] Epoch 49  DistErr: 7.303568, NCC: 0.889150, ParaErr: 4.399821
+>> New best @ epoch 49: ParaErr=4.399821
+[Train] Epoch 50 iter 601 | Loss 4.8496 | KL 0.0125 | Recon 0.1282 | Reward 0.1388 | Act 0.3245 | Pose 4.2456 | 
+[Train] Epoch 50 iter 602 | Loss 5.0057 | KL 0.0124 | Recon 0.1293 | Reward 0.0945 | Act 0.3279 | Pose 4.4415 | 
+[Train] Epoch 50 iter 603 | Loss 4.5529 | KL 0.0124 | Recon 0.1256 | Reward 0.1111 | Act 0.2751 | Pose 4.0287 | 
+[Train] Epoch 50 iter 604 | Loss 4.5486 | KL 0.0124 | Recon 0.1266 | Reward 0.0841 | Act 0.2922 | Pose 4.0334 | 
+[Train] Epoch 50 iter 605 | Loss 4.9892 | KL 0.0124 | Recon 0.1295 | Reward 0.1041 | Act 0.3436 | Pose 4.3996 | 
+[Train] Epoch 50 iter 606 | Loss 5.1836 | KL 0.0124 | Recon 0.1263 | Reward 0.1034 | Act 0.3472 | Pose 4.5943 | 
+[Train] Epoch 50 iter 607 | Loss 4.4544 | KL 0.0124 | Recon 0.1225 | Reward 0.0758 | Act 0.2853 | Pose 3.9584 | 
+[Train] Epoch 50 iter 608 | Loss 4.4707 | KL 0.0124 | Recon 0.1228 | Reward 0.0749 | Act 0.2750 | Pose 3.9857 | 
+[Train] Epoch 50 iter 609 | Loss 4.5897 | KL 0.0124 | Recon 0.1277 | Reward 0.0849 | Act 0.2981 | Pose 4.0666 | 
+[Train] Epoch 50 iter 610 | Loss 4.1799 | KL 0.0123 | Recon 0.1236 | Reward 0.1059 | Act 0.2692 | Pose 3.6689 | 
+[Train] Epoch 50 iter 611 | Loss 4.4644 | KL 0.0123 | Recon 0.1222 | Reward 0.1034 | Act 0.2937 | Pose 3.9327 | 
+[Train] Epoch 50 iter 612 | Loss 4.5489 | KL 0.0123 | Recon 0.1266 | Reward 0.0885 | Act 0.2915 | Pose 4.0300 | 
+wm_v3_noise_01/ Epoch 50 loss 4.6531
+[val] Epoch 50  DistErr: 7.365342, NCC: 0.887867, ParaErr: 4.479930
+[Train] Epoch 51 iter 613 | Loss 5.2724 | KL 0.0123 | Recon 0.1268 | Reward 0.0980 | Act 0.3632 | Pose 4.6721 | 
+[Train] Epoch 51 iter 614 | Loss 4.8280 | KL 0.0123 | Recon 0.1224 | Reward 0.0937 | Act 0.2944 | Pose 4.3052 | 
+[Train] Epoch 51 iter 615 | Loss 4.7586 | KL 0.0123 | Recon 0.1277 | Reward 0.1293 | Act 0.3218 | Pose 4.1675 | 
+[Train] Epoch 51 iter 616 | Loss 4.7328 | KL 0.0123 | Recon 0.1259 | Reward 0.1042 | Act 0.3073 | Pose 4.1831 | 
+[Train] Epoch 51 iter 617 | Loss 4.9730 | KL 0.0123 | Recon 0.1253 | Reward 0.1064 | Act 0.3303 | Pose 4.3987 | 
+[Train] Epoch 51 iter 618 | Loss 4.8343 | KL 0.0123 | Recon 0.1270 | Reward 0.0949 | Act 0.3169 | Pose 4.2832 | 
+[Train] Epoch 51 iter 619 | Loss 5.0867 | KL 0.0122 | Recon 0.1274 | Reward 0.1491 | Act 0.3448 | Pose 4.4531 | 
+[Train] Epoch 51 iter 620 | Loss 5.2884 | KL 0.0122 | Recon 0.1281 | Reward 0.0895 | Act 0.3543 | Pose 4.7043 | 
+[Train] Epoch 51 iter 621 | Loss 4.4288 | KL 0.0122 | Recon 0.1302 | Reward 0.0619 | Act 0.2694 | Pose 3.9551 | 
+[Train] Epoch 51 iter 622 | Loss 4.5987 | KL 0.0122 | Recon 0.1272 | Reward 0.0670 | Act 0.3009 | Pose 4.0914 | 
+[Train] Epoch 51 iter 623 | Loss 4.8840 | KL 0.0122 | Recon 0.1252 | Reward 0.1026 | Act 0.3336 | Pose 4.3104 | 
+[Train] Epoch 51 iter 624 | Loss 4.6177 | KL 0.0122 | Recon 0.1243 | Reward 0.1333 | Act 0.3057 | Pose 4.0422 | 
+wm_v3_noise_01/ Epoch 51 loss 4.8586
+[val] Epoch 51  DistErr: 7.312689, NCC: 0.889581, ParaErr: 4.421568
+[Train] Epoch 52 iter 625 | Loss 4.6874 | KL 0.0122 | Recon 0.1256 | Reward 0.0712 | Act 0.3031 | Pose 4.1753 | 
+[Train] Epoch 52 iter 626 | Loss 5.1351 | KL 0.0122 | Recon 0.1275 | Reward 0.1177 | Act 0.3484 | Pose 4.5294 | 
+[Train] Epoch 52 iter 627 | Loss 4.6671 | KL 0.0122 | Recon 0.1265 | Reward 0.0996 | Act 0.2951 | Pose 4.1338 | 
+[Train] Epoch 52 iter 628 | Loss 4.3202 | KL 0.0121 | Recon 0.1269 | Reward 0.0866 | Act 0.2700 | Pose 3.8247 | 
+[Train] Epoch 52 iter 629 | Loss 4.4908 | KL 0.0121 | Recon 0.1298 | Reward 0.0858 | Act 0.2960 | Pose 3.9670 | 
+[Train] Epoch 52 iter 630 | Loss 4.9311 | KL 0.0121 | Recon 0.1283 | Reward 0.1006 | Act 0.3329 | Pose 4.3572 | 
+[Train] Epoch 52 iter 631 | Loss 4.1109 | KL 0.0121 | Recon 0.1221 | Reward 0.0619 | Act 0.2357 | Pose 3.6790 | 
+[Train] Epoch 52 iter 632 | Loss 4.4412 | KL 0.0121 | Recon 0.1254 | Reward 0.0810 | Act 0.2797 | Pose 3.9429 | 
+[Train] Epoch 52 iter 633 | Loss 5.1123 | KL 0.0121 | Recon 0.1237 | Reward 0.1030 | Act 0.3340 | Pose 4.5396 | 
+[Train] Epoch 52 iter 634 | Loss 4.7308 | KL 0.0121 | Recon 0.1255 | Reward 0.1020 | Act 0.3109 | Pose 4.1803 | 
+[Train] Epoch 52 iter 635 | Loss 5.0094 | KL 0.0121 | Recon 0.1233 | Reward 0.1015 | Act 0.3612 | Pose 4.4113 | 
+[Train] Epoch 52 iter 636 | Loss 5.5020 | KL 0.0121 | Recon 0.1267 | Reward 0.2022 | Act 0.3891 | Pose 4.7719 | 
+wm_v3_noise_01/ Epoch 52 loss 4.7615
+[val] Epoch 52  DistErr: 7.308682, NCC: 0.889572, ParaErr: 4.414570
+[Train] Epoch 53 iter 637 | Loss 4.4794 | KL 0.0120 | Recon 0.1246 | Reward 0.1053 | Act 0.2914 | Pose 3.9460 | 
+[Train] Epoch 53 iter 638 | Loss 4.5061 | KL 0.0120 | Recon 0.1237 | Reward 0.1041 | Act 0.2909 | Pose 3.9754 | 
+[Train] Epoch 53 iter 639 | Loss 5.1978 | KL 0.0120 | Recon 0.1235 | Reward 0.1296 | Act 0.3581 | Pose 4.5747 | 
+[Train] Epoch 53 iter 640 | Loss 4.7195 | KL 0.0120 | Recon 0.1276 | Reward 0.1067 | Act 0.3066 | Pose 4.1666 | 
+[Train] Epoch 53 iter 641 | Loss 4.6131 | KL 0.0120 | Recon 0.1228 | Reward 0.0793 | Act 0.2909 | Pose 4.1080 | 
+[Train] Epoch 53 iter 642 | Loss 4.9059 | KL 0.0120 | Recon 0.1237 | Reward 0.1095 | Act 0.3415 | Pose 4.3192 | 
+[Train] Epoch 53 iter 643 | Loss 4.7579 | KL 0.0120 | Recon 0.1243 | Reward 0.0978 | Act 0.3077 | Pose 4.2161 | 
+[Train] Epoch 53 iter 644 | Loss 5.1061 | KL 0.0120 | Recon 0.1219 | Reward 0.0895 | Act 0.3572 | Pose 4.5254 | 
+[Train] Epoch 53 iter 645 | Loss 4.6558 | KL 0.0120 | Recon 0.1246 | Reward 0.0838 | Act 0.3315 | Pose 4.1039 | 
+[Train] Epoch 53 iter 646 | Loss 4.5443 | KL 0.0120 | Recon 0.1264 | Reward 0.0964 | Act 0.3014 | Pose 4.0080 | 
+[Train] Epoch 53 iter 647 | Loss 4.9648 | KL 0.0120 | Recon 0.1337 | Reward 0.0781 | Act 0.3354 | Pose 4.4056 | 
+[Train] Epoch 53 iter 648 | Loss 4.3553 | KL 0.0120 | Recon 0.1278 | Reward 0.0589 | Act 0.2665 | Pose 3.8901 | 
+wm_v3_noise_01/ Epoch 53 loss 4.7338
+[val] Epoch 53  DistErr: 7.379855, NCC: 0.887974, ParaErr: 4.476343
+[Train] Epoch 54 iter 649 | Loss 4.8763 | KL 0.0120 | Recon 0.1272 | Reward 0.1164 | Act 0.3244 | Pose 4.2964 | 
+[Train] Epoch 54 iter 650 | Loss 3.8938 | KL 0.0120 | Recon 0.1247 | Reward 0.0710 | Act 0.2242 | Pose 3.4619 | 
+[Train] Epoch 54 iter 651 | Loss 5.1170 | KL 0.0120 | Recon 0.1266 | Reward 0.0998 | Act 0.3670 | Pose 4.5118 | 
+[Train] Epoch 54 iter 652 | Loss 3.9350 | KL 0.0120 | Recon 0.1227 | Reward 0.1017 | Act 0.2350 | Pose 3.4635 | 
+[Train] Epoch 54 iter 653 | Loss 5.2369 | KL 0.0120 | Recon 0.1230 | Reward 0.1273 | Act 0.3455 | Pose 4.6292 | 
+[Train] Epoch 54 iter 654 | Loss 4.5785 | KL 0.0119 | Recon 0.1241 | Reward 0.0951 | Act 0.3045 | Pose 4.0428 | 
+[Train] Epoch 54 iter 655 | Loss 5.1430 | KL 0.0119 | Recon 0.1270 | Reward 0.1478 | Act 0.3585 | Pose 4.4978 | 
+[Train] Epoch 54 iter 656 | Loss 4.7020 | KL 0.0119 | Recon 0.1287 | Reward 0.0900 | Act 0.2934 | Pose 4.1780 | 
+[Train] Epoch 54 iter 657 | Loss 5.3571 | KL 0.0119 | Recon 0.1276 | Reward 0.0987 | Act 0.3702 | Pose 4.7487 | 
+[Train] Epoch 54 iter 658 | Loss 4.7995 | KL 0.0119 | Recon 0.1239 | Reward 0.1766 | Act 0.3280 | Pose 4.1591 | 
+[Train] Epoch 54 iter 659 | Loss 4.4728 | KL 0.0119 | Recon 0.1267 | Reward 0.0895 | Act 0.3069 | Pose 3.9378 | 
+[Train] Epoch 54 iter 660 | Loss 4.2966 | KL 0.0119 | Recon 0.1236 | Reward 0.0631 | Act 0.2738 | Pose 3.8242 | 
+wm_v3_noise_01/ Epoch 54 loss 4.7007
+[val] Epoch 54  DistErr: 7.348637, NCC: 0.888495, ParaErr: 4.443364
+[Train] Epoch 55 iter 661 | Loss 4.7636 | KL 0.0119 | Recon 0.1257 | Reward 0.1265 | Act 0.3332 | Pose 4.1664 | 
+[Train] Epoch 55 iter 662 | Loss 4.8807 | KL 0.0119 | Recon 0.1288 | Reward 0.1204 | Act 0.3223 | Pose 4.2972 | 
+[Train] Epoch 55 iter 663 | Loss 4.6408 | KL 0.0119 | Recon 0.1261 | Reward 0.0766 | Act 0.3030 | Pose 4.1231 | 
+[Train] Epoch 55 iter 664 | Loss 5.0989 | KL 0.0119 | Recon 0.1242 | Reward 0.1132 | Act 0.3460 | Pose 4.5036 | 
+[Train] Epoch 55 iter 665 | Loss 5.5358 | KL 0.0119 | Recon 0.1267 | Reward 0.0994 | Act 0.3968 | Pose 4.9009 | 
+[Train] Epoch 55 iter 666 | Loss 4.9237 | KL 0.0119 | Recon 0.1272 | Reward 0.1144 | Act 0.3260 | Pose 4.3442 | 
+[Train] Epoch 55 iter 667 | Loss 3.9846 | KL 0.0119 | Recon 0.1216 | Reward 0.0731 | Act 0.2322 | Pose 3.5459 | 
+[Train] Epoch 55 iter 668 | Loss 4.9509 | KL 0.0119 | Recon 0.1250 | Reward 0.1425 | Act 0.3334 | Pose 4.3381 | 
+[Train] Epoch 55 iter 669 | Loss 4.4884 | KL 0.0119 | Recon 0.1221 | Reward 0.1290 | Act 0.2976 | Pose 3.9278 | 
+[Train] Epoch 55 iter 670 | Loss 4.8669 | KL 0.0119 | Recon 0.1287 | Reward 0.1166 | Act 0.3115 | Pose 4.2981 | 
+[Train] Epoch 55 iter 671 | Loss 5.1109 | KL 0.0119 | Recon 0.1241 | Reward 0.1324 | Act 0.3561 | Pose 4.4865 | 
+[Train] Epoch 55 iter 672 | Loss 5.1485 | KL 0.0118 | Recon 0.1268 | Reward 0.1251 | Act 0.3464 | Pose 4.5383 | 
+wm_v3_noise_01/ Epoch 55 loss 4.8661
+[val] Epoch 55  DistErr: 7.274336, NCC: 0.891237, ParaErr: 4.378036
+>> New best @ epoch 55: ParaErr=4.378036
+[Train] Epoch 56 iter 673 | Loss 4.3546 | KL 0.0118 | Recon 0.1235 | Reward 0.1070 | Act 0.2601 | Pose 3.8522 | 
+[Train] Epoch 56 iter 674 | Loss 4.6548 | KL 0.0118 | Recon 0.1258 | Reward 0.0875 | Act 0.2855 | Pose 4.1442 | 
+[Train] Epoch 56 iter 675 | Loss 4.8637 | KL 0.0118 | Recon 0.1263 | Reward 0.0809 | Act 0.3217 | Pose 4.3229 | 
+[Train] Epoch 56 iter 676 | Loss 4.8468 | KL 0.0118 | Recon 0.1285 | Reward 0.0919 | Act 0.3080 | Pose 4.3067 | 
+[Train] Epoch 56 iter 677 | Loss 4.7214 | KL 0.0118 | Recon 0.1228 | Reward 0.0899 | Act 0.3161 | Pose 4.1808 | 
+[Train] Epoch 56 iter 678 | Loss 4.6849 | KL 0.0118 | Recon 0.1273 | Reward 0.0891 | Act 0.3006 | Pose 4.1561 | 
+[Train] Epoch 56 iter 679 | Loss 4.6034 | KL 0.0118 | Recon 0.1232 | Reward 0.0868 | Act 0.2985 | Pose 4.0831 | 
+[Train] Epoch 56 iter 680 | Loss 4.7091 | KL 0.0118 | Recon 0.1206 | Reward 0.0908 | Act 0.2855 | Pose 4.2004 | 
+[Train] Epoch 56 iter 681 | Loss 4.6466 | KL 0.0118 | Recon 0.1292 | Reward 0.0937 | Act 0.3103 | Pose 4.1016 | 
+[Train] Epoch 56 iter 682 | Loss 4.1266 | KL 0.0118 | Recon 0.1269 | Reward 0.0791 | Act 0.2405 | Pose 3.6683 | 
+[Train] Epoch 56 iter 683 | Loss 4.4314 | KL 0.0118 | Recon 0.1243 | Reward 0.1098 | Act 0.2789 | Pose 3.9066 | 
+[Train] Epoch 56 iter 684 | Loss 4.7857 | KL 0.0118 | Recon 0.1248 | Reward 0.1583 | Act 0.3126 | Pose 4.1782 | 
+wm_v3_noise_01/ Epoch 56 loss 4.6191
+[val] Epoch 56  DistErr: 7.306567, NCC: 0.889584, ParaErr: 4.408202
+[Train] Epoch 57 iter 685 | Loss 5.0468 | KL 0.0118 | Recon 0.1293 | Reward 0.1183 | Act 0.3356 | Pose 4.4518 | 
+[Train] Epoch 57 iter 686 | Loss 5.0661 | KL 0.0118 | Recon 0.1290 | Reward 0.0908 | Act 0.3280 | Pose 4.5066 | 
+[Train] Epoch 57 iter 687 | Loss 4.8055 | KL 0.0118 | Recon 0.1244 | Reward 0.1102 | Act 0.3226 | Pose 4.2364 | 
+[Train] Epoch 57 iter 688 | Loss 4.5847 | KL 0.0118 | Recon 0.1222 | Reward 0.0619 | Act 0.2969 | Pose 4.0920 | 
+[Train] Epoch 57 iter 689 | Loss 4.6454 | KL 0.0117 | Recon 0.1251 | Reward 0.1161 | Act 0.3137 | Pose 4.0787 | 
+[Train] Epoch 57 iter 690 | Loss 5.2645 | KL 0.0117 | Recon 0.1239 | Reward 0.1868 | Act 0.3497 | Pose 4.5923 | 
+[Train] Epoch 57 iter 691 | Loss 4.2940 | KL 0.0117 | Recon 0.1234 | Reward 0.0540 | Act 0.2635 | Pose 3.8413 | 
+[Train] Epoch 57 iter 692 | Loss 4.2223 | KL 0.0117 | Recon 0.1227 | Reward 0.0568 | Act 0.2527 | Pose 3.7783 | 
+[Train] Epoch 57 iter 693 | Loss 4.5376 | KL 0.0117 | Recon 0.1230 | Reward 0.1077 | Act 0.2810 | Pose 4.0141 | 
+[Train] Epoch 57 iter 694 | Loss 5.2770 | KL 0.0117 | Recon 0.1327 | Reward 0.1201 | Act 0.3766 | Pose 4.6359 | 
+[Train] Epoch 57 iter 695 | Loss 4.5508 | KL 0.0117 | Recon 0.1303 | Reward 0.0867 | Act 0.2864 | Pose 4.0356 | 
+[Train] Epoch 57 iter 696 | Loss 4.7919 | KL 0.0117 | Recon 0.1295 | Reward 0.0982 | Act 0.3143 | Pose 4.2384 | 
+wm_v3_noise_01/ Epoch 57 loss 4.7572
+[val] Epoch 57  DistErr: 7.321792, NCC: 0.888967, ParaErr: 4.414559
+[Train] Epoch 58 iter 697 | Loss 4.5438 | KL 0.0117 | Recon 0.1219 | Reward 0.0643 | Act 0.2836 | Pose 4.0622 | 
+[Train] Epoch 58 iter 698 | Loss 4.2582 | KL 0.0117 | Recon 0.1268 | Reward 0.0806 | Act 0.2703 | Pose 3.7689 | 
+[Train] Epoch 58 iter 699 | Loss 4.7137 | KL 0.0117 | Recon 0.1209 | Reward 0.1216 | Act 0.3106 | Pose 4.1489 | 
+[Train] Epoch 58 iter 700 | Loss 5.3881 | KL 0.0117 | Recon 0.1263 | Reward 0.1254 | Act 0.3762 | Pose 4.7485 | 
+[Train] Epoch 58 iter 701 | Loss 5.0110 | KL 0.0117 | Recon 0.1275 | Reward 0.1090 | Act 0.3494 | Pose 4.4134 | 
+[Train] Epoch 58 iter 702 | Loss 4.8469 | KL 0.0117 | Recon 0.1257 | Reward 0.1035 | Act 0.3104 | Pose 4.2956 | 
+[Train] Epoch 58 iter 703 | Loss 4.7243 | KL 0.0117 | Recon 0.1269 | Reward 0.0756 | Act 0.3053 | Pose 4.2048 | 
+[Train] Epoch 58 iter 704 | Loss 4.4685 | KL 0.0117 | Recon 0.1261 | Reward 0.0915 | Act 0.2798 | Pose 3.9594 | 
+[Train] Epoch 58 iter 705 | Loss 4.6865 | KL 0.0117 | Recon 0.1232 | Reward 0.1017 | Act 0.3052 | Pose 4.1448 | 
+[Train] Epoch 58 iter 706 | Loss 4.4868 | KL 0.0116 | Recon 0.1247 | Reward 0.1113 | Act 0.2935 | Pose 3.9456 | 
+[Train] Epoch 58 iter 707 | Loss 4.6731 | KL 0.0116 | Recon 0.1229 | Reward 0.1153 | Act 0.3111 | Pose 4.1121 | 
+[Train] Epoch 58 iter 708 | Loss 4.7467 | KL 0.0116 | Recon 0.1266 | Reward 0.1240 | Act 0.3057 | Pose 4.1788 | 
+wm_v3_noise_01/ Epoch 58 loss 4.7123
+[val] Epoch 58  DistErr: 7.272306, NCC: 0.890072, ParaErr: 4.366516
+>> New best @ epoch 58: ParaErr=4.366516
+[Train] Epoch 59 iter 709 | Loss 4.7232 | KL 0.0116 | Recon 0.1206 | Reward 0.1451 | Act 0.3314 | Pose 4.1144 | 
+[Train] Epoch 59 iter 710 | Loss 4.8884 | KL 0.0116 | Recon 0.1202 | Reward 0.1588 | Act 0.3058 | Pose 4.2920 | 
+[Train] Epoch 59 iter 711 | Loss 5.5308 | KL 0.0116 | Recon 0.1290 | Reward 0.1296 | Act 0.3848 | Pose 4.8756 | 
+[Train] Epoch 59 iter 712 | Loss 4.9679 | KL 0.0116 | Recon 0.1249 | Reward 0.1316 | Act 0.3224 | Pose 4.3774 | 
+[Train] Epoch 59 iter 713 | Loss 4.4914 | KL 0.0116 | Recon 0.1245 | Reward 0.1145 | Act 0.2705 | Pose 3.9703 | 
+[Train] Epoch 59 iter 714 | Loss 4.8433 | KL 0.0116 | Recon 0.1294 | Reward 0.1075 | Act 0.3153 | Pose 4.2794 | 
+[Train] Epoch 59 iter 715 | Loss 4.9584 | KL 0.0116 | Recon 0.1259 | Reward 0.1216 | Act 0.3260 | Pose 4.3733 | 
+[Train] Epoch 59 iter 716 | Loss 4.9500 | KL 0.0116 | Recon 0.1267 | Reward 0.1465 | Act 0.3253 | Pose 4.3399 | 
+[Train] Epoch 59 iter 717 | Loss 4.9345 | KL 0.0116 | Recon 0.1239 | Reward 0.1192 | Act 0.3240 | Pose 4.3556 | 
+[Train] Epoch 59 iter 718 | Loss 5.0773 | KL 0.0116 | Recon 0.1289 | Reward 0.1252 | Act 0.3548 | Pose 4.4569 | 
+[Train] Epoch 59 iter 719 | Loss 4.6636 | KL 0.0116 | Recon 0.1272 | Reward 0.1188 | Act 0.2927 | Pose 4.1132 | 
+[Train] Epoch 59 iter 720 | Loss 4.5671 | KL 0.0116 | Recon 0.1226 | Reward 0.0998 | Act 0.3123 | Pose 4.0209 | 
+wm_v3_noise_01/ Epoch 59 loss 4.8830
+[val] Epoch 59  DistErr: 7.343468, NCC: 0.887149, ParaErr: 4.439091
+[Train] Epoch 60 iter 721 | Loss 5.1480 | KL 0.0116 | Recon 0.1271 | Reward 0.1507 | Act 0.3392 | Pose 4.5194 | 
+[Train] Epoch 60 iter 722 | Loss 4.9701 | KL 0.0116 | Recon 0.1271 | Reward 0.1315 | Act 0.3369 | Pose 4.3630 | 
+[Train] Epoch 60 iter 723 | Loss 4.5935 | KL 0.0115 | Recon 0.1232 | Reward 0.1288 | Act 0.3092 | Pose 4.0207 | 
+[Train] Epoch 60 iter 724 | Loss 4.7406 | KL 0.0115 | Recon 0.1236 | Reward 0.1007 | Act 0.3058 | Pose 4.1989 | 
+[Train] Epoch 60 iter 725 | Loss 4.7944 | KL 0.0115 | Recon 0.1290 | Reward 0.1119 | Act 0.3083 | Pose 4.2336 | 
+[Train] Epoch 60 iter 726 | Loss 4.5384 | KL 0.0115 | Recon 0.1285 | Reward 0.0793 | Act 0.2779 | Pose 4.0412 | 
+[Train] Epoch 60 iter 727 | Loss 5.2225 | KL 0.0115 | Recon 0.1215 | Reward 0.1070 | Act 0.3619 | Pose 4.6206 | 
+[Train] Epoch 60 iter 728 | Loss 5.1585 | KL 0.0115 | Recon 0.1233 | Reward 0.1019 | Act 0.3546 | Pose 4.5672 | 
+[Train] Epoch 60 iter 729 | Loss 4.4335 | KL 0.0115 | Recon 0.1253 | Reward 0.0981 | Act 0.2828 | Pose 3.9157 | 
+[Train] Epoch 60 iter 730 | Loss 4.1908 | KL 0.0115 | Recon 0.1223 | Reward 0.0652 | Act 0.2629 | Pose 3.7290 | 
+[Train] Epoch 60 iter 731 | Loss 4.6423 | KL 0.0115 | Recon 0.1246 | Reward 0.1127 | Act 0.3022 | Pose 4.0913 | 
+[Train] Epoch 60 iter 732 | Loss 4.9418 | KL 0.0115 | Recon 0.1269 | Reward 0.0863 | Act 0.3227 | Pose 4.3944 | 
+wm_v3_noise_01/ Epoch 60 loss 4.7812
+[val] Epoch 60  DistErr: 7.292428, NCC: 0.889577, ParaErr: 4.377972
+[Train] Epoch 61 iter 733 | Loss 4.8792 | KL 0.0115 | Recon 0.1298 | Reward 0.1277 | Act 0.3211 | Pose 4.2891 | 
+[Train] Epoch 61 iter 734 | Loss 4.9351 | KL 0.0115 | Recon 0.1273 | Reward 0.1248 | Act 0.3403 | Pose 4.3312 | 
+[Train] Epoch 61 iter 735 | Loss 4.9962 | KL 0.0115 | Recon 0.1226 | Reward 0.1086 | Act 0.3451 | Pose 4.4084 | 
+[Train] Epoch 61 iter 736 | Loss 4.7192 | KL 0.0115 | Recon 0.1254 | Reward 0.0940 | Act 0.3098 | Pose 4.1786 | 
+[Train] Epoch 61 iter 737 | Loss 4.8210 | KL 0.0115 | Recon 0.1234 | Reward 0.1011 | Act 0.3158 | Pose 4.2693 | 
+[Train] Epoch 61 iter 738 | Loss 4.2841 | KL 0.0115 | Recon 0.1210 | Reward 0.0761 | Act 0.2631 | Pose 3.8125 | 
+[Train] Epoch 61 iter 739 | Loss 5.1850 | KL 0.0115 | Recon 0.1258 | Reward 0.1239 | Act 0.3473 | Pose 4.5765 | 
+[Train] Epoch 61 iter 740 | Loss 4.3098 | KL 0.0114 | Recon 0.1247 | Reward 0.0847 | Act 0.2601 | Pose 3.8289 | 
+[Train] Epoch 61 iter 741 | Loss 4.5441 | KL 0.0114 | Recon 0.1222 | Reward 0.0871 | Act 0.2959 | Pose 4.0274 | 
+[Train] Epoch 61 iter 742 | Loss 4.5441 | KL 0.0114 | Recon 0.1219 | Reward 0.1057 | Act 0.2789 | Pose 4.0261 | 
+[Train] Epoch 61 iter 743 | Loss 4.5479 | KL 0.0114 | Recon 0.1268 | Reward 0.0649 | Act 0.2832 | Pose 4.0615 | 
+[Train] Epoch 61 iter 744 | Loss 4.2997 | KL 0.0114 | Recon 0.1261 | Reward 0.1082 | Act 0.2683 | Pose 3.7857 | 
+wm_v3_noise_01/ Epoch 61 loss 4.6721
+[val] Epoch 61  DistErr: 7.256576, NCC: 0.890510, ParaErr: 4.345488
+>> New best @ epoch 61: ParaErr=4.345488
+[Train] Epoch 62 iter 745 | Loss 4.9698 | KL 0.0114 | Recon 0.1280 | Reward 0.0918 | Act 0.3262 | Pose 4.4123 | 
+[Train] Epoch 62 iter 746 | Loss 4.4485 | KL 0.0114 | Recon 0.1249 | Reward 0.0920 | Act 0.2851 | Pose 3.9350 | 
+[Train] Epoch 62 iter 747 | Loss 5.0683 | KL 0.0114 | Recon 0.1240 | Reward 0.1361 | Act 0.3497 | Pose 4.4472 | 
+[Train] Epoch 62 iter 748 | Loss 4.4956 | KL 0.0114 | Recon 0.1269 | Reward 0.0788 | Act 0.2950 | Pose 3.9835 | 
+[Train] Epoch 62 iter 749 | Loss 5.0670 | KL 0.0114 | Recon 0.1276 | Reward 0.1350 | Act 0.3436 | Pose 4.4494 | 
+[Train] Epoch 62 iter 750 | Loss 4.5567 | KL 0.0114 | Recon 0.1226 | Reward 0.0720 | Act 0.2881 | Pose 4.0626 | 
+[Train] Epoch 62 iter 751 | Loss 4.6876 | KL 0.0114 | Recon 0.1281 | Reward 0.1024 | Act 0.2890 | Pose 4.1567 | 
+[Train] Epoch 62 iter 752 | Loss 4.5251 | KL 0.0114 | Recon 0.1194 | Reward 0.0665 | Act 0.2875 | Pose 4.0404 | 
+[Train] Epoch 62 iter 753 | Loss 4.7920 | KL 0.0114 | Recon 0.1253 | Reward 0.1146 | Act 0.3106 | Pose 4.2301 | 
+[Train] Epoch 62 iter 754 | Loss 4.4468 | KL 0.0114 | Recon 0.1220 | Reward 0.1922 | Act 0.2863 | Pose 3.8348 | 
+[Train] Epoch 62 iter 755 | Loss 4.5094 | KL 0.0114 | Recon 0.1258 | Reward 0.1008 | Act 0.2820 | Pose 3.9895 | 
+[Train] Epoch 62 iter 756 | Loss 5.0842 | KL 0.0114 | Recon 0.1236 | Reward 0.1130 | Act 0.3535 | Pose 4.4828 | 
+wm_v3_noise_01/ Epoch 62 loss 4.7209
+[val] Epoch 62  DistErr: 7.290220, NCC: 0.888935, ParaErr: 4.393847
+[Train] Epoch 63 iter 757 | Loss 4.2102 | KL 0.0113 | Recon 0.1241 | Reward 0.0920 | Act 0.2609 | Pose 3.7218 | 
+[Train] Epoch 63 iter 758 | Loss 4.6147 | KL 0.0113 | Recon 0.1262 | Reward 0.1011 | Act 0.3085 | Pose 4.0676 | 
+[Train] Epoch 63 iter 759 | Loss 4.5314 | KL 0.0113 | Recon 0.1243 | Reward 0.0880 | Act 0.2803 | Pose 4.0276 | 
+[Train] Epoch 63 iter 760 | Loss 4.2047 | KL 0.0113 | Recon 0.1237 | Reward 0.0593 | Act 0.2601 | Pose 3.7503 | 
+[Train] Epoch 63 iter 761 | Loss 4.0256 | KL 0.0113 | Recon 0.1232 | Reward 0.0603 | Act 0.2411 | Pose 3.5896 | 
+[Train] Epoch 63 iter 762 | Loss 4.5407 | KL 0.0113 | Recon 0.1257 | Reward 0.0713 | Act 0.2994 | Pose 4.0329 | 
+[Train] Epoch 63 iter 763 | Loss 4.0535 | KL 0.0113 | Recon 0.1210 | Reward 0.0791 | Act 0.2409 | Pose 3.6011 | 
+[Train] Epoch 63 iter 764 | Loss 4.3983 | KL 0.0113 | Recon 0.1233 | Reward 0.0951 | Act 0.2748 | Pose 3.8938 | 
+[Train] Epoch 63 iter 765 | Loss 4.9714 | KL 0.0113 | Recon 0.1276 | Reward 0.0924 | Act 0.3307 | Pose 4.4094 | 
+[Train] Epoch 63 iter 766 | Loss 4.7920 | KL 0.0113 | Recon 0.1220 | Reward 0.1225 | Act 0.3113 | Pose 4.2248 | 
+[Train] Epoch 63 iter 767 | Loss 4.5648 | KL 0.0113 | Recon 0.1272 | Reward 0.1203 | Act 0.2827 | Pose 4.0233 | 
+[Train] Epoch 63 iter 768 | Loss 4.4537 | KL 0.0113 | Recon 0.1254 | Reward 0.0880 | Act 0.2866 | Pose 3.9424 | 
+wm_v3_noise_01/ Epoch 63 loss 4.4468
+[val] Epoch 63  DistErr: 7.261235, NCC: 0.890105, ParaErr: 4.363372
+[Train] Epoch 64 iter 769 | Loss 4.7429 | KL 0.0113 | Recon 0.1242 | Reward 0.0886 | Act 0.3278 | Pose 4.1911 | 
+[Train] Epoch 64 iter 770 | Loss 4.7802 | KL 0.0113 | Recon 0.1237 | Reward 0.0914 | Act 0.3112 | Pose 4.2426 | 
+[Train] Epoch 64 iter 771 | Loss 4.8166 | KL 0.0113 | Recon 0.1237 | Reward 0.0979 | Act 0.3387 | Pose 4.2451 | 
+[Train] Epoch 64 iter 772 | Loss 4.5864 | KL 0.0113 | Recon 0.1262 | Reward 0.1100 | Act 0.3103 | Pose 4.0286 | 
+[Train] Epoch 64 iter 773 | Loss 4.7843 | KL 0.0113 | Recon 0.1218 | Reward 0.1281 | Act 0.3244 | Pose 4.1987 | 
+[Train] Epoch 64 iter 774 | Loss 4.4638 | KL 0.0112 | Recon 0.1238 | Reward 0.0840 | Act 0.2786 | Pose 3.9661 | 
+[Train] Epoch 64 iter 775 | Loss 4.7758 | KL 0.0112 | Recon 0.1272 | Reward 0.0921 | Act 0.3092 | Pose 4.2360 | 
+[Train] Epoch 64 iter 776 | Loss 5.3722 | KL 0.0112 | Recon 0.1298 | Reward 0.1485 | Act 0.3680 | Pose 4.7146 | 
+[Train] Epoch 64 iter 777 | Loss 4.6622 | KL 0.0112 | Recon 0.1278 | Reward 0.1401 | Act 0.2896 | Pose 4.0935 | 
+[Train] Epoch 64 iter 778 | Loss 4.8204 | KL 0.0112 | Recon 0.1254 | Reward 0.0881 | Act 0.3016 | Pose 4.2941 | 
+[Train] Epoch 64 iter 779 | Loss 4.4907 | KL 0.0112 | Recon 0.1231 | Reward 0.0935 | Act 0.2693 | Pose 3.9937 | 
+[Train] Epoch 64 iter 780 | Loss 5.2910 | KL 0.0112 | Recon 0.1252 | Reward 0.0873 | Act 0.3687 | Pose 4.6985 | 
+wm_v3_noise_01/ Epoch 64 loss 4.7989
+[val] Epoch 64  DistErr: 7.268867, NCC: 0.890593, ParaErr: 4.356483
+[Train] Epoch 65 iter 781 | Loss 4.6469 | KL 0.0112 | Recon 0.1257 | Reward 0.0943 | Act 0.2954 | Pose 4.1203 | 
+[Train] Epoch 65 iter 782 | Loss 4.6617 | KL 0.0112 | Recon 0.1289 | Reward 0.1291 | Act 0.2954 | Pose 4.0971 | 
+[Train] Epoch 65 iter 783 | Loss 4.3308 | KL 0.0112 | Recon 0.1246 | Reward 0.0895 | Act 0.2789 | Pose 3.8267 | 
+[Train] Epoch 65 iter 784 | Loss 4.6124 | KL 0.0112 | Recon 0.1250 | Reward 0.1155 | Act 0.3193 | Pose 4.0414 | 
+[Train] Epoch 65 iter 785 | Loss 4.9374 | KL 0.0112 | Recon 0.1218 | Reward 0.1320 | Act 0.3420 | Pose 4.3303 | 
+[Train] Epoch 65 iter 786 | Loss 5.0254 | KL 0.0112 | Recon 0.1230 | Reward 0.1113 | Act 0.3402 | Pose 4.4397 | 
+[Train] Epoch 65 iter 787 | Loss 4.7795 | KL 0.0112 | Recon 0.1221 | Reward 0.0691 | Act 0.3030 | Pose 4.2741 | 
+[Train] Epoch 65 iter 788 | Loss 4.6275 | KL 0.0112 | Recon 0.1216 | Reward 0.1234 | Act 0.3028 | Pose 4.0686 | 
+[Train] Epoch 65 iter 789 | Loss 5.0972 | KL 0.0112 | Recon 0.1244 | Reward 0.1075 | Act 0.3555 | Pose 4.4987 | 
+[Train] Epoch 65 iter 790 | Loss 5.2342 | KL 0.0112 | Recon 0.1278 | Reward 0.1230 | Act 0.3557 | Pose 4.6166 | 
+[Train] Epoch 65 iter 791 | Loss 4.4762 | KL 0.0112 | Recon 0.1261 | Reward 0.0992 | Act 0.2748 | Pose 3.9649 | 
+[Train] Epoch 65 iter 792 | Loss 4.3430 | KL 0.0112 | Recon 0.1238 | Reward 0.0860 | Act 0.2729 | Pose 3.8491 | 
+wm_v3_noise_01/ Epoch 65 loss 4.7310
+[val] Epoch 65  DistErr: 7.321096, NCC: 0.887852, ParaErr: 4.413184
+[Train] Epoch 66 iter 793 | Loss 4.9345 | KL 0.0112 | Recon 0.1237 | Reward 0.1142 | Act 0.3306 | Pose 4.3548 | 
+[Train] Epoch 66 iter 794 | Loss 4.8940 | KL 0.0112 | Recon 0.1268 | Reward 0.1230 | Act 0.3236 | Pose 4.3094 | 
+[Train] Epoch 66 iter 795 | Loss 4.5579 | KL 0.0112 | Recon 0.1221 | Reward 0.1160 | Act 0.3048 | Pose 4.0038 | 
+[Train] Epoch 66 iter 796 | Loss 4.7238 | KL 0.0112 | Recon 0.1273 | Reward 0.1281 | Act 0.3102 | Pose 4.1470 | 
+[Train] Epoch 66 iter 797 | Loss 5.0239 | KL 0.0112 | Recon 0.1230 | Reward 0.1790 | Act 0.3501 | Pose 4.3607 | 
+[Train] Epoch 66 iter 798 | Loss 4.8139 | KL 0.0112 | Recon 0.1221 | Reward 0.0775 | Act 0.2993 | Pose 4.3038 | 
+[Train] Epoch 66 iter 799 | Loss 4.6958 | KL 0.0112 | Recon 0.1266 | Reward 0.1005 | Act 0.3063 | Pose 4.1512 | 
+[Train] Epoch 66 iter 800 | Loss 4.8331 | KL 0.0112 | Recon 0.1303 | Reward 0.1292 | Act 0.3359 | Pose 4.2266 | 
+[Train] Epoch 66 iter 801 | Loss 4.4561 | KL 0.0111 | Recon 0.1251 | Reward 0.1039 | Act 0.2934 | Pose 3.9226 | 
+[Train] Epoch 66 iter 802 | Loss 4.1411 | KL 0.0111 | Recon 0.1228 | Reward 0.1133 | Act 0.2610 | Pose 3.6329 | 
+[Train] Epoch 66 iter 803 | Loss 4.8740 | KL 0.0111 | Recon 0.1305 | Reward 0.1032 | Act 0.3227 | Pose 4.3066 | 
+[Train] Epoch 66 iter 804 | Loss 4.9787 | KL 0.0111 | Recon 0.1251 | Reward 0.1222 | Act 0.3322 | Pose 4.3881 | 
+wm_v3_noise_01/ Epoch 66 loss 4.7439
+[val] Epoch 66  DistErr: 7.289407, NCC: 0.889665, ParaErr: 4.377550
+[Train] Epoch 67 iter 805 | Loss 4.8647 | KL 0.0111 | Recon 0.1266 | Reward 0.0986 | Act 0.3238 | Pose 4.3046 | 
+[Train] Epoch 67 iter 806 | Loss 4.6635 | KL 0.0111 | Recon 0.1277 | Reward 0.0810 | Act 0.3004 | Pose 4.1432 | 
+[Train] Epoch 67 iter 807 | Loss 4.4641 | KL 0.0111 | Recon 0.1257 | Reward 0.1020 | Act 0.2887 | Pose 3.9367 | 
+[Train] Epoch 67 iter 808 | Loss 4.7679 | KL 0.0111 | Recon 0.1275 | Reward 0.1186 | Act 0.3134 | Pose 4.1973 | 
+[Train] Epoch 67 iter 809 | Loss 4.8464 | KL 0.0111 | Recon 0.1220 | Reward 0.1325 | Act 0.3223 | Pose 4.2584 | 
+[Train] Epoch 67 iter 810 | Loss 4.6878 | KL 0.0111 | Recon 0.1259 | Reward 0.0716 | Act 0.3000 | Pose 4.1791 | 
+[Train] Epoch 67 iter 811 | Loss 4.0726 | KL 0.0111 | Recon 0.1244 | Reward 0.0847 | Act 0.2532 | Pose 3.5991 | 
+[Train] Epoch 67 iter 812 | Loss 4.0304 | KL 0.0111 | Recon 0.1248 | Reward 0.0681 | Act 0.2420 | Pose 3.5844 | 
+[Train] Epoch 67 iter 813 | Loss 5.2513 | KL 0.0111 | Recon 0.1285 | Reward 0.0893 | Act 0.3641 | Pose 4.6582 | 
+[Train] Epoch 67 iter 814 | Loss 4.8553 | KL 0.0111 | Recon 0.1256 | Reward 0.1182 | Act 0.3279 | Pose 4.2725 | 
+[Train] Epoch 67 iter 815 | Loss 4.0502 | KL 0.0111 | Recon 0.1235 | Reward 0.0741 | Act 0.2492 | Pose 3.5923 | 
+[Train] Epoch 67 iter 816 | Loss 4.6208 | KL 0.0111 | Recon 0.1271 | Reward 0.0911 | Act 0.3054 | Pose 4.0861 | 
+wm_v3_noise_01/ Epoch 67 loss 4.5979
+[val] Epoch 67  DistErr: 7.258756, NCC: 0.890434, ParaErr: 4.349356
+[Train] Epoch 68 iter 817 | Loss 4.6520 | KL 0.0111 | Recon 0.1274 | Reward 0.1351 | Act 0.3022 | Pose 4.0762 | 
+[Train] Epoch 68 iter 818 | Loss 4.9552 | KL 0.0111 | Recon 0.1242 | Reward 0.0997 | Act 0.3314 | Pose 4.3888 | 
+[Train] Epoch 68 iter 819 | Loss 4.4588 | KL 0.0111 | Recon 0.1240 | Reward 0.0992 | Act 0.2783 | Pose 3.9462 | 
+[Train] Epoch 68 iter 820 | Loss 4.7547 | KL 0.0111 | Recon 0.1212 | Reward 0.0979 | Act 0.3316 | Pose 4.1929 | 
+[Train] Epoch 68 iter 821 | Loss 4.6442 | KL 0.0111 | Recon 0.1245 | Reward 0.0996 | Act 0.2916 | Pose 4.1173 | 
+[Train] Epoch 68 iter 822 | Loss 4.9237 | KL 0.0111 | Recon 0.1203 | Reward 0.1234 | Act 0.3221 | Pose 4.3468 | 
+[Train] Epoch 68 iter 823 | Loss 4.4330 | KL 0.0111 | Recon 0.1230 | Reward 0.0966 | Act 0.2868 | Pose 3.9154 | 
+[Train] Epoch 68 iter 824 | Loss 4.5819 | KL 0.0111 | Recon 0.1249 | Reward 0.0808 | Act 0.2893 | Pose 4.0758 | 
+[Train] Epoch 68 iter 825 | Loss 4.1952 | KL 0.0111 | Recon 0.1210 | Reward 0.0681 | Act 0.2573 | Pose 3.7377 | 
+[Train] Epoch 68 iter 826 | Loss 4.7132 | KL 0.0111 | Recon 0.1270 | Reward 0.1476 | Act 0.2963 | Pose 4.1312 | 
+[Train] Epoch 68 iter 827 | Loss 4.5362 | KL 0.0111 | Recon 0.1272 | Reward 0.0697 | Act 0.2828 | Pose 4.0454 | 
+[Train] Epoch 68 iter 828 | Loss 4.3168 | KL 0.0111 | Recon 0.1208 | Reward 0.0729 | Act 0.2780 | Pose 3.8340 | 
+wm_v3_noise_01/ Epoch 68 loss 4.5971
+[val] Epoch 68  DistErr: 7.288721, NCC: 0.889361, ParaErr: 4.378222
+[Train] Epoch 69 iter 829 | Loss 4.3651 | KL 0.0111 | Recon 0.1252 | Reward 0.0533 | Act 0.2717 | Pose 3.9037 | 
+[Train] Epoch 69 iter 830 | Loss 4.9286 | KL 0.0111 | Recon 0.1248 | Reward 0.1239 | Act 0.3367 | Pose 4.3321 | 
+[Train] Epoch 69 iter 831 | Loss 4.3895 | KL 0.0111 | Recon 0.1237 | Reward 0.1218 | Act 0.2804 | Pose 3.8526 | 
+[Train] Epoch 69 iter 832 | Loss 4.7708 | KL 0.0111 | Recon 0.1270 | Reward 0.0872 | Act 0.3116 | Pose 4.2339 | 
+[Train] Epoch 69 iter 833 | Loss 4.7846 | KL 0.0111 | Recon 0.1260 | Reward 0.0930 | Act 0.3249 | Pose 4.2297 | 
+[Train] Epoch 69 iter 834 | Loss 5.0481 | KL 0.0111 | Recon 0.1268 | Reward 0.1263 | Act 0.3359 | Pose 4.4481 | 
+[Train] Epoch 69 iter 835 | Loss 4.7560 | KL 0.0111 | Recon 0.1228 | Reward 0.0802 | Act 0.3160 | Pose 4.2260 | 
+[Train] Epoch 69 iter 836 | Loss 4.9420 | KL 0.0111 | Recon 0.1212 | Reward 0.1512 | Act 0.3441 | Pose 4.3144 | 
+[Train] Epoch 69 iter 837 | Loss 4.9560 | KL 0.0111 | Recon 0.1245 | Reward 0.1120 | Act 0.3165 | Pose 4.3920 | 
+[Train] Epoch 69 iter 838 | Loss 5.0113 | KL 0.0111 | Recon 0.1226 | Reward 0.0975 | Act 0.3461 | Pose 4.4341 | 
+[Train] Epoch 69 iter 839 | Loss 5.2130 | KL 0.0111 | Recon 0.1259 | Reward 0.1624 | Act 0.3489 | Pose 4.5646 | 
+[Train] Epoch 69 iter 840 | Loss 4.1789 | KL 0.0111 | Recon 0.1264 | Reward 0.0759 | Act 0.2544 | Pose 3.7110 | 
+wm_v3_noise_01/ Epoch 69 loss 4.7787
+[val] Epoch 69  DistErr: 7.309990, NCC: 0.888383, ParaErr: 4.407035
+[Train] Epoch 70 iter 841 | Loss 4.4310 | KL 0.0111 | Recon 0.1244 | Reward 0.1024 | Act 0.2739 | Pose 3.9192 | 
+[Train] Epoch 70 iter 842 | Loss 5.0072 | KL 0.0111 | Recon 0.1233 | Reward 0.1349 | Act 0.3379 | Pose 4.4000 | 
+[Train] Epoch 70 iter 843 | Loss 4.2623 | KL 0.0111 | Recon 0.1260 | Reward 0.1269 | Act 0.2712 | Pose 3.7271 | 
+[Train] Epoch 70 iter 844 | Loss 4.3843 | KL 0.0111 | Recon 0.1204 | Reward 0.0719 | Act 0.2699 | Pose 3.9110 | 
+[Train] Epoch 70 iter 845 | Loss 4.5716 | KL 0.0111 | Recon 0.1251 | Reward 0.1477 | Act 0.3068 | Pose 3.9810 | 
+[Train] Epoch 70 iter 846 | Loss 4.9132 | KL 0.0111 | Recon 0.1287 | Reward 0.0797 | Act 0.3288 | Pose 4.3650 | 
+[Train] Epoch 70 iter 847 | Loss 4.9114 | KL 0.0111 | Recon 0.1226 | Reward 0.0921 | Act 0.3183 | Pose 4.3673 | 
+[Train] Epoch 70 iter 848 | Loss 4.7313 | KL 0.0111 | Recon 0.1249 | Reward 0.1256 | Act 0.3125 | Pose 4.1572 | 
+[Train] Epoch 70 iter 849 | Loss 5.0746 | KL 0.0111 | Recon 0.1227 | Reward 0.1058 | Act 0.3530 | Pose 4.4821 | 
+[Train] Epoch 70 iter 850 | Loss 5.2147 | KL 0.0110 | Recon 0.1240 | Reward 0.1364 | Act 0.3630 | Pose 4.5802 | 
+[Train] Epoch 70 iter 851 | Loss 4.8541 | KL 0.0110 | Recon 0.1230 | Reward 0.1057 | Act 0.3295 | Pose 4.2848 | 
+[Train] Epoch 70 iter 852 | Loss 4.8542 | KL 0.0110 | Recon 0.1300 | Reward 0.1242 | Act 0.3221 | Pose 4.2669 | 
+wm_v3_noise_01/ Epoch 70 loss 4.7675
+[val] Epoch 70  DistErr: 7.285526, NCC: 0.889533, ParaErr: 4.381849
+[Train] Epoch 71 iter 853 | Loss 4.7896 | KL 0.0110 | Recon 0.1228 | Reward 0.0959 | Act 0.3190 | Pose 4.2409 | 
+[Train] Epoch 71 iter 854 | Loss 4.5577 | KL 0.0110 | Recon 0.1276 | Reward 0.0858 | Act 0.2929 | Pose 4.0404 | 
+[Train] Epoch 71 iter 855 | Loss 4.8481 | KL 0.0110 | Recon 0.1238 | Reward 0.0983 | Act 0.3349 | Pose 4.2800 | 
+[Train] Epoch 71 iter 856 | Loss 4.5614 | KL 0.0110 | Recon 0.1218 | Reward 0.1068 | Act 0.2978 | Pose 4.0240 | 
+[Train] Epoch 71 iter 857 | Loss 4.8282 | KL 0.0110 | Recon 0.1277 | Reward 0.1349 | Act 0.3183 | Pose 4.2363 | 
+[Train] Epoch 71 iter 858 | Loss 4.8188 | KL 0.0110 | Recon 0.1256 | Reward 0.1009 | Act 0.3184 | Pose 4.2629 | 
+[Train] Epoch 71 iter 859 | Loss 4.5974 | KL 0.0110 | Recon 0.1276 | Reward 0.1098 | Act 0.3019 | Pose 4.0470 | 
+[Train] Epoch 71 iter 860 | Loss 3.8877 | KL 0.0110 | Recon 0.1246 | Reward 0.0636 | Act 0.2361 | Pose 3.4523 | 
+[Train] Epoch 71 iter 861 | Loss 4.5050 | KL 0.0110 | Recon 0.1233 | Reward 0.1012 | Act 0.2983 | Pose 3.9711 | 
+[Train] Epoch 71 iter 862 | Loss 4.6578 | KL 0.0110 | Recon 0.1212 | Reward 0.1165 | Act 0.3007 | Pose 4.1084 | 
+[Train] Epoch 71 iter 863 | Loss 4.7142 | KL 0.0110 | Recon 0.1238 | Reward 0.1359 | Act 0.3098 | Pose 4.1337 | 
+[Train] Epoch 71 iter 864 | Loss 4.2265 | KL 0.0110 | Recon 0.1219 | Reward 0.0647 | Act 0.2711 | Pose 3.7577 | 
+wm_v3_noise_01/ Epoch 71 loss 4.5827
+[val] Epoch 71  DistErr: 7.280352, NCC: 0.889418, ParaErr: 4.380572
+[Train] Epoch 72 iter 865 | Loss 4.9898 | KL 0.0110 | Recon 0.1273 | Reward 0.1292 | Act 0.3389 | Pose 4.3833 | 
+[Train] Epoch 72 iter 866 | Loss 4.8653 | KL 0.0110 | Recon 0.1298 | Reward 0.0915 | Act 0.3135 | Pose 4.3194 | 
+[Train] Epoch 72 iter 867 | Loss 4.5432 | KL 0.0110 | Recon 0.1208 | Reward 0.1360 | Act 0.2893 | Pose 3.9860 | 
+[Train] Epoch 72 iter 868 | Loss 4.2740 | KL 0.0110 | Recon 0.1231 | Reward 0.0786 | Act 0.2543 | Pose 3.8071 | 
+[Train] Epoch 72 iter 869 | Loss 4.8357 | KL 0.0110 | Recon 0.1254 | Reward 0.1356 | Act 0.3373 | Pose 4.2264 | 
+[Train] Epoch 72 iter 870 | Loss 4.7571 | KL 0.0110 | Recon 0.1246 | Reward 0.0916 | Act 0.3121 | Pose 4.2177 | 
+[Train] Epoch 72 iter 871 | Loss 4.5863 | KL 0.0110 | Recon 0.1238 | Reward 0.0913 | Act 0.2916 | Pose 4.0685 | 
+[Train] Epoch 72 iter 872 | Loss 4.6787 | KL 0.0110 | Recon 0.1233 | Reward 0.1112 | Act 0.3201 | Pose 4.1131 | 
+[Train] Epoch 72 iter 873 | Loss 5.0064 | KL 0.0110 | Recon 0.1230 | Reward 0.1143 | Act 0.3385 | Pose 4.4196 | 
+[Train] Epoch 72 iter 874 | Loss 4.9171 | KL 0.0110 | Recon 0.1243 | Reward 0.1311 | Act 0.3384 | Pose 4.3121 | 
+[Train] Epoch 72 iter 875 | Loss 4.8189 | KL 0.0110 | Recon 0.1248 | Reward 0.1059 | Act 0.3257 | Pose 4.2514 | 
+[Train] Epoch 72 iter 876 | Loss 4.8145 | KL 0.0110 | Recon 0.1239 | Reward 0.0822 | Act 0.3267 | Pose 4.2706 | 
+wm_v3_noise_01/ Epoch 72 loss 4.7572
+[val] Epoch 72  DistErr: 7.299012, NCC: 0.888660, ParaErr: 4.396361
+[Train] Epoch 73 iter 877 | Loss 4.4211 | KL 0.0110 | Recon 0.1268 | Reward 0.0732 | Act 0.2710 | Pose 3.9391 | 
+[Train] Epoch 73 iter 878 | Loss 5.2662 | KL 0.0110 | Recon 0.1255 | Reward 0.1306 | Act 0.3630 | Pose 4.6361 | 
+[Train] Epoch 73 iter 879 | Loss 4.6749 | KL 0.0110 | Recon 0.1251 | Reward 0.1199 | Act 0.3043 | Pose 4.1146 | 
+[Train] Epoch 73 iter 880 | Loss 4.5435 | KL 0.0110 | Recon 0.1227 | Reward 0.0888 | Act 0.2934 | Pose 4.0277 | 
+[Train] Epoch 73 iter 881 | Loss 4.5514 | KL 0.0110 | Recon 0.1206 | Reward 0.1148 | Act 0.2807 | Pose 4.0242 | 
+[Train] Epoch 73 iter 882 | Loss 5.0988 | KL 0.0110 | Recon 0.1246 | Reward 0.1197 | Act 0.3366 | Pose 4.5068 | 
+[Train] Epoch 73 iter 883 | Loss 5.0388 | KL 0.0110 | Recon 0.1230 | Reward 0.1505 | Act 0.3380 | Pose 4.4162 | 
+[Train] Epoch 73 iter 884 | Loss 4.8276 | KL 0.0110 | Recon 0.1276 | Reward 0.1097 | Act 0.3038 | Pose 4.2756 | 
+[Train] Epoch 73 iter 885 | Loss 5.0883 | KL 0.0110 | Recon 0.1212 | Reward 0.1168 | Act 0.3443 | Pose 4.4950 | 
+[Train] Epoch 73 iter 886 | Loss 5.0163 | KL 0.0110 | Recon 0.1274 | Reward 0.1392 | Act 0.3512 | Pose 4.3874 | 
+[Train] Epoch 73 iter 887 | Loss 4.6314 | KL 0.0110 | Recon 0.1231 | Reward 0.1075 | Act 0.2893 | Pose 4.1005 | 
+[Train] Epoch 73 iter 888 | Loss 5.1472 | KL 0.0110 | Recon 0.1248 | Reward 0.1205 | Act 0.3370 | Pose 4.5539 | 
+wm_v3_noise_01/ Epoch 73 loss 4.8588
+[val] Epoch 73  DistErr: 7.292445, NCC: 0.888875, ParaErr: 4.387060
+[Train] Epoch 74 iter 889 | Loss 4.6183 | KL 0.0110 | Recon 0.1238 | Reward 0.0946 | Act 0.2989 | Pose 4.0899 | 
+[Train] Epoch 74 iter 890 | Loss 4.2271 | KL 0.0110 | Recon 0.1264 | Reward 0.1097 | Act 0.2544 | Pose 3.7256 | 
+[Train] Epoch 74 iter 891 | Loss 4.8426 | KL 0.0110 | Recon 0.1282 | Reward 0.1296 | Act 0.3185 | Pose 4.2554 | 
+[Train] Epoch 74 iter 892 | Loss 4.9202 | KL 0.0110 | Recon 0.1263 | Reward 0.1138 | Act 0.3322 | Pose 4.3369 | 
+[Train] Epoch 74 iter 893 | Loss 4.6418 | KL 0.0110 | Recon 0.1229 | Reward 0.0711 | Act 0.3021 | Pose 4.1346 | 
+[Train] Epoch 74 iter 894 | Loss 5.0129 | KL 0.0110 | Recon 0.1223 | Reward 0.1301 | Act 0.3428 | Pose 4.4066 | 
+[Train] Epoch 74 iter 895 | Loss 4.5097 | KL 0.0110 | Recon 0.1224 | Reward 0.1135 | Act 0.2868 | Pose 3.9760 | 
+[Train] Epoch 74 iter 896 | Loss 4.3710 | KL 0.0110 | Recon 0.1279 | Reward 0.0926 | Act 0.2798 | Pose 3.8596 | 
+[Train] Epoch 74 iter 897 | Loss 4.4166 | KL 0.0110 | Recon 0.1212 | Reward 0.0942 | Act 0.2690 | Pose 3.9212 | 
+[Train] Epoch 74 iter 898 | Loss 4.2502 | KL 0.0110 | Recon 0.1213 | Reward 0.1071 | Act 0.2641 | Pose 3.7467 | 
+[Train] Epoch 74 iter 899 | Loss 4.9234 | KL 0.0110 | Recon 0.1248 | Reward 0.1418 | Act 0.3296 | Pose 4.3163 | 
+[Train] Epoch 74 iter 900 | Loss 4.3999 | KL 0.0110 | Recon 0.1249 | Reward 0.0861 | Act 0.2757 | Pose 3.9022 | 
+wm_v3_noise_01/ Epoch 74 loss 4.5945
+[val] Epoch 74  DistErr: 7.303875, NCC: 0.887975, ParaErr: 4.405869
+[Train] Epoch 75 iter 901 | Loss 4.8940 | KL 0.0110 | Recon 0.1276 | Reward 0.1051 | Act 0.3192 | Pose 4.3311 | 
+[Train] Epoch 75 iter 902 | Loss 5.0332 | KL 0.0110 | Recon 0.1280 | Reward 0.0929 | Act 0.3386 | Pose 4.4626 | 
+[Train] Epoch 75 iter 903 | Loss 4.6220 | KL 0.0110 | Recon 0.1225 | Reward 0.1103 | Act 0.3076 | Pose 4.0707 | 
+[Train] Epoch 75 iter 904 | Loss 4.6782 | KL 0.0110 | Recon 0.1249 | Reward 0.0702 | Act 0.3054 | Pose 4.1667 | 
+[Train] Epoch 75 iter 905 | Loss 5.2126 | KL 0.0110 | Recon 0.1247 | Reward 0.1356 | Act 0.3635 | Pose 4.5777 | 
+[Train] Epoch 75 iter 906 | Loss 4.2651 | KL 0.0110 | Recon 0.1248 | Reward 0.0608 | Act 0.2603 | Pose 3.8082 | 
+[Train] Epoch 75 iter 907 | Loss 4.5284 | KL 0.0110 | Recon 0.1241 | Reward 0.0889 | Act 0.2789 | Pose 4.0255 | 
+[Train] Epoch 75 iter 908 | Loss 5.2398 | KL 0.0110 | Recon 0.1248 | Reward 0.1053 | Act 0.3817 | Pose 4.6170 | 
+[Train] Epoch 75 iter 909 | Loss 5.4552 | KL 0.0110 | Recon 0.1287 | Reward 0.1416 | Act 0.3898 | Pose 4.7840 | 
+[Train] Epoch 75 iter 910 | Loss 4.2422 | KL 0.0110 | Recon 0.1203 | Reward 0.0791 | Act 0.2685 | Pose 3.7633 | 
+[Train] Epoch 75 iter 911 | Loss 4.3630 | KL 0.0110 | Recon 0.1231 | Reward 0.0768 | Act 0.2781 | Pose 3.8739 | 
+[Train] Epoch 75 iter 912 | Loss 5.0060 | KL 0.0110 | Recon 0.1282 | Reward 0.0967 | Act 0.3336 | Pose 4.4365 | 
+wm_v3_noise_01/ Epoch 75 loss 4.7950
+[val] Epoch 75  DistErr: 7.279893, NCC: 0.889153, ParaErr: 4.377455
+[Train] Epoch 76 iter 913 | Loss 5.3446 | KL 0.0110 | Recon 0.1249 | Reward 0.1183 | Act 0.3844 | Pose 4.7060 | 
+[Train] Epoch 76 iter 914 | Loss 5.2130 | KL 0.0110 | Recon 0.1207 | Reward 0.1447 | Act 0.3541 | Pose 4.5824 | 
+[Train] Epoch 76 iter 915 | Loss 5.0157 | KL 0.0110 | Recon 0.1254 | Reward 0.1195 | Act 0.3309 | Pose 4.4289 | 
+[Train] Epoch 76 iter 916 | Loss 4.8286 | KL 0.0110 | Recon 0.1255 | Reward 0.1106 | Act 0.3138 | Pose 4.2677 | 
+[Train] Epoch 76 iter 917 | Loss 4.1702 | KL 0.0110 | Recon 0.1215 | Reward 0.0771 | Act 0.2512 | Pose 3.7094 | 
+[Train] Epoch 76 iter 918 | Loss 4.5808 | KL 0.0110 | Recon 0.1255 | Reward 0.1360 | Act 0.2928 | Pose 4.0155 | 
+[Train] Epoch 76 iter 919 | Loss 4.7513 | KL 0.0110 | Recon 0.1264 | Reward 0.0980 | Act 0.3040 | Pose 4.2119 | 
+[Train] Epoch 76 iter 920 | Loss 4.6104 | KL 0.0110 | Recon 0.1267 | Reward 0.0845 | Act 0.2906 | Pose 4.0977 | 
+[Train] Epoch 76 iter 921 | Loss 4.6727 | KL 0.0110 | Recon 0.1263 | Reward 0.0995 | Act 0.3009 | Pose 4.1351 | 
+[Train] Epoch 76 iter 922 | Loss 4.3758 | KL 0.0110 | Recon 0.1252 | Reward 0.0835 | Act 0.2788 | Pose 3.8774 | 
+[Train] Epoch 76 iter 923 | Loss 4.9018 | KL 0.0110 | Recon 0.1316 | Reward 0.0928 | Act 0.3260 | Pose 4.3404 | 
+[Train] Epoch 76 iter 924 | Loss 4.8335 | KL 0.0110 | Recon 0.1246 | Reward 0.1212 | Act 0.3094 | Pose 4.2674 | 
+wm_v3_noise_01/ Epoch 76 loss 4.7749
+[val] Epoch 76  DistErr: 7.265733, NCC: 0.890039, ParaErr: 4.363565
+[Train] Epoch 77 iter 925 | Loss 4.6042 | KL 0.0110 | Recon 0.1227 | Reward 0.1366 | Act 0.3022 | Pose 4.0317 | 
+[Train] Epoch 77 iter 926 | Loss 4.8861 | KL 0.0110 | Recon 0.1268 | Reward 0.1161 | Act 0.3210 | Pose 4.3112 | 
+[Train] Epoch 77 iter 927 | Loss 4.9348 | KL 0.0110 | Recon 0.1273 | Reward 0.1277 | Act 0.3401 | Pose 4.3288 | 
+[Train] Epoch 77 iter 928 | Loss 4.3518 | KL 0.0110 | Recon 0.1294 | Reward 0.0956 | Act 0.2763 | Pose 3.8395 | 
+[Train] Epoch 77 iter 929 | Loss 4.7904 | KL 0.0110 | Recon 0.1258 | Reward 0.0846 | Act 0.3273 | Pose 4.2417 | 
+[Train] Epoch 77 iter 930 | Loss 4.6619 | KL 0.0110 | Recon 0.1221 | Reward 0.1013 | Act 0.2981 | Pose 4.1295 | 
+[Train] Epoch 77 iter 931 | Loss 4.3767 | KL 0.0110 | Recon 0.1217 | Reward 0.1006 | Act 0.2630 | Pose 3.8804 | 
+[Train] Epoch 77 iter 932 | Loss 4.2621 | KL 0.0110 | Recon 0.1209 | Reward 0.0823 | Act 0.2698 | Pose 3.7781 | 
+[Train] Epoch 77 iter 933 | Loss 4.8479 | KL 0.0110 | Recon 0.1225 | Reward 0.1528 | Act 0.3365 | Pose 4.2251 | 
+[Train] Epoch 77 iter 934 | Loss 4.6825 | KL 0.0110 | Recon 0.1235 | Reward 0.0884 | Act 0.3078 | Pose 4.1517 | 
+[Train] Epoch 77 iter 935 | Loss 4.6868 | KL 0.0110 | Recon 0.1234 | Reward 0.0982 | Act 0.2901 | Pose 4.1639 | 
+[Train] Epoch 77 iter 936 | Loss 3.8856 | KL 0.0110 | Recon 0.1265 | Reward 0.0666 | Act 0.2356 | Pose 3.4460 | 
+wm_v3_noise_01/ Epoch 77 loss 4.5809
+[val] Epoch 77  DistErr: 7.288259, NCC: 0.889266, ParaErr: 4.383342
+[Train] Epoch 78 iter 937 | Loss 4.6636 | KL 0.0110 | Recon 0.1222 | Reward 0.0960 | Act 0.3012 | Pose 4.1332 | 
+[Train] Epoch 78 iter 938 | Loss 4.3784 | KL 0.0110 | Recon 0.1237 | Reward 0.0980 | Act 0.2839 | Pose 3.8619 | 
+[Train] Epoch 78 iter 939 | Loss 4.6030 | KL 0.0110 | Recon 0.1212 | Reward 0.1119 | Act 0.2965 | Pose 4.0624 | 
+[Train] Epoch 78 iter 940 | Loss 4.8708 | KL 0.0110 | Recon 0.1237 | Reward 0.1272 | Act 0.3202 | Pose 4.2887 | 
+[Train] Epoch 78 iter 941 | Loss 4.8216 | KL 0.0110 | Recon 0.1232 | Reward 0.0943 | Act 0.3171 | Pose 4.2760 | 
+[Train] Epoch 78 iter 942 | Loss 4.5719 | KL 0.0110 | Recon 0.1234 | Reward 0.0790 | Act 0.2986 | Pose 4.0599 | 
+[Train] Epoch 78 iter 943 | Loss 5.2342 | KL 0.0110 | Recon 0.1290 | Reward 0.0987 | Act 0.3589 | Pose 4.6366 | 
+[Train] Epoch 78 iter 944 | Loss 4.9563 | KL 0.0110 | Recon 0.1256 | Reward 0.1369 | Act 0.3333 | Pose 4.3496 | 
+[Train] Epoch 78 iter 945 | Loss 4.6837 | KL 0.0110 | Recon 0.1274 | Reward 0.1220 | Act 0.3069 | Pose 4.1164 | 
+[Train] Epoch 78 iter 946 | Loss 4.9077 | KL 0.0110 | Recon 0.1220 | Reward 0.1087 | Act 0.3410 | Pose 4.3250 | 
+[Train] Epoch 78 iter 947 | Loss 4.7971 | KL 0.0110 | Recon 0.1316 | Reward 0.1053 | Act 0.3202 | Pose 4.2291 | 
+[Train] Epoch 78 iter 948 | Loss 5.2469 | KL 0.0110 | Recon 0.1268 | Reward 0.1289 | Act 0.3701 | Pose 4.6101 | 
+wm_v3_noise_01/ Epoch 78 loss 4.8113
+[val] Epoch 78  DistErr: 7.297624, NCC: 0.888485, ParaErr: 4.397861
+[Train] Epoch 79 iter 949 | Loss 4.2596 | KL 0.0110 | Recon 0.1227 | Reward 0.0671 | Act 0.2681 | Pose 3.7906 | 
+[Train] Epoch 79 iter 950 | Loss 4.3335 | KL 0.0110 | Recon 0.1223 | Reward 0.0837 | Act 0.2639 | Pose 3.8527 | 
+[Train] Epoch 79 iter 951 | Loss 5.0633 | KL 0.0110 | Recon 0.1190 | Reward 0.1025 | Act 0.3425 | Pose 4.4883 | 
+[Train] Epoch 79 iter 952 | Loss 4.3668 | KL 0.0110 | Recon 0.1199 | Reward 0.1228 | Act 0.2885 | Pose 3.8246 | 
+[Train] Epoch 79 iter 953 | Loss 4.6136 | KL 0.0110 | Recon 0.1239 | Reward 0.1163 | Act 0.3043 | Pose 4.0581 | 
+[Train] Epoch 79 iter 954 | Loss 4.1341 | KL 0.0110 | Recon 0.1270 | Reward 0.0790 | Act 0.2495 | Pose 3.6676 | 
+[Train] Epoch 79 iter 955 | Loss 4.6763 | KL 0.0110 | Recon 0.1266 | Reward 0.0738 | Act 0.3098 | Pose 4.1551 | 
+[Train] Epoch 79 iter 956 | Loss 4.9040 | KL 0.0110 | Recon 0.1282 | Reward 0.1097 | Act 0.3200 | Pose 4.3351 | 
+[Train] Epoch 79 iter 957 | Loss 4.9056 | KL 0.0110 | Recon 0.1237 | Reward 0.0914 | Act 0.3228 | Pose 4.3567 | 
+[Train] Epoch 79 iter 958 | Loss 5.0908 | KL 0.0110 | Recon 0.1237 | Reward 0.1153 | Act 0.3499 | Pose 4.4909 | 
+[Train] Epoch 79 iter 959 | Loss 5.0032 | KL 0.0110 | Recon 0.1284 | Reward 0.1070 | Act 0.3476 | Pose 4.4093 | 
+[Train] Epoch 79 iter 960 | Loss 5.0266 | KL 0.0110 | Recon 0.1256 | Reward 0.1333 | Act 0.3426 | Pose 4.4140 | 
+wm_v3_noise_01/ Epoch 79 loss 4.6981
+[val] Epoch 79  DistErr: 7.306511, NCC: 0.888329, ParaErr: 4.402461
+[Train] Epoch 80 iter 961 | Loss 4.6537 | KL 0.0110 | Recon 0.1262 | Reward 0.1210 | Act 0.2921 | Pose 4.1036 | 
+[Train] Epoch 80 iter 962 | Loss 4.6606 | KL 0.0110 | Recon 0.1233 | Reward 0.1554 | Act 0.3228 | Pose 4.0481 | 
+[Train] Epoch 80 iter 963 | Loss 5.2485 | KL 0.0110 | Recon 0.1242 | Reward 0.1438 | Act 0.3660 | Pose 4.6035 | 
+[Train] Epoch 80 iter 964 | Loss 4.8513 | KL 0.0110 | Recon 0.1283 | Reward 0.0997 | Act 0.3250 | Pose 4.2873 | 
+[Train] Epoch 80 iter 965 | Loss 4.0454 | KL 0.0110 | Recon 0.1262 | Reward 0.1113 | Act 0.2394 | Pose 3.5575 | 
+[Train] Epoch 80 iter 966 | Loss 4.8785 | KL 0.0110 | Recon 0.1254 | Reward 0.1030 | Act 0.3235 | Pose 4.3157 | 
+[Train] Epoch 80 iter 967 | Loss 4.6209 | KL 0.0110 | Recon 0.1239 | Reward 0.0832 | Act 0.3012 | Pose 4.1016 | 
+[Train] Epoch 80 iter 968 | Loss 4.8297 | KL 0.0110 | Recon 0.1261 | Reward 0.0972 | Act 0.3238 | Pose 4.2716 | 
+[Train] Epoch 80 iter 969 | Loss 4.5181 | KL 0.0110 | Recon 0.1208 | Reward 0.0973 | Act 0.2960 | Pose 3.9931 | 
+[Train] Epoch 80 iter 970 | Loss 4.9185 | KL 0.0110 | Recon 0.1245 | Reward 0.1005 | Act 0.3338 | Pose 4.3487 | 
+[Train] Epoch 80 iter 971 | Loss 4.8344 | KL 0.0110 | Recon 0.1231 | Reward 0.0891 | Act 0.3094 | Pose 4.3018 | 
+[Train] Epoch 80 iter 972 | Loss 4.3373 | KL 0.0110 | Recon 0.1238 | Reward 0.1286 | Act 0.2870 | Pose 3.7870 | 
+wm_v3_noise_01/ Epoch 80 loss 4.6997
+[val] Epoch 80  DistErr: 7.302255, NCC: 0.888344, ParaErr: 4.401994
+[Train] Epoch 81 iter 973 | Loss 4.5126 | KL 0.0110 | Recon 0.1261 | Reward 0.0834 | Act 0.2892 | Pose 4.0030 | 
+[Train] Epoch 81 iter 974 | Loss 4.3751 | KL 0.0110 | Recon 0.1224 | Reward 0.1029 | Act 0.2746 | Pose 3.8643 | 
+[Train] Epoch 81 iter 975 | Loss 4.2643 | KL 0.0110 | Recon 0.1240 | Reward 0.0871 | Act 0.2658 | Pose 3.7763 | 
+[Train] Epoch 81 iter 976 | Loss 4.6298 | KL 0.0110 | Recon 0.1232 | Reward 0.0745 | Act 0.2994 | Pose 4.1217 | 
+[Train] Epoch 81 iter 977 | Loss 5.0488 | KL 0.0110 | Recon 0.1281 | Reward 0.1238 | Act 0.3479 | Pose 4.4379 | 
+[Train] Epoch 81 iter 978 | Loss 4.8011 | KL 0.0110 | Recon 0.1248 | Reward 0.0983 | Act 0.3118 | Pose 4.2551 | 
+[Train] Epoch 81 iter 979 | Loss 4.4551 | KL 0.0110 | Recon 0.1279 | Reward 0.1015 | Act 0.2957 | Pose 3.9189 | 
+[Train] Epoch 81 iter 980 | Loss 4.3189 | KL 0.0110 | Recon 0.1219 | Reward 0.0756 | Act 0.2711 | Pose 3.8393 | 
+[Train] Epoch 81 iter 981 | Loss 4.6803 | KL 0.0110 | Recon 0.1227 | Reward 0.1240 | Act 0.3054 | Pose 4.1172 | 
+[Train] Epoch 81 iter 982 | Loss 4.8658 | KL 0.0110 | Recon 0.1228 | Reward 0.1278 | Act 0.3181 | Pose 4.2861 | 
+[Train] Epoch 81 iter 983 | Loss 4.1487 | KL 0.0110 | Recon 0.1243 | Reward 0.0954 | Act 0.2706 | Pose 3.6475 | 
+[Train] Epoch 81 iter 984 | Loss 4.0230 | KL 0.0110 | Recon 0.1251 | Reward 0.0659 | Act 0.2398 | Pose 3.5813 | 
+wm_v3_noise_01/ Epoch 81 loss 4.5103
+[val] Epoch 81  DistErr: 7.278762, NCC: 0.889344, ParaErr: 4.377050
+[Train] Epoch 82 iter 985 | Loss 4.2962 | KL 0.0110 | Recon 0.1215 | Reward 0.1341 | Act 0.2728 | Pose 3.7569 | 
+[Train] Epoch 82 iter 986 | Loss 4.5767 | KL 0.0110 | Recon 0.1251 | Reward 0.0961 | Act 0.2951 | Pose 4.0495 | 
+[Train] Epoch 82 iter 987 | Loss 4.5888 | KL 0.0110 | Recon 0.1246 | Reward 0.1132 | Act 0.2961 | Pose 4.0439 | 
+[Train] Epoch 82 iter 988 | Loss 4.7378 | KL 0.0110 | Recon 0.1241 | Reward 0.1013 | Act 0.3265 | Pose 4.1749 | 
+[Train] Epoch 82 iter 989 | Loss 5.2402 | KL 0.0110 | Recon 0.1208 | Reward 0.1386 | Act 0.3703 | Pose 4.5996 | 
+[Train] Epoch 82 iter 990 | Loss 4.5680 | KL 0.0110 | Recon 0.1249 | Reward 0.1076 | Act 0.2999 | Pose 4.0246 | 
+[Train] Epoch 82 iter 991 | Loss 4.6307 | KL 0.0110 | Recon 0.1245 | Reward 0.1052 | Act 0.2901 | Pose 4.0999 | 
+[Train] Epoch 82 iter 992 | Loss 4.8506 | KL 0.0110 | Recon 0.1255 | Reward 0.0804 | Act 0.3066 | Pose 4.3270 | 
+[Train] Epoch 82 iter 993 | Loss 4.8341 | KL 0.0110 | Recon 0.1235 | Reward 0.1364 | Act 0.3105 | Pose 4.2526 | 
+[Train] Epoch 82 iter 994 | Loss 4.5679 | KL 0.0110 | Recon 0.1190 | Reward 0.1053 | Act 0.2897 | Pose 4.0428 | 
+[Train] Epoch 82 iter 995 | Loss 4.7965 | KL 0.0110 | Recon 0.1259 | Reward 0.0867 | Act 0.3207 | Pose 4.2522 | 
+[Train] Epoch 82 iter 996 | Loss 4.8595 | KL 0.0110 | Recon 0.1272 | Reward 0.1629 | Act 0.3262 | Pose 4.2322 | 
+wm_v3_noise_01/ Epoch 82 loss 4.7123
+[val] Epoch 82  DistErr: 7.287120, NCC: 0.889279, ParaErr: 4.384613
+[Train] Epoch 83 iter 997 | Loss 4.7179 | KL 0.0110 | Recon 0.1239 | Reward 0.1104 | Act 0.2985 | Pose 4.1741 | 
+[Train] Epoch 83 iter 998 | Loss 4.6530 | KL 0.0110 | Recon 0.1232 | Reward 0.1285 | Act 0.3110 | Pose 4.0792 | 
+[Train] Epoch 83 iter 999 | Loss 4.4618 | KL 0.0110 | Recon 0.1215 | Reward 0.0828 | Act 0.2805 | Pose 3.9661 | 
+[Train] Epoch 83 iter 1000 | Loss 4.5675 | KL 0.0110 | Recon 0.1183 | Reward 0.0901 | Act 0.2952 | Pose 4.0530 | 
+[Train] Epoch 83 iter 1001 | Loss 5.0557 | KL 0.0110 | Recon 0.1242 | Reward 0.1145 | Act 0.3305 | Pose 4.4756 | 
+[Train] Epoch 83 iter 1002 | Loss 4.4969 | KL 0.0110 | Recon 0.1288 | Reward 0.1013 | Act 0.2796 | Pose 3.9762 | 
+[Train] Epoch 83 iter 1003 | Loss 4.4959 | KL 0.0110 | Recon 0.1231 | Reward 0.1044 | Act 0.2920 | Pose 3.9654 | 
+[Train] Epoch 83 iter 1004 | Loss 4.3025 | KL 0.0110 | Recon 0.1239 | Reward 0.1190 | Act 0.2551 | Pose 3.7935 | 
+[Train] Epoch 83 iter 1005 | Loss 4.4728 | KL 0.0110 | Recon 0.1248 | Reward 0.1112 | Act 0.2844 | Pose 3.9415 | 
+[Train] Epoch 83 iter 1006 | Loss 4.5575 | KL 0.0110 | Recon 0.1276 | Reward 0.0847 | Act 0.2915 | Pose 4.0427 | 
+[Train] Epoch 83 iter 1007 | Loss 5.1619 | KL 0.0110 | Recon 0.1240 | Reward 0.1359 | Act 0.3567 | Pose 4.5343 | 
+[Train] Epoch 83 iter 1008 | Loss 4.9346 | KL 0.0110 | Recon 0.1248 | Reward 0.1580 | Act 0.3343 | Pose 4.3065 | 
+wm_v3_noise_01/ Epoch 83 loss 4.6565
+[val] Epoch 83  DistErr: 7.286906, NCC: 0.889143, ParaErr: 4.385484
+[Train] Epoch 84 iter 1009 | Loss 4.6011 | KL 0.0110 | Recon 0.1278 | Reward 0.1158 | Act 0.2967 | Pose 4.0499 | 
+[Train] Epoch 84 iter 1010 | Loss 4.3625 | KL 0.0110 | Recon 0.1241 | Reward 0.0798 | Act 0.2655 | Pose 3.8820 | 
+[Train] Epoch 84 iter 1011 | Loss 4.5567 | KL 0.0110 | Recon 0.1246 | Reward 0.1204 | Act 0.2895 | Pose 4.0113 | 
+[Train] Epoch 84 iter 1012 | Loss 4.9029 | KL 0.0110 | Recon 0.1242 | Reward 0.1115 | Act 0.3319 | Pose 4.3243 | 
+[Train] Epoch 84 iter 1013 | Loss 4.7675 | KL 0.0110 | Recon 0.1226 | Reward 0.0966 | Act 0.3151 | Pose 4.2221 | 
+[Train] Epoch 84 iter 1014 | Loss 4.5060 | KL 0.0110 | Recon 0.1207 | Reward 0.0887 | Act 0.2886 | Pose 3.9971 | 
+[Train] Epoch 84 iter 1015 | Loss 4.3506 | KL 0.0110 | Recon 0.1234 | Reward 0.0748 | Act 0.2741 | Pose 3.8673 | 
+[Train] Epoch 84 iter 1016 | Loss 4.5215 | KL 0.0110 | Recon 0.1265 | Reward 0.0919 | Act 0.3013 | Pose 3.9908 | 
+[Train] Epoch 84 iter 1017 | Loss 4.6521 | KL 0.0110 | Recon 0.1235 | Reward 0.1047 | Act 0.3029 | Pose 4.1100 | 
+[Train] Epoch 84 iter 1018 | Loss 5.2576 | KL 0.0110 | Recon 0.1242 | Reward 0.1390 | Act 0.3806 | Pose 4.6028 | 
+[Train] Epoch 84 iter 1019 | Loss 4.3346 | KL 0.0110 | Recon 0.1241 | Reward 0.0950 | Act 0.2809 | Pose 3.8237 | 
+[Train] Epoch 84 iter 1020 | Loss 4.5686 | KL 0.0110 | Recon 0.1210 | Reward 0.1266 | Act 0.3005 | Pose 4.0094 | 
+wm_v3_noise_01/ Epoch 84 loss 4.6151
+[val] Epoch 84  DistErr: 7.287246, NCC: 0.888960, ParaErr: 4.387686
+[Train] Epoch 85 iter 1021 | Loss 4.7795 | KL 0.0110 | Recon 0.1211 | Reward 0.0976 | Act 0.3096 | Pose 4.2402 | 
+[Train] Epoch 85 iter 1022 | Loss 4.3795 | KL 0.0110 | Recon 0.1244 | Reward 0.0705 | Act 0.2746 | Pose 3.8990 | 
+[Train] Epoch 85 iter 1023 | Loss 4.3594 | KL 0.0110 | Recon 0.1221 | Reward 0.0779 | Act 0.2726 | Pose 3.8758 | 
+[Train] Epoch 85 iter 1024 | Loss 4.5985 | KL 0.0110 | Recon 0.1278 | Reward 0.1013 | Act 0.3037 | Pose 4.0547 | 
+[Train] Epoch 85 iter 1025 | Loss 4.6371 | KL 0.0110 | Recon 0.1268 | Reward 0.0896 | Act 0.3055 | Pose 4.1041 | 
+[Train] Epoch 85 iter 1026 | Loss 4.8009 | KL 0.0110 | Recon 0.1233 | Reward 0.1037 | Act 0.3205 | Pose 4.2424 | 
+[Train] Epoch 85 iter 1027 | Loss 4.5751 | KL 0.0110 | Recon 0.1215 | Reward 0.0812 | Act 0.2986 | Pose 4.0629 | 
+[Train] Epoch 85 iter 1028 | Loss 4.4679 | KL 0.0110 | Recon 0.1236 | Reward 0.1198 | Act 0.2854 | Pose 3.9282 | 
+[Train] Epoch 85 iter 1029 | Loss 4.8105 | KL 0.0110 | Recon 0.1231 | Reward 0.1616 | Act 0.3259 | Pose 4.1889 | 
+[Train] Epoch 85 iter 1030 | Loss 4.3221 | KL 0.0110 | Recon 0.1198 | Reward 0.1204 | Act 0.2682 | Pose 3.8027 | 
+[Train] Epoch 85 iter 1031 | Loss 5.0012 | KL 0.0110 | Recon 0.1251 | Reward 0.1512 | Act 0.3387 | Pose 4.3752 | 
+[Train] Epoch 85 iter 1032 | Loss 4.1956 | KL 0.0110 | Recon 0.1281 | Reward 0.0989 | Act 0.2703 | Pose 3.6873 | 
+wm_v3_noise_01/ Epoch 85 loss 4.5773
+[val] Epoch 85  DistErr: 7.292680, NCC: 0.889023, ParaErr: 4.388708
+[Train] Epoch 86 iter 1033 | Loss 5.3427 | KL 0.0110 | Recon 0.1278 | Reward 0.1302 | Act 0.3621 | Pose 4.7116 | 
+[Train] Epoch 86 iter 1034 | Loss 4.3512 | KL 0.0110 | Recon 0.1221 | Reward 0.1058 | Act 0.2693 | Pose 3.8431 | 
+[Train] Epoch 86 iter 1035 | Loss 3.8638 | KL 0.0110 | Recon 0.1245 | Reward 0.1027 | Act 0.2334 | Pose 3.3922 | 
+[Train] Epoch 86 iter 1036 | Loss 5.2523 | KL 0.0110 | Recon 0.1277 | Reward 0.1096 | Act 0.3765 | Pose 4.6275 | 
+[Train] Epoch 86 iter 1037 | Loss 4.8163 | KL 0.0110 | Recon 0.1250 | Reward 0.0771 | Act 0.3235 | Pose 4.2797 | 
+[Train] Epoch 86 iter 1038 | Loss 4.3782 | KL 0.0110 | Recon 0.1260 | Reward 0.1102 | Act 0.2661 | Pose 3.8649 | 
+[Train] Epoch 86 iter 1039 | Loss 4.4981 | KL 0.0110 | Recon 0.1187 | Reward 0.1074 | Act 0.2812 | Pose 3.9799 | 
+[Train] Epoch 86 iter 1040 | Loss 4.6760 | KL 0.0110 | Recon 0.1274 | Reward 0.1000 | Act 0.3156 | Pose 4.1221 | 
+[Train] Epoch 86 iter 1041 | Loss 4.7658 | KL 0.0110 | Recon 0.1247 | Reward 0.0779 | Act 0.3123 | Pose 4.2400 | 
+[Train] Epoch 86 iter 1042 | Loss 5.0591 | KL 0.0110 | Recon 0.1259 | Reward 0.1129 | Act 0.3463 | Pose 4.4630 | 
+[Train] Epoch 86 iter 1043 | Loss 5.2016 | KL 0.0110 | Recon 0.1246 | Reward 0.1066 | Act 0.3707 | Pose 4.5887 | 
+[Train] Epoch 86 iter 1044 | Loss 4.8344 | KL 0.0110 | Recon 0.1223 | Reward 0.1132 | Act 0.3260 | Pose 4.2619 | 
+wm_v3_noise_01/ Epoch 86 loss 4.7533
+[val] Epoch 86  DistErr: 7.294531, NCC: 0.888633, ParaErr: 4.391691
+[Train] Epoch 87 iter 1045 | Loss 5.0633 | KL 0.0110 | Recon 0.1223 | Reward 0.1420 | Act 0.3480 | Pose 4.4399 | 
+[Train] Epoch 87 iter 1046 | Loss 4.6485 | KL 0.0110 | Recon 0.1288 | Reward 0.0896 | Act 0.2989 | Pose 4.1202 | 
+[Train] Epoch 87 iter 1047 | Loss 5.1830 | KL 0.0110 | Recon 0.1252 | Reward 0.1283 | Act 0.3674 | Pose 4.5511 | 
+[Train] Epoch 87 iter 1048 | Loss 5.0934 | KL 0.0110 | Recon 0.1264 | Reward 0.1180 | Act 0.3608 | Pose 4.4773 | 
+[Train] Epoch 87 iter 1049 | Loss 4.1089 | KL 0.0110 | Recon 0.1270 | Reward 0.0852 | Act 0.2533 | Pose 3.6324 | 
+[Train] Epoch 87 iter 1050 | Loss 5.0559 | KL 0.0110 | Recon 0.1220 | Reward 0.0959 | Act 0.3344 | Pose 4.4926 | 
+[Train] Epoch 87 iter 1051 | Loss 4.6509 | KL 0.0110 | Recon 0.1231 | Reward 0.0888 | Act 0.3071 | Pose 4.1210 | 
+[Train] Epoch 87 iter 1052 | Loss 4.9025 | KL 0.0110 | Recon 0.1244 | Reward 0.1099 | Act 0.3253 | Pose 4.3319 | 
+[Train] Epoch 87 iter 1053 | Loss 4.3129 | KL 0.0110 | Recon 0.1204 | Reward 0.0591 | Act 0.2643 | Pose 3.8581 | 
+[Train] Epoch 87 iter 1054 | Loss 5.0896 | KL 0.0110 | Recon 0.1273 | Reward 0.1036 | Act 0.3442 | Pose 4.5035 | 
+[Train] Epoch 87 iter 1055 | Loss 4.6436 | KL 0.0110 | Recon 0.1259 | Reward 0.1109 | Act 0.3046 | Pose 4.0912 | 
+[Train] Epoch 87 iter 1056 | Loss 4.5179 | KL 0.0110 | Recon 0.1228 | Reward 0.0961 | Act 0.2842 | Pose 4.0038 | 
+wm_v3_noise_01/ Epoch 87 loss 4.7725
+[val] Epoch 87  DistErr: 7.274757, NCC: 0.889630, ParaErr: 4.374074
+[Train] Epoch 88 iter 1057 | Loss 5.0026 | KL 0.0110 | Recon 0.1278 | Reward 0.1359 | Act 0.3324 | Pose 4.3955 | 
+[Train] Epoch 88 iter 1058 | Loss 4.3295 | KL 0.0110 | Recon 0.1268 | Reward 0.0833 | Act 0.2827 | Pose 3.8257 | 
+[Train] Epoch 88 iter 1059 | Loss 4.9795 | KL 0.0110 | Recon 0.1236 | Reward 0.0900 | Act 0.3262 | Pose 4.4287 | 
+[Train] Epoch 88 iter 1060 | Loss 4.5396 | KL 0.0110 | Recon 0.1184 | Reward 0.0777 | Act 0.2944 | Pose 4.0381 | 
+[Train] Epoch 88 iter 1061 | Loss 4.7899 | KL 0.0110 | Recon 0.1265 | Reward 0.1152 | Act 0.3403 | Pose 4.1970 | 
+[Train] Epoch 88 iter 1062 | Loss 4.8447 | KL 0.0110 | Recon 0.1213 | Reward 0.1413 | Act 0.3373 | Pose 4.2338 | 
+[Train] Epoch 88 iter 1063 | Loss 4.5205 | KL 0.0110 | Recon 0.1241 | Reward 0.1278 | Act 0.2859 | Pose 3.9718 | 
+[Train] Epoch 88 iter 1064 | Loss 4.6397 | KL 0.0110 | Recon 0.1205 | Reward 0.1471 | Act 0.2915 | Pose 4.0696 | 
+[Train] Epoch 88 iter 1065 | Loss 5.1916 | KL 0.0110 | Recon 0.1223 | Reward 0.1444 | Act 0.3577 | Pose 4.5561 | 
+[Train] Epoch 88 iter 1066 | Loss 5.4542 | KL 0.0110 | Recon 0.1264 | Reward 0.1534 | Act 0.3842 | Pose 4.7792 | 
+[Train] Epoch 88 iter 1067 | Loss 4.7836 | KL 0.0110 | Recon 0.1260 | Reward 0.1221 | Act 0.3212 | Pose 4.2032 | 
+[Train] Epoch 88 iter 1068 | Loss 4.4106 | KL 0.0110 | Recon 0.1252 | Reward 0.1294 | Act 0.2827 | Pose 3.8623 | 
+wm_v3_noise_01/ Epoch 88 loss 4.7905
+[val] Epoch 88  DistErr: 7.343808, NCC: 0.886911, ParaErr: 4.441387
+[Train] Epoch 89 iter 1069 | Loss 4.9267 | KL 0.0110 | Recon 0.1245 | Reward 0.0852 | Act 0.3416 | Pose 4.3644 | 
+[Train] Epoch 89 iter 1070 | Loss 4.6951 | KL 0.0110 | Recon 0.1275 | Reward 0.1071 | Act 0.3145 | Pose 4.1350 | 
+[Train] Epoch 89 iter 1071 | Loss 4.9354 | KL 0.0110 | Recon 0.1204 | Reward 0.1323 | Act 0.3334 | Pose 4.3384 | 
+[Train] Epoch 89 iter 1072 | Loss 4.7550 | KL 0.0110 | Recon 0.1230 | Reward 0.1464 | Act 0.3173 | Pose 4.1574 | 
+[Train] Epoch 89 iter 1073 | Loss 4.1464 | KL 0.0110 | Recon 0.1244 | Reward 0.0696 | Act 0.2593 | Pose 3.6820 | 
+[Train] Epoch 89 iter 1074 | Loss 4.0439 | KL 0.0110 | Recon 0.1212 | Reward 0.0752 | Act 0.2582 | Pose 3.5784 | 
+[Train] Epoch 89 iter 1075 | Loss 4.4261 | KL 0.0110 | Recon 0.1256 | Reward 0.0908 | Act 0.2797 | Pose 3.9190 | 
+[Train] Epoch 89 iter 1076 | Loss 4.8662 | KL 0.0110 | Recon 0.1227 | Reward 0.1595 | Act 0.3283 | Pose 4.2448 | 
+[Train] Epoch 89 iter 1077 | Loss 4.7921 | KL 0.0110 | Recon 0.1276 | Reward 0.0982 | Act 0.3223 | Pose 4.2330 | 
+[Train] Epoch 89 iter 1078 | Loss 4.2520 | KL 0.0110 | Recon 0.1263 | Reward 0.0793 | Act 0.2554 | Pose 3.7800 | 
+[Train] Epoch 89 iter 1079 | Loss 4.5734 | KL 0.0110 | Recon 0.1220 | Reward 0.0838 | Act 0.2924 | Pose 4.0642 | 
+[Train] Epoch 89 iter 1080 | Loss 4.6413 | KL 0.0110 | Recon 0.1241 | Reward 0.0863 | Act 0.3034 | Pose 4.1167 | 
+wm_v3_noise_01/ Epoch 89 loss 4.5878
+[val] Epoch 89  DistErr: 7.300412, NCC: 0.888449, ParaErr: 4.399200
+[Train] Epoch 90 iter 1081 | Loss 4.5154 | KL 0.0110 | Recon 0.1241 | Reward 0.0785 | Act 0.2998 | Pose 4.0021 | 
+[Train] Epoch 90 iter 1082 | Loss 5.0245 | KL 0.0110 | Recon 0.1293 | Reward 0.1798 | Act 0.3355 | Pose 4.3689 | 
+[Train] Epoch 90 iter 1083 | Loss 4.7676 | KL 0.0110 | Recon 0.1258 | Reward 0.1239 | Act 0.3216 | Pose 4.1853 | 
+[Train] Epoch 90 iter 1084 | Loss 4.6198 | KL 0.0110 | Recon 0.1251 | Reward 0.1187 | Act 0.3058 | Pose 4.0591 | 
+[Train] Epoch 90 iter 1085 | Loss 5.1792 | KL 0.0110 | Recon 0.1234 | Reward 0.1373 | Act 0.3552 | Pose 4.5522 | 
+[Train] Epoch 90 iter 1086 | Loss 4.5158 | KL 0.0110 | Recon 0.1281 | Reward 0.1066 | Act 0.2929 | Pose 3.9771 | 
+[Train] Epoch 90 iter 1087 | Loss 4.9114 | KL 0.0110 | Recon 0.1227 | Reward 0.1602 | Act 0.3283 | Pose 4.2891 | 
+[Train] Epoch 90 iter 1088 | Loss 4.7326 | KL 0.0110 | Recon 0.1236 | Reward 0.1154 | Act 0.3126 | Pose 4.1700 | 
+[Train] Epoch 90 iter 1089 | Loss 4.5054 | KL 0.0110 | Recon 0.1226 | Reward 0.1429 | Act 0.2863 | Pose 3.9426 | 
+[Train] Epoch 90 iter 1090 | Loss 4.7695 | KL 0.0110 | Recon 0.1241 | Reward 0.1502 | Act 0.3171 | Pose 4.1671 | 
+[Train] Epoch 90 iter 1091 | Loss 4.6965 | KL 0.0110 | Recon 0.1224 | Reward 0.0886 | Act 0.2966 | Pose 4.1779 | 
+[Train] Epoch 90 iter 1092 | Loss 5.2499 | KL 0.0110 | Recon 0.1314 | Reward 0.1172 | Act 0.3630 | Pose 4.6274 | 
+wm_v3_noise_01/ Epoch 90 loss 4.7906
+[val] Epoch 90  DistErr: 7.288513, NCC: 0.889088, ParaErr: 4.385050
+[Train] Epoch 91 iter 1093 | Loss 4.5784 | KL 0.0110 | Recon 0.1287 | Reward 0.0757 | Act 0.3022 | Pose 4.0609 | 
+[Train] Epoch 91 iter 1094 | Loss 4.9503 | KL 0.0110 | Recon 0.1254 | Reward 0.1387 | Act 0.3156 | Pose 4.3597 | 
+[Train] Epoch 91 iter 1095 | Loss 4.6746 | KL 0.0110 | Recon 0.1183 | Reward 0.0889 | Act 0.3093 | Pose 4.1471 | 
+[Train] Epoch 91 iter 1096 | Loss 4.9494 | KL 0.0110 | Recon 0.1274 | Reward 0.1025 | Act 0.3322 | Pose 4.3762 | 
+[Train] Epoch 91 iter 1097 | Loss 4.6254 | KL 0.0110 | Recon 0.1218 | Reward 0.1072 | Act 0.2939 | Pose 4.0916 | 
+[Train] Epoch 91 iter 1098 | Loss 5.2707 | KL 0.0110 | Recon 0.1233 | Reward 0.1298 | Act 0.3468 | Pose 4.6599 | 
+[Train] Epoch 91 iter 1099 | Loss 4.5649 | KL 0.0110 | Recon 0.1272 | Reward 0.1090 | Act 0.2919 | Pose 4.0258 | 
+[Train] Epoch 91 iter 1100 | Loss 4.7924 | KL 0.0110 | Recon 0.1274 | Reward 0.1058 | Act 0.3194 | Pose 4.2287 | 
+[Train] Epoch 91 iter 1101 | Loss 4.7412 | KL 0.0110 | Recon 0.1222 | Reward 0.0736 | Act 0.3035 | Pose 4.2309 | 
+[Train] Epoch 91 iter 1102 | Loss 4.9860 | KL 0.0110 | Recon 0.1230 | Reward 0.1135 | Act 0.3385 | Pose 4.4000 | 
+[Train] Epoch 91 iter 1103 | Loss 4.8852 | KL 0.0110 | Recon 0.1226 | Reward 0.1181 | Act 0.3484 | Pose 4.2852 | 
+[Train] Epoch 91 iter 1104 | Loss 4.7067 | KL 0.0110 | Recon 0.1242 | Reward 0.0699 | Act 0.3091 | Pose 4.1925 | 
+wm_v3_noise_01/ Epoch 91 loss 4.8104
+[val] Epoch 91  DistErr: 7.273106, NCC: 0.889558, ParaErr: 4.372543
+[Train] Epoch 92 iter 1105 | Loss 4.5092 | KL 0.0110 | Recon 0.1249 | Reward 0.1192 | Act 0.2865 | Pose 3.9676 | 
+[Train] Epoch 92 iter 1106 | Loss 4.4031 | KL 0.0110 | Recon 0.1205 | Reward 0.0968 | Act 0.2828 | Pose 3.8920 | 
+[Train] Epoch 92 iter 1107 | Loss 4.0857 | KL 0.0110 | Recon 0.1246 | Reward 0.0668 | Act 0.2540 | Pose 3.6292 | 
+[Train] Epoch 92 iter 1108 | Loss 5.1779 | KL 0.0110 | Recon 0.1245 | Reward 0.1076 | Act 0.3496 | Pose 4.5852 | 
+[Train] Epoch 92 iter 1109 | Loss 4.5810 | KL 0.0110 | Recon 0.1282 | Reward 0.0992 | Act 0.2954 | Pose 4.0473 | 
+[Train] Epoch 92 iter 1110 | Loss 4.3733 | KL 0.0110 | Recon 0.1213 | Reward 0.0723 | Act 0.2793 | Pose 3.8894 | 
+[Train] Epoch 92 iter 1111 | Loss 4.1405 | KL 0.0110 | Recon 0.1233 | Reward 0.0570 | Act 0.2439 | Pose 3.7053 | 
+[Train] Epoch 92 iter 1112 | Loss 4.1201 | KL 0.0110 | Recon 0.1218 | Reward 0.0747 | Act 0.2484 | Pose 3.6642 | 
+[Train] Epoch 92 iter 1113 | Loss 4.1585 | KL 0.0110 | Recon 0.1241 | Reward 0.0836 | Act 0.2637 | Pose 3.6762 | 
+[Train] Epoch 92 iter 1114 | Loss 4.9225 | KL 0.0110 | Recon 0.1249 | Reward 0.0916 | Act 0.3306 | Pose 4.3644 | 
+[Train] Epoch 92 iter 1115 | Loss 4.4721 | KL 0.0110 | Recon 0.1279 | Reward 0.1015 | Act 0.2844 | Pose 3.9473 | 
+[Train] Epoch 92 iter 1116 | Loss 4.6290 | KL 0.0110 | Recon 0.1226 | Reward 0.0981 | Act 0.3036 | Pose 4.0937 | 
+wm_v3_noise_01/ Epoch 92 loss 4.4644
+[val] Epoch 92  DistErr: 7.286979, NCC: 0.889399, ParaErr: 4.379424
+[Train] Epoch 93 iter 1117 | Loss 5.1263 | KL 0.0110 | Recon 0.1263 | Reward 0.1043 | Act 0.3672 | Pose 4.5176 | 
+[Train] Epoch 93 iter 1118 | Loss 4.8115 | KL 0.0110 | Recon 0.1250 | Reward 0.1204 | Act 0.3378 | Pose 4.2172 | 
+[Train] Epoch 93 iter 1119 | Loss 4.4442 | KL 0.0110 | Recon 0.1277 | Reward 0.1009 | Act 0.2818 | Pose 3.9228 | 
+[Train] Epoch 93 iter 1120 | Loss 4.9435 | KL 0.0110 | Recon 0.1253 | Reward 0.0868 | Act 0.3244 | Pose 4.3959 | 
+[Train] Epoch 93 iter 1121 | Loss 4.3154 | KL 0.0110 | Recon 0.1230 | Reward 0.1089 | Act 0.2646 | Pose 3.8079 | 
+[Train] Epoch 93 iter 1122 | Loss 4.8210 | KL 0.0110 | Recon 0.1269 | Reward 0.0802 | Act 0.3229 | Pose 4.2801 | 
+[Train] Epoch 93 iter 1123 | Loss 4.6481 | KL 0.0110 | Recon 0.1265 | Reward 0.1022 | Act 0.3014 | Pose 4.1069 | 
+[Train] Epoch 93 iter 1124 | Loss 4.9676 | KL 0.0110 | Recon 0.1258 | Reward 0.1189 | Act 0.3387 | Pose 4.3732 | 
+[Train] Epoch 93 iter 1125 | Loss 4.7296 | KL 0.0110 | Recon 0.1240 | Reward 0.1057 | Act 0.3085 | Pose 4.1805 | 
+[Train] Epoch 93 iter 1126 | Loss 4.7169 | KL 0.0110 | Recon 0.1252 | Reward 0.0926 | Act 0.3117 | Pose 4.1764 | 
+[Train] Epoch 93 iter 1127 | Loss 4.7333 | KL 0.0110 | Recon 0.1199 | Reward 0.1467 | Act 0.3196 | Pose 4.1361 | 
+[Train] Epoch 93 iter 1128 | Loss 4.5308 | KL 0.0110 | Recon 0.1223 | Reward 0.1138 | Act 0.2817 | Pose 4.0020 | 
+wm_v3_noise_01/ Epoch 93 loss 4.7324
+[val] Epoch 93  DistErr: 7.253803, NCC: 0.890546, ParaErr: 4.348713
+[Train] Epoch 94 iter 1129 | Loss 4.2921 | KL 0.0110 | Recon 0.1255 | Reward 0.0813 | Act 0.2644 | Pose 3.8099 | 
+[Train] Epoch 94 iter 1130 | Loss 4.7765 | KL 0.0110 | Recon 0.1272 | Reward 0.0962 | Act 0.3182 | Pose 4.2240 | 
+[Train] Epoch 94 iter 1131 | Loss 5.0423 | KL 0.0110 | Recon 0.1256 | Reward 0.1231 | Act 0.3458 | Pose 4.4368 | 
+[Train] Epoch 94 iter 1132 | Loss 4.2262 | KL 0.0110 | Recon 0.1269 | Reward 0.0946 | Act 0.2562 | Pose 3.7376 | 
+[Train] Epoch 94 iter 1133 | Loss 4.6812 | KL 0.0110 | Recon 0.1211 | Reward 0.1479 | Act 0.3137 | Pose 4.0875 | 
+[Train] Epoch 94 iter 1134 | Loss 4.7035 | KL 0.0110 | Recon 0.1257 | Reward 0.1038 | Act 0.3121 | Pose 4.1509 | 
+[Train] Epoch 94 iter 1135 | Loss 4.8593 | KL 0.0110 | Recon 0.1263 | Reward 0.0999 | Act 0.3020 | Pose 4.3200 | 
+[Train] Epoch 94 iter 1136 | Loss 5.0040 | KL 0.0110 | Recon 0.1211 | Reward 0.1629 | Act 0.3423 | Pose 4.3667 | 
+[Train] Epoch 94 iter 1137 | Loss 4.4648 | KL 0.0110 | Recon 0.1190 | Reward 0.0810 | Act 0.2745 | Pose 3.9792 | 
+[Train] Epoch 94 iter 1138 | Loss 4.8175 | KL 0.0110 | Recon 0.1220 | Reward 0.0864 | Act 0.3248 | Pose 4.2734 | 
+[Train] Epoch 94 iter 1139 | Loss 4.4172 | KL 0.0110 | Recon 0.1245 | Reward 0.1204 | Act 0.2830 | Pose 3.8783 | 
+[Train] Epoch 94 iter 1140 | Loss 5.1587 | KL 0.0110 | Recon 0.1264 | Reward 0.1378 | Act 0.3502 | Pose 4.5333 | 
+wm_v3_noise_01/ Epoch 94 loss 4.7036
+[val] Epoch 94  DistErr: 7.273333, NCC: 0.889600, ParaErr: 4.371315
+[Train] Epoch 95 iter 1141 | Loss 4.5353 | KL 0.0110 | Recon 0.1294 | Reward 0.0846 | Act 0.2899 | Pose 4.0204 | 
+[Train] Epoch 95 iter 1142 | Loss 4.9574 | KL 0.0110 | Recon 0.1226 | Reward 0.1129 | Act 0.3554 | Pose 4.3554 | 
+[Train] Epoch 95 iter 1143 | Loss 4.8063 | KL 0.0110 | Recon 0.1228 | Reward 0.1030 | Act 0.3060 | Pose 4.2635 | 
+[Train] Epoch 95 iter 1144 | Loss 4.5343 | KL 0.0110 | Recon 0.1220 | Reward 0.0939 | Act 0.3066 | Pose 4.0008 | 
+[Train] Epoch 95 iter 1145 | Loss 4.2986 | KL 0.0110 | Recon 0.1247 | Reward 0.0972 | Act 0.2728 | Pose 3.7930 | 
+[Train] Epoch 95 iter 1146 | Loss 4.4176 | KL 0.0110 | Recon 0.1257 | Reward 0.0885 | Act 0.2741 | Pose 3.9183 | 
+[Train] Epoch 95 iter 1147 | Loss 5.3659 | KL 0.0110 | Recon 0.1246 | Reward 0.1260 | Act 0.3752 | Pose 4.7291 | 
+[Train] Epoch 95 iter 1148 | Loss 4.1468 | KL 0.0110 | Recon 0.1240 | Reward 0.0796 | Act 0.2659 | Pose 3.6663 | 
+[Train] Epoch 95 iter 1149 | Loss 4.7771 | KL 0.0110 | Recon 0.1235 | Reward 0.0938 | Act 0.3239 | Pose 4.2249 | 
+[Train] Epoch 95 iter 1150 | Loss 5.3264 | KL 0.0110 | Recon 0.1262 | Reward 0.1273 | Act 0.3659 | Pose 4.6961 | 
+[Train] Epoch 95 iter 1151 | Loss 4.6530 | KL 0.0110 | Recon 0.1238 | Reward 0.1593 | Act 0.2992 | Pose 4.0597 | 
+[Train] Epoch 95 iter 1152 | Loss 4.5929 | KL 0.0110 | Recon 0.1195 | Reward 0.1487 | Act 0.2928 | Pose 4.0209 | 
+wm_v3_noise_01/ Epoch 95 loss 4.7010
+[val] Epoch 95  DistErr: 7.279638, NCC: 0.889301, ParaErr: 4.378739
+[Train] Epoch 96 iter 1153 | Loss 5.1966 | KL 0.0110 | Recon 0.1252 | Reward 0.1266 | Act 0.3612 | Pose 4.5727 | 
+[Train] Epoch 96 iter 1154 | Loss 4.5766 | KL 0.0110 | Recon 0.1234 | Reward 0.1308 | Act 0.2851 | Pose 4.0263 | 
+[Train] Epoch 96 iter 1155 | Loss 4.4644 | KL 0.0110 | Recon 0.1257 | Reward 0.0853 | Act 0.2937 | Pose 3.9486 | 
+[Train] Epoch 96 iter 1156 | Loss 4.6613 | KL 0.0110 | Recon 0.1242 | Reward 0.0918 | Act 0.2991 | Pose 4.1352 | 
+[Train] Epoch 96 iter 1157 | Loss 4.6482 | KL 0.0110 | Recon 0.1215 | Reward 0.1016 | Act 0.3017 | Pose 4.1124 | 
+[Train] Epoch 96 iter 1158 | Loss 4.9066 | KL 0.0110 | Recon 0.1250 | Reward 0.1141 | Act 0.3193 | Pose 4.3373 | 
+[Train] Epoch 96 iter 1159 | Loss 5.2225 | KL 0.0110 | Recon 0.1265 | Reward 0.1127 | Act 0.3707 | Pose 4.6017 | 
+[Train] Epoch 96 iter 1160 | Loss 4.9208 | KL 0.0110 | Recon 0.1236 | Reward 0.1250 | Act 0.3270 | Pose 4.3342 | 
+[Train] Epoch 96 iter 1161 | Loss 4.8771 | KL 0.0110 | Recon 0.1238 | Reward 0.1807 | Act 0.3292 | Pose 4.2324 | 
+[Train] Epoch 96 iter 1162 | Loss 4.2664 | KL 0.0110 | Recon 0.1227 | Reward 0.1110 | Act 0.2723 | Pose 3.7494 | 
+[Train] Epoch 96 iter 1163 | Loss 5.0496 | KL 0.0110 | Recon 0.1247 | Reward 0.1214 | Act 0.3355 | Pose 4.4570 | 
+[Train] Epoch 96 iter 1164 | Loss 4.0674 | KL 0.0110 | Recon 0.1238 | Reward 0.0990 | Act 0.2569 | Pose 3.5768 | 
+wm_v3_noise_01/ Epoch 96 loss 4.7381
+[val] Epoch 96  DistErr: 7.317091, NCC: 0.887793, ParaErr: 4.415150
+[Train] Epoch 97 iter 1165 | Loss 4.4987 | KL 0.0110 | Recon 0.1238 | Reward 0.0848 | Act 0.3043 | Pose 3.9747 | 
+[Train] Epoch 97 iter 1166 | Loss 5.3310 | KL 0.0110 | Recon 0.1242 | Reward 0.1122 | Act 0.3798 | Pose 4.7038 | 
+[Train] Epoch 97 iter 1167 | Loss 4.1554 | KL 0.0110 | Recon 0.1240 | Reward 0.0851 | Act 0.2588 | Pose 3.6764 | 
+[Train] Epoch 97 iter 1168 | Loss 4.5674 | KL 0.0110 | Recon 0.1234 | Reward 0.0749 | Act 0.2896 | Pose 4.0684 | 
+[Train] Epoch 97 iter 1169 | Loss 4.5629 | KL 0.0110 | Recon 0.1184 | Reward 0.1030 | Act 0.3110 | Pose 4.0195 | 
+[Train] Epoch 97 iter 1170 | Loss 4.6706 | KL 0.0110 | Recon 0.1204 | Reward 0.0764 | Act 0.3004 | Pose 4.1624 | 
+[Train] Epoch 97 iter 1171 | Loss 4.6626 | KL 0.0110 | Recon 0.1243 | Reward 0.1025 | Act 0.3020 | Pose 4.1229 | 
+[Train] Epoch 97 iter 1172 | Loss 4.6053 | KL 0.0110 | Recon 0.1256 | Reward 0.1110 | Act 0.3022 | Pose 4.0554 | 
+[Train] Epoch 97 iter 1173 | Loss 4.6719 | KL 0.0110 | Recon 0.1263 | Reward 0.0967 | Act 0.3043 | Pose 4.1336 | 
+[Train] Epoch 97 iter 1174 | Loss 5.1640 | KL 0.0110 | Recon 0.1269 | Reward 0.1259 | Act 0.3656 | Pose 4.5346 | 
+[Train] Epoch 97 iter 1175 | Loss 4.3226 | KL 0.0110 | Recon 0.1245 | Reward 0.0901 | Act 0.2669 | Pose 3.8301 | 
+[Train] Epoch 97 iter 1176 | Loss 4.6421 | KL 0.0110 | Recon 0.1252 | Reward 0.0990 | Act 0.3010 | Pose 4.1059 | 
+wm_v3_noise_01/ Epoch 97 loss 4.6545
+[val] Epoch 97  DistErr: 7.313388, NCC: 0.887991, ParaErr: 4.413226
+[Train] Epoch 98 iter 1177 | Loss 4.5015 | KL 0.0110 | Recon 0.1233 | Reward 0.0887 | Act 0.2889 | Pose 3.9897 | 
+[Train] Epoch 98 iter 1178 | Loss 4.2719 | KL 0.0110 | Recon 0.1290 | Reward 0.0810 | Act 0.2634 | Pose 3.7874 | 
+[Train] Epoch 98 iter 1179 | Loss 4.5726 | KL 0.0110 | Recon 0.1260 | Reward 0.1002 | Act 0.2958 | Pose 4.0396 | 
+[Train] Epoch 98 iter 1180 | Loss 4.2594 | KL 0.0110 | Recon 0.1243 | Reward 0.0839 | Act 0.2578 | Pose 3.7824 | 
+[Train] Epoch 98 iter 1181 | Loss 4.4402 | KL 0.0110 | Recon 0.1190 | Reward 0.0926 | Act 0.2929 | Pose 3.9247 | 
+[Train] Epoch 98 iter 1182 | Loss 4.5994 | KL 0.0110 | Recon 0.1262 | Reward 0.0758 | Act 0.2908 | Pose 4.0956 | 
+[Train] Epoch 98 iter 1183 | Loss 4.5726 | KL 0.0110 | Recon 0.1234 | Reward 0.0870 | Act 0.2891 | Pose 4.0621 | 
+[Train] Epoch 98 iter 1184 | Loss 4.2154 | KL 0.0110 | Recon 0.1208 | Reward 0.0948 | Act 0.2616 | Pose 3.7272 | 
+[Train] Epoch 98 iter 1185 | Loss 5.4586 | KL 0.0110 | Recon 0.1263 | Reward 0.1228 | Act 0.3906 | Pose 4.8079 | 
+[Train] Epoch 98 iter 1186 | Loss 4.3924 | KL 0.0110 | Recon 0.1217 | Reward 0.0673 | Act 0.2747 | Pose 3.9177 | 
+[Train] Epoch 98 iter 1187 | Loss 4.4293 | KL 0.0110 | Recon 0.1238 | Reward 0.1102 | Act 0.2781 | Pose 3.9062 | 
+[Train] Epoch 98 iter 1188 | Loss 4.7534 | KL 0.0110 | Recon 0.1229 | Reward 0.1085 | Act 0.3315 | Pose 4.1795 | 
+wm_v3_noise_01/ Epoch 98 loss 4.5389
+[val] Epoch 98  DistErr: 7.286350, NCC: 0.888933, ParaErr: 4.387301
+[Train] Epoch 99 iter 1189 | Loss 5.1417 | KL 0.0110 | Recon 0.1234 | Reward 0.1494 | Act 0.3521 | Pose 4.5058 | 
+[Train] Epoch 99 iter 1190 | Loss 4.3560 | KL 0.0110 | Recon 0.1201 | Reward 0.1104 | Act 0.2734 | Pose 3.8411 | 
+[Train] Epoch 99 iter 1191 | Loss 4.4675 | KL 0.0110 | Recon 0.1228 | Reward 0.0870 | Act 0.3047 | Pose 3.9419 | 
+[Train] Epoch 99 iter 1192 | Loss 5.0614 | KL 0.0110 | Recon 0.1235 | Reward 0.1209 | Act 0.3293 | Pose 4.4766 | 
+[Train] Epoch 99 iter 1193 | Loss 4.6724 | KL 0.0110 | Recon 0.1290 | Reward 0.1228 | Act 0.3091 | Pose 4.1005 | 
+[Train] Epoch 99 iter 1194 | Loss 4.5533 | KL 0.0110 | Recon 0.1231 | Reward 0.0941 | Act 0.2847 | Pose 4.0405 | 
+[Train] Epoch 99 iter 1195 | Loss 5.0873 | KL 0.0110 | Recon 0.1220 | Reward 0.1468 | Act 0.3338 | Pose 4.4737 | 

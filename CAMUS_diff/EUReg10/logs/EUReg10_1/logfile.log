@@ -1,0 +1,849 @@
+0 TotelIter 1 loss 11.434986, DistErr 13.291499, Trans: 4.481307, Rots: 4.567494, Flow: 2.505213, Sim: -0.119028
+0 TotelIter 2 loss 11.612461, DistErr 13.359169, Trans: 4.658060, Rots: 4.569654, Flow: 2.507039, Sim: -0.122292
+0 TotelIter 3 loss 11.167577, DistErr 12.959537, Trans: 4.205857, Rots: 4.566049, Flow: 2.521721, Sim: -0.126050
+0 TotelIter 4 loss 10.573438, DistErr 12.730803, Trans: 4.089372, Rots: 4.280746, Flow: 2.335290, Sim: -0.131970
+0 TotelIter 5 loss 10.531655, DistErr 12.642993, Trans: 3.986833, Rots: 4.419501, Flow: 2.255019, Sim: -0.129697
+0 TotelIter 6 loss 10.977221, DistErr 12.896957, Trans: 4.288017, Rots: 4.590734, Flow: 2.221583, Sim: -0.123113
+0 TotelIter 7 loss 10.887978, DistErr 12.850501, Trans: 4.385473, Rots: 4.449044, Flow: 2.173065, Sim: -0.119604
+0 TotelIter 8 loss 10.762171, DistErr 13.173288, Trans: 4.026590, Rots: 4.805364, Flow: 2.058399, Sim: -0.128183
+0 TotelIter 9 loss 11.075776, DistErr 13.528525, Trans: 4.346251, Rots: 4.818939, Flow: 2.033219, Sim: -0.122634
+0 TotelIter 10 loss 10.993488, DistErr 13.166852, Trans: 4.498100, Rots: 4.585196, Flow: 2.039290, Sim: -0.129097
+0 TotelIter 11 loss 10.670414, DistErr 13.036132, Trans: 4.416356, Rots: 4.438673, Flow: 1.943126, Sim: -0.127741
+0 TotelIter 12 loss 10.664327, DistErr 12.997153, Trans: 4.370510, Rots: 4.503906, Flow: 1.913309, Sim: -0.123397
+EUReg10_1/ Epoch 0 loss 10.9460
+[val] Epoch 0  DistErr: 12.945467, NCC: 0.587613, ParaErr: 8.843377
+>> New best @ epoch 0: ParaErr=8.843377  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+1 TotelIter 13 loss 10.369205, DistErr 12.614717, Trans: 4.160219, Rots: 4.431213, Flow: 1.908228, Sim: -0.130455
+1 TotelIter 14 loss 11.304935, DistErr 13.728187, Trans: 4.829197, Rots: 4.703241, Flow: 1.892052, Sim: -0.119555
+1 TotelIter 15 loss 10.395299, DistErr 12.826825, Trans: 4.132639, Rots: 4.574341, Flow: 1.826701, Sim: -0.138382
+1 TotelIter 16 loss 10.652744, DistErr 13.135155, Trans: 4.455873, Rots: 4.530027, Flow: 1.804995, Sim: -0.138151
+1 TotelIter 17 loss 10.737553, DistErr 13.445168, Trans: 4.644807, Rots: 4.517183, Flow: 1.703448, Sim: -0.127887
+1 TotelIter 18 loss 10.200305, DistErr 12.925368, Trans: 4.294108, Rots: 4.396955, Flow: 1.640307, Sim: -0.131065
+1 TotelIter 19 loss 10.822341, DistErr 13.492591, Trans: 4.691172, Rots: 4.595247, Flow: 1.657435, Sim: -0.121514
+1 TotelIter 20 loss 10.466379, DistErr 13.142743, Trans: 4.523157, Rots: 4.486795, Flow: 1.584285, Sim: -0.127858
+1 TotelIter 21 loss 11.014563, DistErr 13.854238, Trans: 5.060518, Rots: 4.493761, Flow: 1.579125, Sim: -0.118842
+1 TotelIter 22 loss 9.968533, DistErr 12.907831, Trans: 4.330289, Rots: 4.309422, Flow: 1.460506, Sim: -0.131685
+1 TotelIter 23 loss 10.761103, DistErr 13.787709, Trans: 4.480938, Rots: 4.978814, Flow: 1.438757, Sim: -0.137405
+1 TotelIter 24 loss 10.641451, DistErr 13.562797, Trans: 4.565546, Rots: 4.770922, Flow: 1.437961, Sim: -0.132978
+EUReg10_1/ Epoch 1 loss 10.6112
+[val] Epoch 1  DistErr: 12.953753, NCC: 0.592105, ParaErr: 8.846107
+2 TotelIter 25 loss 10.795059, DistErr 13.434029, Trans: 4.651536, Rots: 4.830300, Flow: 1.441378, Sim: -0.128154
+2 TotelIter 26 loss 10.076161, DistErr 12.992783, Trans: 4.501880, Rots: 4.379531, Flow: 1.328687, Sim: -0.133937
+2 TotelIter 27 loss 9.490854, DistErr 12.215361, Trans: 3.933830, Rots: 4.454681, Flow: 1.255371, Sim: -0.153027
+2 TotelIter 28 loss 10.069602, DistErr 13.249178, Trans: 4.480639, Rots: 4.416887, Flow: 1.308588, Sim: -0.136511
+2 TotelIter 29 loss 10.095287, DistErr 13.031125, Trans: 4.345109, Rots: 4.656920, Flow: 1.234902, Sim: -0.141645
+2 TotelIter 30 loss 9.801821, DistErr 13.107903, Trans: 4.282269, Rots: 4.513503, Flow: 1.152355, Sim: -0.146307
+2 TotelIter 31 loss 10.300715, DistErr 13.494308, Trans: 4.940152, Rots: 4.255092, Flow: 1.239816, Sim: -0.134345
+2 TotelIter 32 loss 9.874127, DistErr 13.223815, Trans: 4.296210, Rots: 4.565079, Flow: 1.159453, Sim: -0.146614
+2 TotelIter 33 loss 10.258780, DistErr 13.531786, Trans: 4.487042, Rots: 4.747314, Flow: 1.158684, Sim: -0.134261
+2 TotelIter 34 loss 9.899668, DistErr 13.100761, Trans: 4.306475, Rots: 4.630333, Flow: 1.110106, Sim: -0.147247
+2 TotelIter 35 loss 10.277259, DistErr 13.354819, Trans: 4.519758, Rots: 4.675762, Flow: 1.216873, Sim: -0.135135
+2 TotelIter 36 loss 9.079708, DistErr 12.211960, Trans: 3.862803, Rots: 4.289385, Flow: 1.077359, Sim: -0.149838
+EUReg10_1/ Epoch 2 loss 10.0016
+[val] Epoch 2  DistErr: 12.963275, NCC: 0.592696, ParaErr: 8.849591
+3 TotelIter 37 loss 10.321445, DistErr 13.398505, Trans: 4.404193, Rots: 4.989006, Flow: 1.063899, Sim: -0.135653
+3 TotelIter 38 loss 10.097667, DistErr 13.506235, Trans: 4.516681, Rots: 4.647229, Flow: 1.066502, Sim: -0.132745
+3 TotelIter 39 loss 9.863089, DistErr 13.349872, Trans: 4.639970, Rots: 4.366546, Flow: 0.999762, Sim: -0.143188
+3 TotelIter 40 loss 9.880272, DistErr 13.338996, Trans: 4.616980, Rots: 4.413528, Flow: 0.985865, Sim: -0.136102
+3 TotelIter 41 loss 9.913195, DistErr 13.273050, Trans: 4.664018, Rots: 4.383957, Flow: 1.001093, Sim: -0.135873
+3 TotelIter 42 loss 9.800714, DistErr 13.141608, Trans: 4.271667, Rots: 4.733668, Flow: 0.935882, Sim: -0.140503
+3 TotelIter 43 loss 9.947744, DistErr 13.245711, Trans: 4.554731, Rots: 4.536044, Flow: 0.996587, Sim: -0.139619
+3 TotelIter 44 loss 9.833140, DistErr 12.932635, Trans: 4.452817, Rots: 4.503898, Flow: 1.011437, Sim: -0.135010
+3 TotelIter 45 loss 9.889997, DistErr 13.343890, Trans: 4.346671, Rots: 4.753654, Flow: 0.923472, Sim: -0.133799
+3 TotelIter 46 loss 9.600055, DistErr 12.837564, Trans: 4.325469, Rots: 4.502512, Flow: 0.915098, Sim: -0.143025
+3 TotelIter 47 loss 9.219643, DistErr 12.727552, Trans: 4.190751, Rots: 4.322323, Flow: 0.855838, Sim: -0.149268
+3 TotelIter 48 loss 9.457535, DistErr 12.702778, Trans: 4.443837, Rots: 4.216830, Flow: 0.941863, Sim: -0.144996
+EUReg10_1/ Epoch 3 loss 9.8187
+[val] Epoch 3  DistErr: 12.922073, NCC: 0.593353, ParaErr: 8.818473
+>> New best @ epoch 3: ParaErr=8.818473  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+4 TotelIter 49 loss 9.846732, DistErr 13.401395, Trans: 4.494093, Rots: 4.628857, Flow: 0.864827, Sim: -0.141044
+4 TotelIter 50 loss 9.500235, DistErr 13.070601, Trans: 4.553436, Rots: 4.271150, Flow: 0.814318, Sim: -0.138670
+4 TotelIter 51 loss 9.972641, DistErr 13.317194, Trans: 4.460670, Rots: 4.757034, Flow: 0.883127, Sim: -0.128191
+4 TotelIter 52 loss 9.522820, DistErr 13.171775, Trans: 4.445415, Rots: 4.368961, Flow: 0.852572, Sim: -0.144130
+4 TotelIter 53 loss 9.084434, DistErr 12.534615, Trans: 4.132399, Rots: 4.289353, Flow: 0.804315, Sim: -0.141634
+4 TotelIter 54 loss 8.705144, DistErr 12.002054, Trans: 4.022632, Rots: 4.087091, Flow: 0.735757, Sim: -0.140336
+4 TotelIter 55 loss 9.464745, DistErr 12.825910, Trans: 4.269722, Rots: 4.579049, Flow: 0.750345, Sim: -0.134371
+4 TotelIter 56 loss 9.087104, DistErr 12.619780, Trans: 4.305736, Rots: 4.151641, Flow: 0.766000, Sim: -0.136273
+4 TotelIter 57 loss 9.281623, DistErr 12.662915, Trans: 3.983539, Rots: 4.710817, Flow: 0.726956, Sim: -0.139689
+4 TotelIter 58 loss 9.359202, DistErr 12.801650, Trans: 4.220319, Rots: 4.528742, Flow: 0.739630, Sim: -0.129489
+4 TotelIter 59 loss 9.435352, DistErr 13.159968, Trans: 4.206032, Rots: 4.612334, Flow: 0.757005, Sim: -0.140019
+4 TotelIter 60 loss 9.400306, DistErr 12.566503, Trans: 4.300265, Rots: 4.417356, Flow: 0.816208, Sim: -0.133523
+EUReg10_1/ Epoch 4 loss 9.3884
+[val] Epoch 4  DistErr: 12.696147, NCC: 0.599685, ParaErr: 8.646536
+>> New best @ epoch 4: ParaErr=8.646536  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+5 TotelIter 61 loss 8.961808, DistErr 12.268369, Trans: 4.166880, Rots: 4.146277, Flow: 0.782797, Sim: -0.134146
+5 TotelIter 62 loss 9.254358, DistErr 12.983719, Trans: 4.068815, Rots: 4.577707, Flow: 0.739990, Sim: -0.132154
+5 TotelIter 63 loss 9.204231, DistErr 12.453235, Trans: 4.055035, Rots: 4.418281, Flow: 0.879611, Sim: -0.148695
+5 TotelIter 64 loss 9.517407, DistErr 12.901502, Trans: 4.333936, Rots: 4.481982, Flow: 0.837831, Sim: -0.136342
+5 TotelIter 65 loss 9.770009, DistErr 13.551844, Trans: 4.651786, Rots: 4.491159, Flow: 0.752443, Sim: -0.125378
+5 TotelIter 66 loss 9.369884, DistErr 12.729128, Trans: 4.099133, Rots: 4.577961, Flow: 0.839802, Sim: -0.147014
+5 TotelIter 67 loss 10.317786, DistErr 13.572708, Trans: 4.870300, Rots: 4.491940, Flow: 1.082458, Sim: -0.126913
+5 TotelIter 68 loss 9.411304, DistErr 12.486626, Trans: 3.890986, Rots: 4.538094, Flow: 1.125284, Sim: -0.143060
+5 TotelIter 69 loss 10.009272, DistErr 13.300631, Trans: 4.220199, Rots: 4.831402, Flow: 1.087930, Sim: -0.130259
+5 TotelIter 70 loss 9.973905, DistErr 12.982707, Trans: 4.417149, Rots: 4.633053, Flow: 1.064919, Sim: -0.141217
+5 TotelIter 71 loss 9.787383, DistErr 13.032882, Trans: 4.231521, Rots: 4.687770, Flow: 1.007776, Sim: -0.139683
+5 TotelIter 72 loss 9.702147, DistErr 12.821677, Trans: 4.236579, Rots: 4.641146, Flow: 0.961158, Sim: -0.136736
+EUReg10_1/ Epoch 5 loss 9.6066
+[val] Epoch 5  DistErr: 12.525465, NCC: 0.603988, ParaErr: 8.521448
+>> New best @ epoch 5: ParaErr=8.521448  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+6 TotelIter 73 loss 10.023874, DistErr 13.210739, Trans: 4.513322, Rots: 4.720340, Flow: 0.920036, Sim: -0.129825
+6 TotelIter 74 loss 9.443851, DistErr 12.762866, Trans: 3.982701, Rots: 4.677599, Flow: 0.928967, Sim: -0.145416
+6 TotelIter 75 loss 9.590026, DistErr 13.316956, Trans: 4.511114, Rots: 4.184707, Flow: 1.028666, Sim: -0.134460
+6 TotelIter 76 loss 9.793584, DistErr 13.183896, Trans: 4.166547, Rots: 4.822634, Flow: 0.941098, Sim: -0.136696
+6 TotelIter 77 loss 9.384800, DistErr 12.619258, Trans: 4.250170, Rots: 4.427402, Flow: 0.845460, Sim: -0.138232
+6 TotelIter 78 loss 9.328899, DistErr 12.790263, Trans: 4.406487, Rots: 4.225377, Flow: 0.828847, Sim: -0.131812
+6 TotelIter 79 loss 8.885622, DistErr 12.187551, Trans: 4.184655, Rots: 4.111056, Flow: 0.735826, Sim: -0.145916
+6 TotelIter 80 loss 9.375630, DistErr 12.807187, Trans: 4.268533, Rots: 4.435365, Flow: 0.818917, Sim: -0.147186
+6 TotelIter 81 loss 9.721060, DistErr 13.041684, Trans: 4.441362, Rots: 4.530623, Flow: 0.892807, Sim: -0.143732
+6 TotelIter 82 loss 9.369427, DistErr 12.816881, Trans: 4.186735, Rots: 4.487217, Flow: 0.840885, Sim: -0.145411
+6 TotelIter 83 loss 8.989637, DistErr 12.204837, Trans: 3.951930, Rots: 4.428703, Flow: 0.758901, Sim: -0.149896
+6 TotelIter 84 loss 8.442362, DistErr 11.642611, Trans: 3.478597, Rots: 4.351264, Flow: 0.769892, Sim: -0.157392
+EUReg10_1/ Epoch 6 loss 9.3624
+[val] Epoch 6  DistErr: 12.387755, NCC: 0.613560, ParaErr: 8.396542
+>> New best @ epoch 6: ParaErr=8.396542  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+7 TotelIter 85 loss 8.949917, DistErr 12.475640, Trans: 3.936751, Rots: 4.440714, Flow: 0.708980, Sim: -0.136528
+7 TotelIter 86 loss 9.589887, DistErr 13.081084, Trans: 4.278709, Rots: 4.590883, Flow: 0.860187, Sim: -0.139893
+7 TotelIter 87 loss 9.590240, DistErr 12.878737, Trans: 4.131546, Rots: 4.798113, Flow: 0.799788, Sim: -0.139208
+7 TotelIter 88 loss 9.063340, DistErr 12.574549, Trans: 4.131371, Rots: 4.359025, Flow: 0.714958, Sim: -0.142012
+7 TotelIter 89 loss 8.574487, DistErr 11.970798, Trans: 3.390512, Rots: 4.624731, Flow: 0.720091, Sim: -0.160848
+7 TotelIter 90 loss 9.168499, DistErr 12.648808, Trans: 3.910598, Rots: 4.681364, Flow: 0.719915, Sim: -0.143379
+7 TotelIter 91 loss 9.044662, DistErr 12.748658, Trans: 3.923353, Rots: 4.507295, Flow: 0.752984, Sim: -0.138969
+7 TotelIter 92 loss 9.018665, DistErr 12.589942, Trans: 3.933653, Rots: 4.498710, Flow: 0.724478, Sim: -0.138175
+7 TotelIter 93 loss 8.646665, DistErr 12.372757, Trans: 3.848405, Rots: 4.253028, Flow: 0.693520, Sim: -0.148287
+7 TotelIter 94 loss 9.073079, DistErr 12.667885, Trans: 4.005857, Rots: 4.482847, Flow: 0.722126, Sim: -0.137751
+7 TotelIter 95 loss 8.879281, DistErr 12.448049, Trans: 3.906290, Rots: 4.417443, Flow: 0.702297, Sim: -0.146748
+7 TotelIter 96 loss 8.582732, DistErr 12.078331, Trans: 3.624919, Rots: 4.456465, Flow: 0.657282, Sim: -0.155934
+EUReg10_1/ Epoch 7 loss 9.0151
+[val] Epoch 7  DistErr: 12.447209, NCC: 0.610572, ParaErr: 8.355969
+>> New best @ epoch 7: ParaErr=8.355969  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+8 TotelIter 97 loss 8.560814, DistErr 12.083730, Trans: 3.670864, Rots: 4.299221, Flow: 0.741253, Sim: -0.150524
+8 TotelIter 98 loss 9.064116, DistErr 12.812879, Trans: 4.115548, Rots: 4.300887, Flow: 0.791525, Sim: -0.143844
+8 TotelIter 99 loss 9.449644, DistErr 12.749339, Trans: 3.776934, Rots: 5.004377, Flow: 0.812054, Sim: -0.143721
+8 TotelIter 100 loss 8.941597, DistErr 12.415597, Trans: 3.663123, Rots: 4.637336, Flow: 0.779441, Sim: -0.138302
+8 TotelIter 101 loss 8.354496, DistErr 11.754527, Trans: 3.302340, Rots: 4.514730, Flow: 0.699226, Sim: -0.161801
+8 TotelIter 102 loss 8.780766, DistErr 12.090837, Trans: 3.520735, Rots: 4.676843, Flow: 0.734107, Sim: -0.150919
+8 TotelIter 103 loss 8.942211, DistErr 12.316843, Trans: 3.863689, Rots: 4.425678, Flow: 0.802995, Sim: -0.150152
+8 TotelIter 104 loss 8.434068, DistErr 11.668818, Trans: 3.457866, Rots: 4.434834, Flow: 0.698264, Sim: -0.156897
+8 TotelIter 105 loss 9.337570, DistErr 13.173604, Trans: 3.983368, Rots: 4.741421, Flow: 0.757928, Sim: -0.145147
+8 TotelIter 106 loss 8.921796, DistErr 12.451612, Trans: 4.110594, Rots: 4.149981, Flow: 0.806262, Sim: -0.145040
+8 TotelIter 107 loss 9.183883, DistErr 12.323339, Trans: 4.132800, Rots: 4.372640, Flow: 0.824799, Sim: -0.146355
+8 TotelIter 108 loss 8.891903, DistErr 12.527013, Trans: 3.856344, Rots: 4.402167, Flow: 0.793300, Sim: -0.159908
+EUReg10_1/ Epoch 8 loss 8.9052
+[val] Epoch 8  DistErr: 12.293121, NCC: 0.605058, ParaErr: 8.260410
+>> New best @ epoch 8: ParaErr=8.260410  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+9 TotelIter 109 loss 8.617101, DistErr 11.953484, Trans: 3.689554, Rots: 4.403761, Flow: 0.660554, Sim: -0.136769
+9 TotelIter 110 loss 9.138959, DistErr 12.422322, Trans: 3.792057, Rots: 4.740926, Flow: 0.746405, Sim: -0.140427
+9 TotelIter 111 loss 8.252946, DistErr 11.745748, Trans: 3.421832, Rots: 4.314632, Flow: 0.679659, Sim: -0.163177
+9 TotelIter 112 loss 9.227824, DistErr 12.743569, Trans: 4.173745, Rots: 4.497970, Flow: 0.693640, Sim: -0.137531
+9 TotelIter 113 loss 8.584225, DistErr 11.975783, Trans: 3.733173, Rots: 4.330305, Flow: 0.671638, Sim: -0.150892
+9 TotelIter 114 loss 9.392417, DistErr 13.044543, Trans: 4.015533, Rots: 4.737259, Flow: 0.776519, Sim: -0.136895
+9 TotelIter 115 loss 8.951875, DistErr 12.232310, Trans: 3.890796, Rots: 4.514427, Flow: 0.700625, Sim: -0.153974
+9 TotelIter 116 loss 8.418574, DistErr 12.317406, Trans: 3.739053, Rots: 4.161441, Flow: 0.662356, Sim: -0.144276
+9 TotelIter 117 loss 9.308619, DistErr 12.757628, Trans: 4.096869, Rots: 4.639867, Flow: 0.714472, Sim: -0.142590
+9 TotelIter 118 loss 8.537946, DistErr 12.202530, Trans: 3.857260, Rots: 4.250170, Flow: 0.580803, Sim: -0.150287
+9 TotelIter 119 loss 8.850848, DistErr 12.309870, Trans: 3.891302, Rots: 4.395038, Flow: 0.714026, Sim: -0.149518
+9 TotelIter 120 loss 8.213496, DistErr 11.685117, Trans: 3.341705, Rots: 4.388637, Flow: 0.647630, Sim: -0.164475
+EUReg10_1/ Epoch 9 loss 8.7912
+[val] Epoch 9  DistErr: 12.413777, NCC: 0.604155, ParaErr: 8.300621
+10 TotelIter 121 loss 8.421442, DistErr 11.841461, Trans: 3.510865, Rots: 4.401484, Flow: 0.670534, Sim: -0.161441
+10 TotelIter 122 loss 8.964057, DistErr 12.675689, Trans: 3.730710, Rots: 4.665016, Flow: 0.710589, Sim: -0.142257
+10 TotelIter 123 loss 8.861300, DistErr 12.511678, Trans: 3.815699, Rots: 4.466904, Flow: 0.720538, Sim: -0.141841
+10 TotelIter 124 loss 9.223103, DistErr 12.761250, Trans: 3.823302, Rots: 4.781709, Flow: 0.769095, Sim: -0.151003
+10 TotelIter 125 loss 8.715752, DistErr 12.120343, Trans: 3.770508, Rots: 4.348676, Flow: 0.738399, Sim: -0.141830
+10 TotelIter 126 loss 8.465136, DistErr 11.597457, Trans: 3.383945, Rots: 4.481313, Flow: 0.759625, Sim: -0.159746
+10 TotelIter 127 loss 8.830030, DistErr 12.133583, Trans: 3.705574, Rots: 4.532424, Flow: 0.746042, Sim: -0.154010
+10 TotelIter 128 loss 9.007187, DistErr 12.287822, Trans: 3.715672, Rots: 4.627315, Flow: 0.812032, Sim: -0.147832
+10 TotelIter 129 loss 8.779548, DistErr 12.017320, Trans: 3.504743, Rots: 4.607745, Flow: 0.816736, Sim: -0.149675
+10 TotelIter 130 loss 8.411366, DistErr 11.520162, Trans: 3.394747, Rots: 4.397018, Flow: 0.779975, Sim: -0.160375
+10 TotelIter 131 loss 8.713231, DistErr 12.138988, Trans: 3.870601, Rots: 4.223642, Flow: 0.774609, Sim: -0.155621
+10 TotelIter 132 loss 8.087986, DistErr 11.346799, Trans: 3.277968, Rots: 4.280553, Flow: 0.693620, Sim: -0.164155
+EUReg10_1/ Epoch 10 loss 8.7067
+[val] Epoch 10  DistErr: 13.023071, NCC: 0.570561, ParaErr: 8.609199
+11 TotelIter 133 loss 7.961259, DistErr 11.231194, Trans: 3.125289, Rots: 4.336218, Flow: 0.659484, Sim: -0.159732
+11 TotelIter 134 loss 8.796950, DistErr 12.260526, Trans: 3.292205, Rots: 4.858890, Flow: 0.803971, Sim: -0.158114
+11 TotelIter 135 loss 7.940264, DistErr 11.216861, Trans: 3.128829, Rots: 4.314692, Flow: 0.664340, Sim: -0.167598
+11 TotelIter 136 loss 8.568040, DistErr 11.995611, Trans: 3.565939, Rots: 4.391064, Flow: 0.757293, Sim: -0.146256
+11 TotelIter 137 loss 8.803137, DistErr 12.246323, Trans: 4.041136, Rots: 4.042937, Flow: 0.864146, Sim: -0.145083
+11 TotelIter 138 loss 9.704181, DistErr 13.484385, Trans: 4.554023, Rots: 4.435118, Flow: 0.843922, Sim: -0.128882
+11 TotelIter 139 loss 8.190452, DistErr 11.239048, Trans: 3.302596, Rots: 4.320997, Flow: 0.720836, Sim: -0.153977
+11 TotelIter 140 loss 9.132100, DistErr 12.653171, Trans: 4.147090, Rots: 4.189699, Flow: 0.940550, Sim: -0.145239
+11 TotelIter 141 loss 8.569086, DistErr 11.521840, Trans: 3.830325, Rots: 4.014414, Flow: 0.865214, Sim: -0.140867
+11 TotelIter 142 loss 8.757167, DistErr 12.267685, Trans: 4.016742, Rots: 4.010791, Flow: 0.873899, Sim: -0.144266
+11 TotelIter 143 loss 8.282999, DistErr 11.446846, Trans: 3.528749, Rots: 4.131844, Flow: 0.772256, Sim: -0.149850
+11 TotelIter 144 loss 7.955453, DistErr 10.857348, Trans: 3.342667, Rots: 3.981109, Flow: 0.800308, Sim: -0.168631
+EUReg10_1/ Epoch 11 loss 8.5551
+[val] Epoch 11  DistErr: 14.320492, NCC: 0.551119, ParaErr: 9.618380
+12 TotelIter 145 loss 9.115212, DistErr 12.277624, Trans: 4.096978, Rots: 4.296975, Flow: 0.871023, Sim: -0.149764
+12 TotelIter 146 loss 8.197880, DistErr 11.001604, Trans: 3.237110, Rots: 4.233016, Flow: 0.897810, Sim: -0.170056
+12 TotelIter 147 loss 8.809439, DistErr 11.918338, Trans: 3.597350, Rots: 4.404857, Flow: 0.945599, Sim: -0.138367
+12 TotelIter 148 loss 8.892048, DistErr 12.123082, Trans: 3.724960, Rots: 4.439575, Flow: 0.872651, Sim: -0.145138
+12 TotelIter 149 loss 8.357380, DistErr 11.114489, Trans: 3.614110, Rots: 3.975545, Flow: 0.923446, Sim: -0.155722
+12 TotelIter 150 loss 7.823068, DistErr 10.787796, Trans: 3.212165, Rots: 4.040419, Flow: 0.740431, Sim: -0.169947
+12 TotelIter 151 loss 8.200126, DistErr 11.170578, Trans: 3.649746, Rots: 3.913455, Flow: 0.781278, Sim: -0.144353
+12 TotelIter 152 loss 8.319428, DistErr 11.392474, Trans: 3.654036, Rots: 4.012116, Flow: 0.803137, Sim: -0.149861
+12 TotelIter 153 loss 7.834994, DistErr 10.678663, Trans: 3.089495, Rots: 4.123207, Flow: 0.803793, Sim: -0.181501
+12 TotelIter 154 loss 8.316032, DistErr 11.354471, Trans: 3.590789, Rots: 4.092194, Flow: 0.801156, Sim: -0.168106
+12 TotelIter 155 loss 8.319473, DistErr 11.073495, Trans: 3.272475, Rots: 4.425628, Flow: 0.789150, Sim: -0.167780
+12 TotelIter 156 loss 8.976994, DistErr 12.311218, Trans: 4.082146, Rots: 4.209337, Flow: 0.836027, Sim: -0.150515
+EUReg10_1/ Epoch 12 loss 8.4302
+[val] Epoch 12  DistErr: 11.364139, NCC: 0.635828, ParaErr: 7.570572
+>> New best @ epoch 12: ParaErr=7.570572  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+13 TotelIter 157 loss 7.811972, DistErr 10.598928, Trans: 3.166246, Rots: 4.043695, Flow: 0.770510, Sim: -0.168479
+13 TotelIter 158 loss 8.106344, DistErr 10.939816, Trans: 3.461452, Rots: 4.042647, Flow: 0.760234, Sim: -0.157989
+13 TotelIter 159 loss 8.366364, DistErr 11.475205, Trans: 3.567509, Rots: 4.116884, Flow: 0.839220, Sim: -0.157251
+13 TotelIter 160 loss 7.760571, DistErr 10.669520, Trans: 3.204735, Rots: 3.949213, Flow: 0.774678, Sim: -0.168055
+13 TotelIter 161 loss 7.792541, DistErr 10.506345, Trans: 3.093225, Rots: 4.150718, Flow: 0.727312, Sim: -0.178714
+13 TotelIter 162 loss 7.578836, DistErr 10.409720, Trans: 2.802893, Rots: 4.182541, Flow: 0.770199, Sim: -0.176797
+13 TotelIter 163 loss 8.342525, DistErr 11.084318, Trans: 3.419623, Rots: 4.282320, Flow: 0.806859, Sim: -0.166277
+13 TotelIter 164 loss 7.904976, DistErr 10.896628, Trans: 3.419176, Rots: 3.907083, Flow: 0.748964, Sim: -0.170248
+13 TotelIter 165 loss 7.236003, DistErr 9.802239, Trans: 2.904055, Rots: 3.812641, Flow: 0.693058, Sim: -0.173751
+13 TotelIter 166 loss 8.029167, DistErr 11.220061, Trans: 3.205965, Rots: 4.269279, Flow: 0.715137, Sim: -0.161214
+13 TotelIter 167 loss 7.412851, DistErr 10.421024, Trans: 2.811966, Rots: 4.138907, Flow: 0.643627, Sim: -0.181649
+13 TotelIter 168 loss 7.691786, DistErr 10.726860, Trans: 3.358897, Rots: 3.829071, Flow: 0.672997, Sim: -0.169179
+EUReg10_1/ Epoch 13 loss 7.8362
+[val] Epoch 13  DistErr: 10.664378, NCC: 0.642796, ParaErr: 7.163459
+>> New best @ epoch 13: ParaErr=7.163459  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+14 TotelIter 169 loss 7.021296, DistErr 9.540264, Trans: 2.684980, Rots: 3.871981, Flow: 0.654377, Sim: -0.190043
+14 TotelIter 170 loss 7.374362, DistErr 10.225108, Trans: 2.891238, Rots: 3.958765, Flow: 0.700894, Sim: -0.176535
+14 TotelIter 171 loss 7.320435, DistErr 10.172329, Trans: 2.948844, Rots: 3.892798, Flow: 0.665949, Sim: -0.187156
+14 TotelIter 172 loss 7.980152, DistErr 11.132598, Trans: 3.199262, Rots: 4.218430, Flow: 0.728682, Sim: -0.166222
+14 TotelIter 173 loss 8.054432, DistErr 11.195614, Trans: 3.293651, Rots: 4.119596, Flow: 0.804097, Sim: -0.162910
+14 TotelIter 174 loss 7.849225, DistErr 10.911583, Trans: 3.307342, Rots: 3.936407, Flow: 0.758082, Sim: -0.152606
+14 TotelIter 175 loss 7.701577, DistErr 10.533648, Trans: 2.998636, Rots: 4.212035, Flow: 0.659753, Sim: -0.168848
+14 TotelIter 176 loss 7.254726, DistErr 9.848452, Trans: 2.639144, Rots: 4.101294, Flow: 0.699374, Sim: -0.185086
+14 TotelIter 177 loss 7.583695, DistErr 10.382826, Trans: 3.192233, Rots: 3.821605, Flow: 0.744908, Sim: -0.175051
+14 TotelIter 178 loss 7.443806, DistErr 10.542966, Trans: 2.864057, Rots: 4.043449, Flow: 0.720462, Sim: -0.184162
+14 TotelIter 179 loss 7.533846, DistErr 10.354678, Trans: 3.025524, Rots: 3.968616, Flow: 0.719465, Sim: -0.179758
+14 TotelIter 180 loss 7.507738, DistErr 10.467926, Trans: 2.939253, Rots: 3.969759, Flow: 0.778021, Sim: -0.179295
+EUReg10_1/ Epoch 14 loss 7.5521
+[val] Epoch 14  DistErr: 10.563207, NCC: 0.636930, ParaErr: 7.158207
+>> New best @ epoch 14: ParaErr=7.158207  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+15 TotelIter 181 loss 6.841090, DistErr 9.445076, Trans: 2.268717, Rots: 4.078257, Flow: 0.702646, Sim: -0.208531
+15 TotelIter 182 loss 8.074539, DistErr 10.793197, Trans: 3.228469, Rots: 4.237514, Flow: 0.781530, Sim: -0.172973
+15 TotelIter 183 loss 7.659327, DistErr 10.490688, Trans: 3.273262, Rots: 3.835301, Flow: 0.729761, Sim: -0.178997
+15 TotelIter 184 loss 8.068217, DistErr 11.081103, Trans: 3.674711, Rots: 3.820683, Flow: 0.756911, Sim: -0.184089
+15 TotelIter 185 loss 7.640280, DistErr 10.189565, Trans: 3.226214, Rots: 3.866301, Flow: 0.728155, Sim: -0.180390
+15 TotelIter 186 loss 7.395872, DistErr 10.052206, Trans: 2.845848, Rots: 4.036786, Flow: 0.701314, Sim: -0.188075
+15 TotelIter 187 loss 7.313065, DistErr 9.906374, Trans: 2.749645, Rots: 4.033787, Flow: 0.719703, Sim: -0.190070
+15 TotelIter 188 loss 7.832448, DistErr 10.688827, Trans: 3.032402, Rots: 4.160162, Flow: 0.813115, Sim: -0.173229
+15 TotelIter 189 loss 6.460008, DistErr 8.988999, Trans: 2.467722, Rots: 3.448843, Flow: 0.742971, Sim: -0.199528
+15 TotelIter 190 loss 6.572254, DistErr 9.081996, Trans: 2.511585, Rots: 3.604504, Flow: 0.665649, Sim: -0.209484
+15 TotelIter 191 loss 6.784501, DistErr 9.255801, Trans: 2.636327, Rots: 3.683846, Flow: 0.671849, Sim: -0.207521
+15 TotelIter 192 loss 7.535575, DistErr 10.221254, Trans: 2.960228, Rots: 4.031895, Flow: 0.732667, Sim: -0.189214
+EUReg10_1/ Epoch 15 loss 7.3481
+[val] Epoch 15  DistErr: 11.130811, NCC: 0.627484, ParaErr: 7.460800
+16 TotelIter 193 loss 7.341349, DistErr 9.946034, Trans: 2.894472, Rots: 3.900897, Flow: 0.730874, Sim: -0.184894
+16 TotelIter 194 loss 7.305064, DistErr 10.210896, Trans: 2.829580, Rots: 3.942541, Flow: 0.717057, Sim: -0.184114
+16 TotelIter 195 loss 7.372863, DistErr 10.143863, Trans: 2.907346, Rots: 3.938782, Flow: 0.701156, Sim: -0.174420
+16 TotelIter 196 loss 7.381943, DistErr 10.053260, Trans: 3.007643, Rots: 3.831733, Flow: 0.718438, Sim: -0.175872
+16 TotelIter 197 loss 7.240183, DistErr 10.026977, Trans: 2.725872, Rots: 4.006815, Flow: 0.691054, Sim: -0.183558
+16 TotelIter 198 loss 6.780052, DistErr 9.346354, Trans: 2.490544, Rots: 3.870978, Flow: 0.632180, Sim: -0.213651
+16 TotelIter 199 loss 6.540032, DistErr 9.231859, Trans: 2.456851, Rots: 3.655865, Flow: 0.637350, Sim: -0.210034
+16 TotelIter 200 loss 6.454841, DistErr 9.156423, Trans: 2.472324, Rots: 3.597245, Flow: 0.590342, Sim: -0.205070
+16 TotelIter 201 loss 6.533192, DistErr 9.088748, Trans: 2.496337, Rots: 3.626817, Flow: 0.618356, Sim: -0.208318
+16 TotelIter 202 loss 7.345028, DistErr 10.364288, Trans: 2.774361, Rots: 4.061874, Flow: 0.695823, Sim: -0.187029
+16 TotelIter 203 loss 7.072750, DistErr 10.006534, Trans: 2.823541, Rots: 3.775244, Flow: 0.665053, Sim: -0.191090
+16 TotelIter 204 loss 7.377816, DistErr 10.058681, Trans: 2.979362, Rots: 3.914844, Flow: 0.671269, Sim: -0.187660
+EUReg10_1/ Epoch 16 loss 7.0621
+[val] Epoch 16  DistErr: 11.256435, NCC: 0.624635, ParaErr: 7.667074
+17 TotelIter 205 loss 7.108166, DistErr 9.767937, Trans: 2.925657, Rots: 3.670272, Flow: 0.709261, Sim: -0.197024
+17 TotelIter 206 loss 7.217293, DistErr 9.651026, Trans: 2.669707, Rots: 4.063697, Flow: 0.671388, Sim: -0.187500
+17 TotelIter 207 loss 6.649137, DistErr 9.278015, Trans: 2.527264, Rots: 3.678229, Flow: 0.647085, Sim: -0.203441
+17 TotelIter 208 loss 6.898884, DistErr 9.422976, Trans: 2.406955, Rots: 4.036134, Flow: 0.659533, Sim: -0.203738
+17 TotelIter 209 loss 6.866888, DistErr 9.556345, Trans: 2.603815, Rots: 3.805834, Flow: 0.651628, Sim: -0.194388
+17 TotelIter 210 loss 6.833162, DistErr 9.578194, Trans: 2.529537, Rots: 3.842835, Flow: 0.659835, Sim: -0.199045
+17 TotelIter 211 loss 6.502395, DistErr 9.114993, Trans: 2.586708, Rots: 3.482236, Flow: 0.632582, Sim: -0.199130
+17 TotelIter 212 loss 6.611058, DistErr 9.409747, Trans: 2.623900, Rots: 3.613503, Flow: 0.602107, Sim: -0.228452
+17 TotelIter 213 loss 6.943466, DistErr 9.693263, Trans: 2.800967, Rots: 3.717725, Flow: 0.619728, Sim: -0.194954
+17 TotelIter 214 loss 12.461761, DistErr 18.640966, Trans: 7.278429, Rots: 4.309242, Flow: 0.973645, Sim: -0.099556
+17 TotelIter 215 loss 18.256361, DistErr 32.708313, Trans: 12.859467, Rots: 3.685914, Flow: 1.788495, Sim: -0.077515
+17 TotelIter 216 loss 21.631100, DistErr 38.840679, Trans: 15.045670, Rots: 4.282013, Flow: 2.371470, Sim: -0.068052
+EUReg10_1/ Epoch 17 loss 9.4983
+[val] Epoch 17  DistErr: 36.833597, NCC: 0.081751, ParaErr: 20.332032
+18 TotelIter 217 loss 22.141962, DistErr 36.946770, Trans: 14.269934, Rots: 5.209005, Flow: 2.730405, Sim: -0.067380
+18 TotelIter 218 loss 18.336096, DistErr 27.756519, Trans: 11.364894, Rots: 4.244061, Flow: 2.807885, Sim: -0.080746
+18 TotelIter 219 loss 15.133544, DistErr 19.263519, Trans: 7.650990, Rots: 4.798268, Flow: 2.778900, Sim: -0.094613
+18 TotelIter 220 loss 13.004930, DistErr 16.072090, Trans: 5.328024, Rots: 4.965991, Flow: 2.827709, Sim: -0.116793
+18 TotelIter 221 loss 12.371381, DistErr 14.862551, Trans: 4.874424, Rots: 4.972559, Flow: 2.647736, Sim: -0.123338
+18 TotelIter 222 loss 11.827737, DistErr 14.107361, Trans: 4.691287, Rots: 4.621093, Flow: 2.641207, Sim: -0.125850
+18 TotelIter 223 loss 11.774617, DistErr 13.787417, Trans: 4.845685, Rots: 4.510345, Flow: 2.546420, Sim: -0.127833
+18 TotelIter 224 loss 11.078976, DistErr 13.110953, Trans: 4.439246, Rots: 4.314233, Flow: 2.459459, Sim: -0.133961
+18 TotelIter 225 loss 11.744142, DistErr 13.511146, Trans: 4.368475, Rots: 5.037491, Flow: 2.470451, Sim: -0.132275
+18 TotelIter 226 loss 11.099559, DistErr 12.903125, Trans: 4.522617, Rots: 4.245258, Flow: 2.467852, Sim: -0.136168
+18 TotelIter 227 loss 11.264159, DistErr 13.423575, Trans: 4.576178, Rots: 4.440090, Flow: 2.376685, Sim: -0.128793
+18 TotelIter 228 loss 11.008161, DistErr 12.887650, Trans: 4.207868, Rots: 4.549150, Flow: 2.394448, Sim: -0.143304
+EUReg10_1/ Epoch 18 loss 13.3988
+[val] Epoch 18  DistErr: 13.072305, NCC: 0.577795, ParaErr: 8.880791
+19 TotelIter 229 loss 11.420832, DistErr 13.387866, Trans: 4.732451, Rots: 4.486606, Flow: 2.326033, Sim: -0.124258
+19 TotelIter 230 loss 11.615238, DistErr 13.936191, Trans: 4.754570, Rots: 4.598522, Flow: 2.389043, Sim: -0.126897
+19 TotelIter 231 loss 11.109925, DistErr 13.126960, Trans: 4.050054, Rots: 4.879119, Flow: 2.316085, Sim: -0.135332
+19 TotelIter 232 loss 11.523293, DistErr 13.402492, Trans: 4.593668, Rots: 4.777111, Flow: 2.275995, Sim: -0.123481
+19 TotelIter 233 loss 11.030847, DistErr 12.969089, Trans: 4.022339, Rots: 4.881953, Flow: 2.259660, Sim: -0.133105
+19 TotelIter 234 loss 10.973188, DistErr 13.080605, Trans: 4.323443, Rots: 4.496145, Flow: 2.292722, Sim: -0.139122
+19 TotelIter 235 loss 11.879239, DistErr 14.094296, Trans: 4.715080, Rots: 5.012487, Flow: 2.282221, Sim: -0.130550
+19 TotelIter 236 loss 11.370053, DistErr 13.345845, Trans: 4.403419, Rots: 4.862585, Flow: 2.234950, Sim: -0.130901
+19 TotelIter 237 loss 10.529003, DistErr 12.766739, Trans: 4.304965, Rots: 4.135791, Flow: 2.226178, Sim: -0.137931
+19 TotelIter 238 loss 11.346912, DistErr 13.580844, Trans: 4.564130, Rots: 4.703084, Flow: 2.204972, Sim: -0.125272
+19 TotelIter 239 loss 11.138791, DistErr 13.308417, Trans: 4.395452, Rots: 4.665272, Flow: 2.217067, Sim: -0.139000
+19 TotelIter 240 loss 10.408107, DistErr 12.684985, Trans: 4.026109, Rots: 4.419271, Flow: 2.103936, Sim: -0.141208
+EUReg10_1/ Epoch 19 loss 11.1955
+[val] Epoch 19  DistErr: 12.865568, NCC: 0.590122, ParaErr: 8.772703
+20 TotelIter 241 loss 11.152839, DistErr 13.225534, Trans: 4.656756, Rots: 4.439515, Flow: 2.184224, Sim: -0.127657
+20 TotelIter 242 loss 11.162287, DistErr 13.354199, Trans: 4.468867, Rots: 4.685049, Flow: 2.141646, Sim: -0.133276
+20 TotelIter 243 loss 10.196046, DistErr 12.377243, Trans: 3.751842, Rots: 4.456765, Flow: 2.140255, Sim: -0.152815
+20 TotelIter 244 loss 10.901275, DistErr 12.953485, Trans: 4.247777, Rots: 4.684946, Flow: 2.108839, Sim: -0.140286
+20 TotelIter 245 loss 10.565025, DistErr 12.828821, Trans: 4.483917, Rots: 4.143849, Flow: 2.068267, Sim: -0.131007
+20 TotelIter 246 loss 10.930987, DistErr 13.251930, Trans: 4.549969, Rots: 4.451674, Flow: 2.062922, Sim: -0.133577
+20 TotelIter 247 loss 10.599628, DistErr 12.957641, Trans: 4.504576, Rots: 4.164618, Flow: 2.058833, Sim: -0.128399
+20 TotelIter 248 loss 10.599249, DistErr 12.878189, Trans: 4.249007, Rots: 4.443485, Flow: 2.046040, Sim: -0.139283
+20 TotelIter 249 loss 10.960289, DistErr 13.104233, Trans: 4.578485, Rots: 4.505900, Flow: 2.016621, Sim: -0.140716
+20 TotelIter 250 loss 10.409496, DistErr 12.783709, Trans: 4.207497, Rots: 4.375119, Flow: 1.968064, Sim: -0.141184
+20 TotelIter 251 loss 10.553733, DistErr 12.844706, Trans: 4.207478, Rots: 4.495956, Flow: 1.981379, Sim: -0.131080
+20 TotelIter 252 loss 10.920497, DistErr 13.374602, Trans: 4.497000, Rots: 4.614587, Flow: 1.941115, Sim: -0.132205
+EUReg10_1/ Epoch 20 loss 10.7459
+[val] Epoch 20  DistErr: 12.762644, NCC: 0.593994, ParaErr: 8.719242
+21 TotelIter 253 loss 10.956686, DistErr 13.329785, Trans: 4.340998, Rots: 4.770158, Flow: 1.977677, Sim: -0.132147
+21 TotelIter 254 loss 10.789029, DistErr 13.220179, Trans: 4.433000, Rots: 4.542194, Flow: 1.949057, Sim: -0.135223
+21 TotelIter 255 loss 10.623145, DistErr 13.104410, Trans: 4.739640, Rots: 4.108173, Flow: 1.905419, Sim: -0.130087
+21 TotelIter 256 loss 10.444236, DistErr 12.559984, Trans: 4.235957, Rots: 4.388437, Flow: 1.966967, Sim: -0.147125
+21 TotelIter 257 loss 10.186769, DistErr 12.634898, Trans: 4.416566, Rots: 4.030131, Flow: 1.882962, Sim: -0.142890
+21 TotelIter 258 loss 10.347330, DistErr 12.572670, Trans: 4.078151, Rots: 4.519849, Flow: 1.884043, Sim: -0.134712
+21 TotelIter 259 loss 10.406168, DistErr 12.833918, Trans: 4.283922, Rots: 4.444725, Flow: 1.823018, Sim: -0.145498
+21 TotelIter 260 loss 10.281559, DistErr 12.665500, Trans: 4.402637, Rots: 4.176850, Flow: 1.846676, Sim: -0.144604
+21 TotelIter 261 loss 10.319180, DistErr 12.910205, Trans: 4.073358, Rots: 4.548870, Flow: 1.840341, Sim: -0.143390
+21 TotelIter 262 loss 10.288553, DistErr 12.682372, Trans: 4.361289, Rots: 4.182572, Flow: 1.886441, Sim: -0.141750
+21 TotelIter 263 loss 10.490198, DistErr 12.740643, Trans: 4.346362, Rots: 4.436660, Flow: 1.843678, Sim: -0.136502
+21 TotelIter 264 loss 10.497657, DistErr 12.872909, Trans: 4.439492, Rots: 4.351863, Flow: 1.842679, Sim: -0.136377
+EUReg10_1/ Epoch 21 loss 10.4692
+[val] Epoch 21  DistErr: 12.714524, NCC: 0.595672, ParaErr: 8.693459
+22 TotelIter 265 loss 9.932918, DistErr 12.175685, Trans: 3.937896, Rots: 4.268007, Flow: 1.878993, Sim: -0.151979
+22 TotelIter 266 loss 10.534108, DistErr 12.918591, Trans: 4.359591, Rots: 4.493059, Flow: 1.818352, Sim: -0.136893
+22 TotelIter 267 loss 10.122316, DistErr 12.253264, Trans: 4.220629, Rots: 4.227858, Flow: 1.823735, Sim: -0.149905
+22 TotelIter 268 loss 10.096210, DistErr 12.368155, Trans: 4.219894, Rots: 4.202986, Flow: 1.810774, Sim: -0.137444
+22 TotelIter 269 loss 10.631411, DistErr 13.087359, Trans: 4.229442, Rots: 4.679596, Flow: 1.849677, Sim: -0.127304
+22 TotelIter 270 loss 10.850255, DistErr 13.146372, Trans: 4.624893, Rots: 4.464595, Flow: 1.895687, Sim: -0.134919
+22 TotelIter 271 loss 10.395743, DistErr 12.697787, Trans: 4.334849, Rots: 4.394199, Flow: 1.800457, Sim: -0.133761
+22 TotelIter 272 loss 10.603185, DistErr 12.892734, Trans: 4.316812, Rots: 4.586574, Flow: 1.834338, Sim: -0.134539
+22 TotelIter 273 loss 10.826764, DistErr 13.163431, Trans: 4.505244, Rots: 4.616004, Flow: 1.836393, Sim: -0.130875
+22 TotelIter 274 loss 10.938432, DistErr 13.039798, Trans: 4.711227, Rots: 4.451206, Flow: 1.907282, Sim: -0.131284
+22 TotelIter 275 loss 10.971176, DistErr 13.507553, Trans: 4.684660, Rots: 4.553449, Flow: 1.867887, Sim: -0.134819
+22 TotelIter 276 loss 9.748862, DistErr 12.453923, Trans: 4.309974, Rots: 3.888943, Flow: 1.693514, Sim: -0.143569
+EUReg10_1/ Epoch 22 loss 10.4709
+[val] Epoch 22  DistErr: 12.657028, NCC: 0.597586, ParaErr: 8.660350
+23 TotelIter 277 loss 10.583579, DistErr 13.015991, Trans: 4.559992, Rots: 4.361564, Flow: 1.791614, Sim: -0.129591
+23 TotelIter 278 loss 10.421114, DistErr 12.990021, Trans: 4.466493, Rots: 4.361505, Flow: 1.730512, Sim: -0.137397
+23 TotelIter 279 loss 10.349827, DistErr 12.831454, Trans: 4.509520, Rots: 4.202819, Flow: 1.771484, Sim: -0.133997
+23 TotelIter 280 loss 10.700334, DistErr 13.099213, Trans: 4.451913, Rots: 4.600606, Flow: 1.780915, Sim: -0.133100
+23 TotelIter 281 loss 10.291409, DistErr 12.518068, Trans: 4.199815, Rots: 4.420070, Flow: 1.806675, Sim: -0.135150
+23 TotelIter 282 loss 10.414462, DistErr 12.911964, Trans: 4.250299, Rots: 4.556843, Flow: 1.754808, Sim: -0.147488
+23 TotelIter 283 loss 10.492162, DistErr 12.953540, Trans: 4.182216, Rots: 4.696143, Flow: 1.748910, Sim: -0.135107
+23 TotelIter 284 loss 9.900784, DistErr 12.048726, Trans: 4.147076, Rots: 4.164219, Flow: 1.724858, Sim: -0.135368
+23 TotelIter 285 loss 9.837674, DistErr 12.209460, Trans: 4.039157, Rots: 4.211786, Flow: 1.739717, Sim: -0.152987
+23 TotelIter 286 loss 10.352611, DistErr 12.727145, Trans: 4.308720, Rots: 4.452854, Flow: 1.733218, Sim: -0.142181
+23 TotelIter 287 loss 10.028628, DistErr 12.571894, Trans: 4.149485, Rots: 4.262519, Flow: 1.755235, Sim: -0.138610
+23 TotelIter 288 loss 11.224339, DistErr 13.547439, Trans: 4.781867, Rots: 4.774125, Flow: 1.792900, Sim: -0.124554
+EUReg10_1/ Epoch 23 loss 10.3831
+[val] Epoch 23  DistErr: 12.615105, NCC: 0.598346, ParaErr: 8.633349
+24 TotelIter 289 loss 10.312199, DistErr 12.709114, Trans: 4.422028, Rots: 4.302052, Flow: 1.722031, Sim: -0.133912
+24 TotelIter 290 loss 10.491049, DistErr 12.907851, Trans: 4.592882, Rots: 4.248401, Flow: 1.782413, Sim: -0.132647
+24 TotelIter 291 loss 10.631531, DistErr 13.131622, Trans: 4.322745, Rots: 4.692068, Flow: 1.745471, Sim: -0.128753
+24 TotelIter 292 loss 10.137959, DistErr 12.361850, Trans: 3.976910, Rots: 4.563941, Flow: 1.732586, Sim: -0.135478
+24 TotelIter 293 loss 9.876260, DistErr 12.241821, Trans: 4.213119, Rots: 4.121352, Flow: 1.687804, Sim: -0.146015
+24 TotelIter 294 loss 10.326729, DistErr 12.833783, Trans: 4.345574, Rots: 4.343053, Flow: 1.769621, Sim: -0.131520
+24 TotelIter 295 loss 9.956063, DistErr 12.323801, Trans: 4.230289, Rots: 4.185598, Flow: 1.682519, Sim: -0.142342
+24 TotelIter 296 loss 10.229738, DistErr 12.755910, Trans: 4.259371, Rots: 4.364940, Flow: 1.747152, Sim: -0.141725
+24 TotelIter 297 loss 10.379210, DistErr 12.984372, Trans: 4.158944, Rots: 4.599771, Flow: 1.760189, Sim: -0.139693
+24 TotelIter 298 loss 10.011758, DistErr 12.562283, Trans: 4.032781, Rots: 4.432020, Flow: 1.692922, Sim: -0.145964
+24 TotelIter 299 loss 10.246092, DistErr 12.822742, Trans: 4.212339, Rots: 4.476982, Flow: 1.692223, Sim: -0.135453
+24 TotelIter 300 loss 10.191129, DistErr 12.634084, Trans: 4.028017, Rots: 4.603067, Flow: 1.700474, Sim: -0.140430
+EUReg10_1/ Epoch 24 loss 10.2325
+[val] Epoch 24  DistErr: 12.562453, NCC: 0.599784, ParaErr: 8.602178
+25 TotelIter 301 loss 9.604805, DistErr 11.871249, Trans: 4.093008, Rots: 3.982545, Flow: 1.668728, Sim: -0.139476
+25 TotelIter 302 loss 10.182406, DistErr 12.630953, Trans: 4.417053, Rots: 4.145151, Flow: 1.754140, Sim: -0.133938
+25 TotelIter 303 loss 10.326001, DistErr 12.726067, Trans: 4.467616, Rots: 4.264160, Flow: 1.726415, Sim: -0.132188
+25 TotelIter 304 loss 10.232621, DistErr 12.698871, Trans: 4.325079, Rots: 4.361410, Flow: 1.688552, Sim: -0.142420
+25 TotelIter 305 loss 10.423095, DistErr 12.707631, Trans: 4.345675, Rots: 4.527956, Flow: 1.691724, Sim: -0.142260
+25 TotelIter 306 loss 10.515202, DistErr 12.907020, Trans: 4.333160, Rots: 4.596563, Flow: 1.728234, Sim: -0.142755
+25 TotelIter 307 loss 9.846396, DistErr 12.581515, Trans: 4.151424, Rots: 4.186957, Flow: 1.639281, Sim: -0.131265
+25 TotelIter 308 loss 9.956875, DistErr 12.475230, Trans: 4.084885, Rots: 4.326769, Flow: 1.690499, Sim: -0.145278
+25 TotelIter 309 loss 9.842937, DistErr 12.165989, Trans: 3.982412, Rots: 4.401777, Flow: 1.608407, Sim: -0.149658
+25 TotelIter 310 loss 10.036701, DistErr 12.690063, Trans: 4.320712, Rots: 4.193795, Flow: 1.663399, Sim: -0.141204
+25 TotelIter 311 loss 9.897221, DistErr 12.347185, Trans: 4.262501, Rots: 4.132629, Flow: 1.642851, Sim: -0.140761
+25 TotelIter 312 loss 10.501417, DistErr 12.921973, Trans: 4.541171, Rots: 4.348933, Flow: 1.738181, Sim: -0.126868
+EUReg10_1/ Epoch 25 loss 10.1138
+[val] Epoch 25  DistErr: 12.534462, NCC: 0.600514, ParaErr: 8.586437
+26 TotelIter 313 loss 10.037046, DistErr 12.427144, Trans: 4.333543, Rots: 4.182160, Flow: 1.661638, Sim: -0.140295
+26 TotelIter 314 loss 9.989367, DistErr 12.383496, Trans: 4.217011, Rots: 4.274883, Flow: 1.634823, Sim: -0.137351
+26 TotelIter 315 loss 10.557495, DistErr 13.173694, Trans: 4.471811, Rots: 4.525316, Flow: 1.688652, Sim: -0.128284
+26 TotelIter 316 loss 10.105638, DistErr 12.373428, Trans: 4.190701, Rots: 4.373763, Flow: 1.681516, Sim: -0.140341
+26 TotelIter 317 loss 10.169147, DistErr 12.683734, Trans: 4.176608, Rots: 4.419314, Flow: 1.718883, Sim: -0.145658
+26 TotelIter 318 loss 10.007654, DistErr 12.688792, Trans: 4.596853, Rots: 3.894599, Flow: 1.646724, Sim: -0.130522
+26 TotelIter 319 loss 10.469266, DistErr 12.855591, Trans: 4.474888, Rots: 4.417221, Flow: 1.708041, Sim: -0.130883
+26 TotelIter 320 loss 10.969008, DistErr 13.464098, Trans: 4.762526, Rots: 4.604663, Flow: 1.725634, Sim: -0.123815
+26 TotelIter 321 loss 10.265273, DistErr 12.758218, Trans: 4.369173, Rots: 4.317433, Flow: 1.708497, Sim: -0.129829
+26 TotelIter 322 loss 9.981380, DistErr 12.336090, Trans: 4.218490, Rots: 4.212435, Flow: 1.692792, Sim: -0.142337
+26 TotelIter 323 loss 10.272963, DistErr 12.836246, Trans: 4.525409, Rots: 4.212810, Flow: 1.666561, Sim: -0.131817
+26 TotelIter 324 loss 10.169800, DistErr 12.634824, Trans: 3.992884, Rots: 4.664787, Flow: 1.656943, Sim: -0.144814
+EUReg10_1/ Epoch 26 loss 10.2495
+0 TotelIter 1 loss 12.712555, DistErr 12.910016, Trans: 4.104694, Rots: 4.838328, Flow: 3.897611, Sim: -0.128077
+0 TotelIter 2 loss 13.545510, DistErr 13.816156, Trans: 4.929070, Rots: 4.815165, Flow: 3.923046, Sim: -0.121770
+0 TotelIter 3 loss 12.830468, DistErr 13.235376, Trans: 4.612212, Rots: 4.477127, Flow: 3.866396, Sim: -0.125266
+0 TotelIter 4 loss 12.911375, DistErr 13.239600, Trans: 4.818980, Rots: 4.376744, Flow: 3.839225, Sim: -0.123574
+0 TotelIter 5 loss 12.349061, DistErr 12.955673, Trans: 4.270348, Rots: 4.419099, Flow: 3.788611, Sim: -0.128998
+0 TotelIter 6 loss 12.802155, DistErr 13.357101, Trans: 4.623599, Rots: 4.584784, Flow: 3.720081, Sim: -0.126309
+0 TotelIter 7 loss 11.865451, DistErr 12.640799, Trans: 3.828364, Rots: 4.548867, Flow: 3.622466, Sim: -0.134246
+0 TotelIter 8 loss 12.464826, DistErr 13.310297, Trans: 4.458151, Rots: 4.506069, Flow: 3.621634, Sim: -0.121028
+0 TotelIter 9 loss 12.377191, DistErr 13.057464, Trans: 4.637592, Rots: 4.232667, Flow: 3.631555, Sim: -0.124623
+0 TotelIter 10 loss 12.373643, DistErr 13.094722, Trans: 4.422286, Rots: 4.503128, Flow: 3.574960, Sim: -0.126730
+0 TotelIter 11 loss 12.836393, DistErr 13.744217, Trans: 4.573945, Rots: 4.882963, Flow: 3.497684, Sim: -0.118197
+0 TotelIter 12 loss 12.621683, DistErr 13.358310, Trans: 4.880975, Rots: 4.392423, Flow: 3.469764, Sim: -0.121478
+EUReg10_1/ Epoch 0 loss 12.6409
+[val] Epoch 0  DistErr: 13.153205, NCC: 0.658016, ParaErr: 8.987107
+>> New best @ epoch 0: ParaErr=8.987107  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+1 TotelIter 13 loss 12.251821, DistErr 12.920249, Trans: 4.331249, Rots: 4.552496, Flow: 3.492507, Sim: -0.124433
+1 TotelIter 14 loss 12.100733, DistErr 13.021716, Trans: 4.175392, Rots: 4.665494, Flow: 3.387351, Sim: -0.127504
+1 TotelIter 15 loss 12.619140, DistErr 13.666869, Trans: 4.830662, Rots: 4.544923, Flow: 3.371234, Sim: -0.127680
+1 TotelIter 16 loss 11.898506, DistErr 13.141406, Trans: 4.318668, Rots: 4.413431, Flow: 3.292327, Sim: -0.125920
+1 TotelIter 17 loss 12.147537, DistErr 12.905913, Trans: 4.620991, Rots: 4.352579, Flow: 3.304285, Sim: -0.130317
+1 TotelIter 18 loss 11.951557, DistErr 13.053965, Trans: 4.339403, Rots: 4.487232, Flow: 3.250039, Sim: -0.125117
+1 TotelIter 19 loss 12.473540, DistErr 13.456192, Trans: 4.655889, Rots: 4.752574, Flow: 3.191122, Sim: -0.126045
+1 TotelIter 20 loss 11.928870, DistErr 13.210162, Trans: 4.160321, Rots: 4.723904, Flow: 3.176691, Sim: -0.132045
+1 TotelIter 21 loss 11.993293, DistErr 13.189710, Trans: 4.299383, Rots: 4.690167, Flow: 3.130352, Sim: -0.126609
+1 TotelIter 22 loss 11.966607, DistErr 13.352267, Trans: 4.560867, Rots: 4.486404, Flow: 3.044814, Sim: -0.125478
+1 TotelIter 23 loss 12.016941, DistErr 13.273203, Trans: 4.684350, Rots: 4.470702, Flow: 2.987675, Sim: -0.125786
+1 TotelIter 24 loss 12.054258, DistErr 13.181437, Trans: 4.685469, Rots: 4.477944, Flow: 3.013590, Sim: -0.122743
+EUReg10_1/ Epoch 1 loss 12.1169
+[val] Epoch 1  DistErr: 13.153524, NCC: 0.658006, ParaErr: 8.987379
+2 TotelIter 25 loss 11.470273, DistErr 12.920656, Trans: 4.155397, Rots: 4.555392, Flow: 2.888029, Sim: -0.128545
+2 TotelIter 26 loss 11.990867, DistErr 13.551190, Trans: 4.391455, Rots: 4.885837, Flow: 2.836318, Sim: -0.122743
+2 TotelIter 27 loss 11.511841, DistErr 12.972229, Trans: 4.389175, Rots: 4.397025, Flow: 2.852253, Sim: -0.126612
+2 TotelIter 28 loss 11.818945, DistErr 13.353911, Trans: 4.744874, Rots: 4.420961, Flow: 2.775326, Sim: -0.122217
+2 TotelIter 29 loss 11.346211, DistErr 12.893435, Trans: 4.508422, Rots: 4.235882, Flow: 2.729427, Sim: -0.127520
+2 TotelIter 30 loss 11.408953, DistErr 13.114997, Trans: 4.375152, Rots: 4.484568, Flow: 2.680478, Sim: -0.131246
+2 TotelIter 31 loss 11.637573, DistErr 13.225562, Trans: 4.788906, Rots: 4.391724, Flow: 2.581605, Sim: -0.124662
+2 TotelIter 32 loss 11.421397, DistErr 12.998108, Trans: 4.420548, Rots: 4.563209, Flow: 2.560638, Sim: -0.122999
+2 TotelIter 33 loss 12.017908, DistErr 13.549914, Trans: 4.600946, Rots: 4.783610, Flow: 2.755725, Sim: -0.122374
+2 TotelIter 34 loss 11.040156, DistErr 13.171188, Trans: 4.380158, Rots: 4.325770, Flow: 2.465809, Sim: -0.131582
+2 TotelIter 35 loss 11.561735, DistErr 13.423851, Trans: 4.778657, Rots: 4.411552, Flow: 2.497249, Sim: -0.125722
+2 TotelIter 36 loss 11.758733, DistErr 13.463161, Trans: 4.827300, Rots: 4.570510, Flow: 2.479682, Sim: -0.118759
+EUReg10_1/ Epoch 2 loss 11.5820
+[val] Epoch 2  DistErr: 13.154849, NCC: 0.658077, ParaErr: 8.988758
+3 TotelIter 37 loss 11.520651, DistErr 13.360915, Trans: 4.572468, Rots: 4.648763, Flow: 2.425321, Sim: -0.125900
+3 TotelIter 38 loss 11.755549, DistErr 13.745288, Trans: 4.591295, Rots: 4.876014, Flow: 2.407437, Sim: -0.119196
+3 TotelIter 39 loss 10.885381, DistErr 12.980374, Trans: 4.159093, Rots: 4.639365, Flow: 2.210791, Sim: -0.123869
+3 TotelIter 40 loss 11.111319, DistErr 12.914670, Trans: 4.213232, Rots: 4.690052, Flow: 2.330368, Sim: -0.122333
+3 TotelIter 41 loss 11.087189, DistErr 12.851059, Trans: 4.617781, Rots: 4.338060, Flow: 2.262640, Sim: -0.131292
+3 TotelIter 42 loss 11.053913, DistErr 13.131598, Trans: 4.178339, Rots: 4.809116, Flow: 2.193820, Sim: -0.127363
+3 TotelIter 43 loss 10.809512, DistErr 12.709035, Trans: 4.197345, Rots: 4.451038, Flow: 2.290569, Sim: -0.129439
+3 TotelIter 44 loss 11.044553, DistErr 13.412340, Trans: 4.625233, Rots: 4.531960, Flow: 2.012535, Sim: -0.125175
+3 TotelIter 45 loss 10.717162, DistErr 13.113665, Trans: 4.210357, Rots: 4.591623, Flow: 2.045115, Sim: -0.129933
+3 TotelIter 46 loss 11.124871, DistErr 13.584525, Trans: 4.554027, Rots: 4.630439, Flow: 2.068108, Sim: -0.127703
+3 TotelIter 47 loss 11.183588, DistErr 13.356119, Trans: 4.583021, Rots: 4.597557, Flow: 2.128849, Sim: -0.125839
+3 TotelIter 48 loss 10.972538, DistErr 13.342798, Trans: 4.370071, Rots: 4.694715, Flow: 2.029974, Sim: -0.122222
+EUReg10_1/ Epoch 3 loss 11.1055
+[val] Epoch 3  DistErr: 13.153383, NCC: 0.659080, ParaErr: 8.988319
+4 TotelIter 49 loss 10.828423, DistErr 12.947921, Trans: 4.444055, Rots: 4.493714, Flow: 2.013889, Sim: -0.123236
+4 TotelIter 50 loss 11.067284, DistErr 13.198890, Trans: 4.335410, Rots: 4.926640, Flow: 1.934178, Sim: -0.128943
+4 TotelIter 51 loss 11.144611, DistErr 13.669234, Trans: 4.609249, Rots: 4.843632, Flow: 1.815847, Sim: -0.124116
+4 TotelIter 52 loss 10.620922, DistErr 13.110878, Trans: 4.629211, Rots: 4.209825, Flow: 1.909950, Sim: -0.128062
+4 TotelIter 53 loss 10.671879, DistErr 13.308951, Trans: 4.598482, Rots: 4.377839, Flow: 1.821281, Sim: -0.125723
+4 TotelIter 54 loss 10.862197, DistErr 13.483255, Trans: 4.595807, Rots: 4.492694, Flow: 1.896549, Sim: -0.122854
+4 TotelIter 55 loss 10.746601, DistErr 13.595389, Trans: 4.634557, Rots: 4.523602, Flow: 1.709394, Sim: -0.120951
+4 TotelIter 56 loss 10.274169, DistErr 12.849729, Trans: 4.520046, Rots: 4.156828, Flow: 1.728289, Sim: -0.130995
+4 TotelIter 57 loss 10.593134, DistErr 13.028360, Trans: 4.537857, Rots: 4.437767, Flow: 1.743633, Sim: -0.126122
+4 TotelIter 58 loss 10.666664, DistErr 13.109097, Trans: 4.631152, Rots: 4.429935, Flow: 1.734858, Sim: -0.129282
+4 TotelIter 59 loss 10.168929, DistErr 12.783998, Trans: 4.282108, Rots: 4.304982, Flow: 1.720123, Sim: -0.138284
+4 TotelIter 60 loss 10.913065, DistErr 13.440066, Trans: 4.709958, Rots: 4.662088, Flow: 1.662704, Sim: -0.121685
+EUReg10_1/ Epoch 4 loss 10.7132
+[val] Epoch 4  DistErr: 13.146652, NCC: 0.659717, ParaErr: 8.983634
+>> New best @ epoch 4: ParaErr=8.983634  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+5 TotelIter 61 loss 10.380189, DistErr 13.023727, Trans: 4.582273, Rots: 4.293590, Flow: 1.630011, Sim: -0.125685
+5 TotelIter 62 loss 11.021018, DistErr 13.723773, Trans: 4.764962, Rots: 4.615596, Flow: 1.761271, Sim: -0.120811
+5 TotelIter 63 loss 10.125196, DistErr 12.784626, Trans: 4.260550, Rots: 4.335051, Flow: 1.657941, Sim: -0.128347
+5 TotelIter 64 loss 10.330222, DistErr 12.976880, Trans: 4.332960, Rots: 4.449574, Flow: 1.681900, Sim: -0.134212
+5 TotelIter 65 loss 10.708440, DistErr 13.312575, Trans: 4.434359, Rots: 4.741035, Flow: 1.660359, Sim: -0.127313
+5 TotelIter 66 loss 10.395422, DistErr 13.490527, Trans: 4.576297, Rots: 4.406548, Flow: 1.536319, Sim: -0.123741
+5 TotelIter 67 loss 10.333604, DistErr 13.158271, Trans: 4.224295, Rots: 4.792641, Flow: 1.444456, Sim: -0.127787
+5 TotelIter 68 loss 10.708792, DistErr 13.366086, Trans: 4.710227, Rots: 4.587123, Flow: 1.539090, Sim: -0.127647
+5 TotelIter 69 loss 10.030973, DistErr 12.658915, Trans: 4.108507, Rots: 4.555487, Flow: 1.502925, Sim: -0.135947
+5 TotelIter 70 loss 10.537254, DistErr 13.390479, Trans: 4.311220, Rots: 4.862552, Flow: 1.493830, Sim: -0.130346
+5 TotelIter 71 loss 10.618962, DistErr 13.506793, Trans: 4.773154, Rots: 4.493448, Flow: 1.481382, Sim: -0.129021
+5 TotelIter 72 loss 10.530467, DistErr 13.531885, Trans: 4.788822, Rots: 4.453222, Flow: 1.421895, Sim: -0.133472
+EUReg10_1/ Epoch 5 loss 10.4767
+[val] Epoch 5  DistErr: 13.119526, NCC: 0.664962, ParaErr: 8.961877
+>> New best @ epoch 5: ParaErr=8.961877  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+6 TotelIter 73 loss 9.854523, DistErr 12.681174, Trans: 4.185625, Rots: 4.368372, Flow: 1.430978, Sim: -0.130453
+6 TotelIter 74 loss 10.079809, DistErr 12.960001, Trans: 4.412337, Rots: 4.394551, Flow: 1.408856, Sim: -0.135936
+6 TotelIter 75 loss 10.090479, DistErr 13.150889, Trans: 4.453830, Rots: 4.391415, Flow: 1.379522, Sim: -0.134288
+6 TotelIter 76 loss 10.046002, DistErr 12.653771, Trans: 4.255231, Rots: 4.503782, Flow: 1.424591, Sim: -0.137603
+6 TotelIter 77 loss 9.575356, DistErr 12.837216, Trans: 4.077772, Rots: 4.284270, Flow: 1.354330, Sim: -0.141016
+6 TotelIter 78 loss 13.130079, DistErr 13.762796, Trans: 4.569794, Rots: 4.885672, Flow: 3.807153, Sim: -0.132539
+6 TotelIter 79 loss 13.367623, DistErr 13.476361, Trans: 4.613832, Rots: 4.538777, Flow: 4.348347, Sim: -0.133332
+6 TotelIter 80 loss 12.937178, DistErr 13.799766, Trans: 4.689281, Rots: 4.594346, Flow: 3.782048, Sim: -0.128498
+6 TotelIter 81 loss 12.091495, DistErr 13.091959, Trans: 4.402305, Rots: 4.286400, Flow: 3.541711, Sim: -0.138921
+6 TotelIter 82 loss 12.740339, DistErr 13.808570, Trans: 5.081610, Rots: 4.343502, Flow: 3.447165, Sim: -0.131938
+6 TotelIter 83 loss 12.433524, DistErr 13.479543, Trans: 4.812472, Rots: 4.296038, Flow: 3.458429, Sim: -0.133415
+6 TotelIter 84 loss 12.182375, DistErr 13.261441, Trans: 4.433813, Rots: 4.501565, Flow: 3.376998, Sim: -0.130000
+EUReg10_1/ Epoch 6 loss 11.5441
+[val] Epoch 6  DistErr: 13.427449, NCC: 0.655167, ParaErr: 9.097547
+7 TotelIter 85 loss 12.105021, DistErr 13.134798, Trans: 4.186423, Rots: 4.761515, Flow: 3.295797, Sim: -0.138712
+7 TotelIter 86 loss 12.277049, DistErr 13.489151, Trans: 4.829596, Rots: 4.297830, Flow: 3.274814, Sim: -0.125191
+7 TotelIter 87 loss 12.457023, DistErr 13.814345, Trans: 4.561117, Rots: 4.815045, Flow: 3.215008, Sim: -0.134146
+7 TotelIter 88 loss 11.787457, DistErr 12.985552, Trans: 4.404280, Rots: 4.290826, Flow: 3.227196, Sim: -0.134845
+7 TotelIter 89 loss 12.494697, DistErr 13.764752, Trans: 4.933148, Rots: 4.485974, Flow: 3.212254, Sim: -0.136679
+7 TotelIter 90 loss 11.465032, DistErr 12.528751, Trans: 4.060375, Rots: 4.396572, Flow: 3.146529, Sim: -0.138444
+7 TotelIter 91 loss 11.974129, DistErr 13.242172, Trans: 4.408587, Rots: 4.571751, Flow: 3.127797, Sim: -0.134006
+7 TotelIter 92 loss 12.149381, DistErr 13.434649, Trans: 4.697213, Rots: 4.507738, Flow: 3.078534, Sim: -0.134105
+7 TotelIter 93 loss 11.901062, DistErr 13.327913, Trans: 4.716298, Rots: 4.314844, Flow: 2.991104, Sim: -0.121183
+7 TotelIter 94 loss 11.479391, DistErr 12.850013, Trans: 4.298362, Rots: 4.312490, Flow: 3.016112, Sim: -0.147573
+7 TotelIter 95 loss 11.555744, DistErr 12.864120, Trans: 4.431594, Rots: 4.262914, Flow: 3.003496, Sim: -0.142260
+7 TotelIter 96 loss 11.762388, DistErr 13.044845, Trans: 4.335946, Rots: 4.653801, Flow: 2.909956, Sim: -0.137316
+EUReg10_1/ Epoch 7 loss 11.9507
+[val] Epoch 7  DistErr: 13.220278, NCC: 0.663613, ParaErr: 9.040714
+8 TotelIter 97 loss 11.690080, DistErr 12.949857, Trans: 4.356332, Rots: 4.607222, Flow: 2.861765, Sim: -0.135240
+8 TotelIter 98 loss 12.130084, DistErr 13.853269, Trans: 4.695204, Rots: 4.723350, Flow: 2.843206, Sim: -0.131676
+8 TotelIter 99 loss 11.465271, DistErr 12.877835, Trans: 4.229419, Rots: 4.595686, Flow: 2.775302, Sim: -0.135135
+8 TotelIter 100 loss 11.401608, DistErr 12.827594, Trans: 4.294871, Rots: 4.423209, Flow: 2.820944, Sim: -0.137416
+8 TotelIter 101 loss 11.922880, DistErr 13.291956, Trans: 4.577878, Rots: 4.662495, Flow: 2.811911, Sim: -0.129404
+8 TotelIter 102 loss 11.878185, DistErr 13.375745, Trans: 4.702070, Rots: 4.566787, Flow: 2.746971, Sim: -0.137644
+8 TotelIter 103 loss 11.710324, DistErr 13.459880, Trans: 4.648070, Rots: 4.566865, Flow: 2.630200, Sim: -0.134812
+8 TotelIter 104 loss 11.615116, DistErr 13.153748, Trans: 4.621055, Rots: 4.481214, Flow: 2.647678, Sim: -0.134831
+8 TotelIter 105 loss 11.498276, DistErr 13.311914, Trans: 4.537630, Rots: 4.473844, Flow: 2.620834, Sim: -0.134032
+8 TotelIter 106 loss 11.435530, DistErr 13.420865, Trans: 4.727105, Rots: 4.378442, Flow: 2.464032, Sim: -0.134049
+8 TotelIter 107 loss 11.599432, DistErr 13.227457, Trans: 4.501627, Rots: 4.667521, Flow: 2.565602, Sim: -0.135319
+8 TotelIter 108 loss 11.034365, DistErr 12.993097, Trans: 4.403975, Rots: 4.362153, Flow: 2.408482, Sim: -0.140244
+EUReg10_1/ Epoch 8 loss 11.6151
+[val] Epoch 8  DistErr: 13.141665, NCC: 0.664900, ParaErr: 8.979121
+9 TotelIter 109 loss 11.504619, DistErr 13.212921, Trans: 4.420143, Rots: 4.752163, Flow: 2.466632, Sim: -0.134320
+9 TotelIter 110 loss 12.115925, DistErr 14.161613, Trans: 4.985905, Rots: 4.893004, Flow: 2.367810, Sim: -0.130795
+9 TotelIter 111 loss 11.204783, DistErr 13.133682, Trans: 4.406179, Rots: 4.589988, Flow: 2.344582, Sim: -0.135965
+9 TotelIter 112 loss 10.768651, DistErr 12.815506, Trans: 4.360558, Rots: 4.194238, Flow: 2.352987, Sim: -0.139132
+9 TotelIter 113 loss 10.763838, DistErr 12.671240, Trans: 4.087343, Rots: 4.501108, Flow: 2.310536, Sim: -0.135150
+9 TotelIter 114 loss 11.785542, DistErr 13.698161, Trans: 4.592473, Rots: 5.066054, Flow: 2.256948, Sim: -0.129932
+9 TotelIter 115 loss 11.402545, DistErr 13.477678, Trans: 4.704121, Rots: 4.509589, Flow: 2.324973, Sim: -0.136138
+9 TotelIter 116 loss 11.281494, DistErr 13.345072, Trans: 4.549756, Rots: 4.623556, Flow: 2.243223, Sim: -0.135041
+9 TotelIter 117 loss 11.491258, DistErr 13.480417, Trans: 4.669795, Rots: 4.609025, Flow: 2.347488, Sim: -0.135051
+9 TotelIter 118 loss 10.839921, DistErr 13.089114, Trans: 4.591212, Rots: 4.282325, Flow: 2.100743, Sim: -0.134359
+9 TotelIter 119 loss 11.280299, DistErr 13.527054, Trans: 4.650640, Rots: 4.611981, Flow: 2.151812, Sim: -0.134136
+9 TotelIter 120 loss 10.628957, DistErr 12.683299, Trans: 4.267540, Rots: 4.356328, Flow: 2.146513, Sim: -0.141425
+EUReg10_1/ Epoch 9 loss 11.2557
+[val] Epoch 9  DistErr: 13.106888, NCC: 0.667485, ParaErr: 8.945045
+>> New best @ epoch 9: ParaErr=8.945045  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+10 TotelIter 121 loss 10.884989, DistErr 13.183433, Trans: 4.527129, Rots: 4.405339, Flow: 2.093128, Sim: -0.140606
+10 TotelIter 122 loss 10.805546, DistErr 12.963447, Trans: 4.125004, Rots: 4.720940, Flow: 2.097304, Sim: -0.137702
+10 TotelIter 123 loss 10.798655, DistErr 13.214595, Trans: 4.529192, Rots: 4.343624, Flow: 2.058316, Sim: -0.132477
+10 TotelIter 124 loss 10.909841, DistErr 13.339465, Trans: 4.599572, Rots: 4.461476, Flow: 1.979478, Sim: -0.130686
+10 TotelIter 125 loss 10.706293, DistErr 13.003940, Trans: 4.235940, Rots: 4.498235, Flow: 2.113585, Sim: -0.141467
+10 TotelIter 126 loss 11.280718, DistErr 13.653577, Trans: 4.521082, Rots: 4.905879, Flow: 1.987498, Sim: -0.133743
+10 TotelIter 127 loss 10.602315, DistErr 12.816932, Trans: 4.381639, Rots: 4.386701, Flow: 1.971823, Sim: -0.137849
+10 TotelIter 128 loss 10.748944, DistErr 13.082202, Trans: 4.604580, Rots: 4.277634, Flow: 1.996871, Sim: -0.130140
+10 TotelIter 129 loss 10.820951, DistErr 13.350098, Trans: 4.756008, Rots: 4.212460, Flow: 1.990789, Sim: -0.138306
+10 TotelIter 130 loss 11.249168, DistErr 13.316298, Trans: 4.696095, Rots: 4.520986, Flow: 2.167834, Sim: -0.135746
+10 TotelIter 131 loss 11.165841, DistErr 13.272925, Trans: 4.306266, Rots: 4.899790, Flow: 2.096092, Sim: -0.136306
+10 TotelIter 132 loss 10.469141, DistErr 12.721947, Trans: 3.971565, Rots: 4.549993, Flow: 2.082070, Sim: -0.134487
+EUReg10_1/ Epoch 10 loss 10.8702
+[val] Epoch 10  DistErr: 12.986599, NCC: 0.672627, ParaErr: 8.848533
+>> New best @ epoch 10: ParaErr=8.848533  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+11 TotelIter 133 loss 10.739446, DistErr 12.901950, Trans: 4.227313, Rots: 4.686500, Flow: 1.958243, Sim: -0.132610
+11 TotelIter 134 loss 10.407213, DistErr 12.893595, Trans: 4.320374, Rots: 4.070361, Flow: 2.150006, Sim: -0.133526
+11 TotelIter 135 loss 10.358776, DistErr 12.565984, Trans: 4.053242, Rots: 4.463766, Flow: 1.980985, Sim: -0.139218
+11 TotelIter 136 loss 10.947735, DistErr 13.466346, Trans: 4.731030, Rots: 4.417564, Flow: 1.925677, Sim: -0.126537
+11 TotelIter 137 loss 10.511031, DistErr 12.689063, Trans: 4.037814, Rots: 4.566820, Flow: 2.049329, Sim: -0.142932
+11 TotelIter 138 loss 11.349943, DistErr 13.571235, Trans: 4.448402, Rots: 4.809200, Flow: 2.220036, Sim: -0.127696
+11 TotelIter 139 loss 11.262522, DistErr 13.881604, Trans: 4.778211, Rots: 4.583627, Flow: 2.030232, Sim: -0.129547
+11 TotelIter 140 loss 10.666315, DistErr 13.172607, Trans: 4.172445, Rots: 4.570584, Flow: 2.070780, Sim: -0.147493
+11 TotelIter 141 loss 11.038738, DistErr 13.376474, Trans: 4.587008, Rots: 4.516206, Flow: 2.070289, Sim: -0.134766
+11 TotelIter 142 loss 10.471662, DistErr 12.695583, Trans: 4.119259, Rots: 4.417758, Flow: 2.078044, Sim: -0.143399
+11 TotelIter 143 loss 10.481814, DistErr 12.688422, Trans: 4.031408, Rots: 4.517811, Flow: 2.072215, Sim: -0.139620
+11 TotelIter 144 loss 10.451052, DistErr 12.779049, Trans: 3.960887, Rots: 4.706993, Flow: 1.922229, Sim: -0.139058
+EUReg10_1/ Epoch 11 loss 10.7239
+[val] Epoch 11  DistErr: 12.829082, NCC: 0.684250, ParaErr: 8.664084
+>> New best @ epoch 11: ParaErr=8.664084  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+12 TotelIter 145 loss 10.493668, DistErr 13.002853, Trans: 4.264511, Rots: 4.442526, Flow: 1.921303, Sim: -0.134673
+12 TotelIter 146 loss 10.993731, DistErr 13.148781, Trans: 4.372292, Rots: 4.684597, Flow: 2.074352, Sim: -0.137510
+12 TotelIter 147 loss 11.099091, DistErr 13.355613, Trans: 4.297288, Rots: 4.913410, Flow: 2.021567, Sim: -0.133174
+12 TotelIter 148 loss 10.686975, DistErr 12.976956, Trans: 4.348903, Rots: 4.531461, Flow: 1.942579, Sim: -0.135968
+12 TotelIter 149 loss 10.631688, DistErr 12.876238, Trans: 4.053200, Rots: 4.742527, Flow: 1.973322, Sim: -0.137360
+12 TotelIter 150 loss 9.794116, DistErr 11.952225, Trans: 3.785218, Rots: 4.227663, Flow: 1.929138, Sim: -0.147902
+12 TotelIter 151 loss 26.119541, DistErr 41.182064, Trans: 16.878096, Rots: 4.634927, Flow: 4.696900, Sim: -0.090382
+12 TotelIter 152 loss 29.463400, DistErr 51.387672, Trans: 19.779642, Rots: 4.527132, Flow: 5.236555, Sim: -0.079930
+12 TotelIter 153 loss 30.957546, DistErr 54.556252, Trans: 20.550442, Rots: 4.314807, Flow: 6.170042, Sim: -0.077745
+12 TotelIter 154 loss 20.241529, DistErr 26.169325, Trans: 10.679407, Rots: 4.401600, Flow: 5.269864, Sim: -0.109340
+12 TotelIter 155 loss 21.463608, DistErr 27.873678, Trans: 11.580372, Rots: 4.931481, Flow: 5.052041, Sim: -0.100285
+12 TotelIter 156 loss 21.065950, DistErr 28.496622, Trans: 11.776556, Rots: 4.394163, Flow: 4.995995, Sim: -0.100764
+EUReg10_1/ Epoch 12 loss 17.7509
+[val] Epoch 12  DistErr: 39.725592, NCC: 0.243922, ParaErr: 20.833266
+13 TotelIter 157 loss 21.218777, DistErr 27.921431, Trans: 11.500086, Rots: 4.787375, Flow: 5.032077, Sim: -0.100762
+13 TotelIter 158 loss 17.041733, DistErr 20.420877, Trans: 7.764507, Rots: 4.522380, Flow: 4.874783, Sim: -0.119938
+13 TotelIter 159 loss 15.499619, DistErr 16.779741, Trans: 6.311555, Rots: 4.596620, Flow: 4.713877, Sim: -0.122433
+13 TotelIter 160 loss 13.836900, DistErr 14.273361, Trans: 4.792713, Rots: 4.489507, Flow: 4.690515, Sim: -0.135835
+13 TotelIter 161 loss 14.705939, DistErr 15.163446, Trans: 5.503740, Rots: 4.659021, Flow: 4.674159, Sim: -0.130981
+13 TotelIter 162 loss 14.500951, DistErr 15.184488, Trans: 5.263456, Rots: 4.709826, Flow: 4.660061, Sim: -0.132392
+13 TotelIter 163 loss 13.638061, DistErr 13.308494, Trans: 4.853418, Rots: 4.182237, Flow: 4.737335, Sim: -0.134930
+13 TotelIter 164 loss 14.003347, DistErr 13.666099, Trans: 4.779413, Rots: 4.584835, Flow: 4.773448, Sim: -0.134348
+13 TotelIter 165 loss 13.877942, DistErr 13.610959, Trans: 4.656169, Rots: 4.586938, Flow: 4.770350, Sim: -0.135516
+13 TotelIter 166 loss 13.586934, DistErr 13.253281, Trans: 4.542970, Rots: 4.489126, Flow: 4.689086, Sim: -0.134248
+13 TotelIter 167 loss 13.614101, DistErr 13.324536, Trans: 4.373802, Rots: 4.711709, Flow: 4.661619, Sim: -0.133028
+13 TotelIter 168 loss 13.704929, DistErr 13.441974, Trans: 4.658664, Rots: 4.527338, Flow: 4.651544, Sim: -0.132616
+EUReg10_1/ Epoch 13 loss 14.9358
+[val] Epoch 13  DistErr: 13.368744, NCC: 0.659054, ParaErr: 9.071169
+14 TotelIter 169 loss 13.367916, DistErr 13.238266, Trans: 4.581081, Rots: 4.389330, Flow: 4.529325, Sim: -0.131820
+14 TotelIter 170 loss 13.442391, DistErr 13.231479, Trans: 4.408584, Rots: 4.600387, Flow: 4.564988, Sim: -0.131566
+14 TotelIter 171 loss 13.340220, DistErr 13.045901, Trans: 4.490932, Rots: 4.404804, Flow: 4.576988, Sim: -0.132504
+14 TotelIter 172 loss 13.911757, DistErr 14.153229, Trans: 4.814600, Rots: 4.739225, Flow: 4.483796, Sim: -0.125865
+14 TotelIter 173 loss 13.823894, DistErr 13.318845, Trans: 4.603815, Rots: 4.865303, Flow: 4.484037, Sim: -0.129261
+14 TotelIter 174 loss 14.027556, DistErr 13.930167, Trans: 4.699294, Rots: 4.949342, Flow: 4.502853, Sim: -0.123933
+14 TotelIter 175 loss 13.327602, DistErr 13.305179, Trans: 4.594077, Rots: 4.434356, Flow: 4.423300, Sim: -0.124130
+14 TotelIter 176 loss 13.375210, DistErr 13.279027, Trans: 4.527227, Rots: 4.593729, Flow: 4.391190, Sim: -0.136937
+14 TotelIter 177 loss 13.073968, DistErr 12.885254, Trans: 4.586574, Rots: 4.313162, Flow: 4.304111, Sim: -0.129878
+14 TotelIter 178 loss 13.904887, DistErr 13.797994, Trans: 4.822094, Rots: 4.862009, Flow: 4.352872, Sim: -0.132087
+14 TotelIter 179 loss 13.511211, DistErr 13.806335, Trans: 4.771143, Rots: 4.622528, Flow: 4.248368, Sim: -0.130828
+14 TotelIter 180 loss 12.936562, DistErr 13.020949, Trans: 4.601483, Rots: 4.184896, Flow: 4.282787, Sim: -0.132604
+EUReg10_1/ Epoch 14 loss 13.5036
+[val] Epoch 14  DistErr: 13.214712, NCC: 0.659509, ParaErr: 8.987595
+15 TotelIter 181 loss 12.923325, DistErr 12.957705, Trans: 4.411423, Rots: 4.437518, Flow: 4.208526, Sim: -0.134144
+15 TotelIter 182 loss 13.139320, DistErr 13.565262, Trans: 4.588896, Rots: 4.516057, Flow: 4.166258, Sim: -0.131892
+15 TotelIter 183 loss 12.870116, DistErr 13.190805, Trans: 4.899198, Rots: 3.971275, Flow: 4.131690, Sim: -0.132046
+15 TotelIter 184 loss 13.058173, DistErr 13.249834, Trans: 4.536348, Rots: 4.544442, Flow: 4.108990, Sim: -0.131606
+15 TotelIter 185 loss 12.686750, DistErr 12.882771, Trans: 4.385659, Rots: 4.317034, Flow: 4.127463, Sim: -0.143405
+15 TotelIter 186 loss 13.367119, DistErr 13.719208, Trans: 4.905130, Rots: 4.495679, Flow: 4.097305, Sim: -0.130995
+15 TotelIter 187 loss 13.461608, DistErr 13.798289, Trans: 4.673814, Rots: 4.831156, Flow: 4.093608, Sim: -0.136970
+15 TotelIter 188 loss 13.058688, DistErr 13.551303, Trans: 4.768374, Rots: 4.373619, Flow: 4.047346, Sim: -0.130651
+15 TotelIter 189 loss 12.912772, DistErr 13.226203, Trans: 4.600122, Rots: 4.398987, Flow: 4.042367, Sim: -0.128704
+15 TotelIter 190 loss 12.817766, DistErr 12.910599, Trans: 4.401678, Rots: 4.534266, Flow: 4.019822, Sim: -0.138000
+15 TotelIter 191 loss 12.676725, DistErr 13.196795, Trans: 4.473066, Rots: 4.315279, Flow: 4.021160, Sim: -0.132780
+15 TotelIter 192 loss 13.278424, DistErr 13.504412, Trans: 4.731959, Rots: 4.579927, Flow: 4.099999, Sim: -0.133460
+EUReg10_1/ Epoch 15 loss 13.0209
+[val] Epoch 15  DistErr: 13.218953, NCC: 0.662336, ParaErr: 9.023937
+16 TotelIter 193 loss 13.373213, DistErr 13.600759, Trans: 4.738357, Rots: 4.708819, Flow: 4.056888, Sim: -0.130851
+0 TotelIter 1 loss 12.712555, DistErr 12.910016, Trans: 4.104694, Rots: 4.838328, Flow: 3.897611, Sim: -0.128077
+0 TotelIter 2 loss 13.525524, DistErr 13.815969, Trans: 4.928947, Rots: 4.815144, Flow: 3.902996, Sim: -0.121563
+0 TotelIter 3 loss 12.761386, DistErr 13.235123, Trans: 4.612011, Rots: 4.477119, Flow: 3.797459, Sim: -0.125203
+0 TotelIter 4 loss 12.855953, DistErr 13.238945, Trans: 4.818197, Rots: 4.376740, Flow: 3.784574, Sim: -0.123557
+0 TotelIter 5 loss 12.258896, DistErr 12.955752, Trans: 4.270580, Rots: 4.419078, Flow: 3.698296, Sim: -0.129058
+0 TotelIter 6 loss 12.767490, DistErr 13.356990, Trans: 4.623451, Rots: 4.584776, Flow: 3.685658, Sim: -0.126394
+0 TotelIter 7 loss 11.855753, DistErr 12.640594, Trans: 3.828205, Rots: 4.548854, Flow: 3.612987, Sim: -0.134293
+0 TotelIter 8 loss 12.459645, DistErr 13.310554, Trans: 4.458232, Rots: 4.506080, Flow: 3.616385, Sim: -0.121051
+0 TotelIter 9 loss 12.376426, DistErr 13.057413, Trans: 4.637526, Rots: 4.232639, Flow: 3.630826, Sim: -0.124566
+0 TotelIter 10 loss 12.413174, DistErr 13.095160, Trans: 4.422496, Rots: 4.503183, Flow: 3.614134, Sim: -0.126639
+0 TotelIter 11 loss 12.870601, DistErr 13.744168, Trans: 4.573765, Rots: 4.883099, Flow: 3.531814, Sim: -0.118076
+0 TotelIter 12 loss 12.690480, DistErr 13.358957, Trans: 4.881527, Rots: 4.392396, Flow: 3.537830, Sim: -0.121274
+EUReg10_1/ Epoch 0 loss 12.6290
+[val] Epoch 0  DistErr: 13.153154, NCC: 0.657829, ParaErr: 8.987199
+>> New best @ epoch 0: ParaErr=8.987199  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+1 TotelIter 13 loss 12.310844, DistErr 12.920436, Trans: 4.331266, Rots: 4.552446, Flow: 3.551312, Sim: -0.124180
+1 TotelIter 14 loss 12.192143, DistErr 13.021876, Trans: 4.175098, Rots: 4.665686, Flow: 3.478527, Sim: -0.127168
+1 TotelIter 15 loss 12.724067, DistErr 13.665805, Trans: 4.829853, Rots: 4.544981, Flow: 3.476527, Sim: -0.127294
+1 TotelIter 16 loss 12.011793, DistErr 13.141238, Trans: 4.318564, Rots: 4.413433, Flow: 3.405263, Sim: -0.125468
+1 TotelIter 17 loss 12.281682, DistErr 12.905273, Trans: 4.620536, Rots: 4.352653, Flow: 3.438355, Sim: -0.129862
+1 TotelIter 18 loss 12.081303, DistErr 13.054914, Trans: 4.340048, Rots: 4.487274, Flow: 3.378587, Sim: -0.124606
+1 TotelIter 19 loss 12.622097, DistErr 13.455955, Trans: 4.655762, Rots: 4.752567, Flow: 3.339277, Sim: -0.125509
+1 TotelIter 20 loss 12.079378, DistErr 13.211154, Trans: 4.161281, Rots: 4.723935, Flow: 3.325616, Sim: -0.131455
+1 TotelIter 21 loss 12.181508, DistErr 13.189244, Trans: 4.298746, Rots: 4.690190, Flow: 3.318546, Sim: -0.125975
+1 TotelIter 22 loss 12.191716, DistErr 13.351651, Trans: 4.560319, Rots: 4.486441, Flow: 3.269847, Sim: -0.124890
+1 TotelIter 23 loss 12.243078, DistErr 13.272193, Trans: 4.683655, Rots: 4.470534, Flow: 3.214198, Sim: -0.125309
+1 TotelIter 24 loss 12.297534, DistErr 13.181998, Trans: 4.686017, Rots: 4.477916, Flow: 3.255959, Sim: -0.122359
+EUReg10_1/ Epoch 1 loss 12.2681
+[val] Epoch 1  DistErr: 13.153282, NCC: 0.657803, ParaErr: 8.987327
+2 TotelIter 25 loss 11.724375, DistErr 12.920497, Trans: 4.155397, Rots: 4.555408, Flow: 3.141758, Sim: -0.128188
+2 TotelIter 26 loss 12.274246, DistErr 13.551691, Trans: 4.391320, Rots: 4.885955, Flow: 3.119401, Sim: -0.122430
+2 TotelIter 27 loss 11.801844, DistErr 12.972580, Trans: 4.389411, Rots: 4.396966, Flow: 3.141872, Sim: -0.126405
+2 TotelIter 28 loss 12.127184, DistErr 13.353922, Trans: 4.745020, Rots: 4.420928, Flow: 3.083315, Sim: -0.122079
+2 TotelIter 29 loss 11.678660, DistErr 12.892972, Trans: 4.508348, Rots: 4.235802, Flow: 3.061949, Sim: -0.127439
+2 TotelIter 30 loss 11.768787, DistErr 13.114745, Trans: 4.374637, Rots: 4.484636, Flow: 3.040785, Sim: -0.131270
+2 TotelIter 31 loss 11.972891, DistErr 13.225669, Trans: 4.789171, Rots: 4.391794, Flow: 2.916564, Sim: -0.124639
+2 TotelIter 32 loss 11.808244, DistErr 12.999211, Trans: 4.421354, Rots: 4.563104, Flow: 2.946780, Sim: -0.122995
+2 TotelIter 33 loss 12.259466, DistErr 13.550420, Trans: 4.601306, Rots: 4.783628, Flow: 2.996958, Sim: -0.122427
+2 TotelIter 34 loss 11.384269, DistErr 13.172107, Trans: 4.381373, Rots: 4.325687, Flow: 2.808941, Sim: -0.131733
+2 TotelIter 35 loss 11.930366, DistErr 13.423355, Trans: 4.778250, Rots: 4.411494, Flow: 2.866423, Sim: -0.125802
+2 TotelIter 36 loss 12.179956, DistErr 13.461957, Trans: 4.826682, Rots: 4.570566, Flow: 2.901534, Sim: -0.118825
+EUReg10_1/ Epoch 2 loss 11.9092
+[val] Epoch 2  DistErr: 13.154447, NCC: 0.658080, ParaErr: 8.987999
+3 TotelIter 37 loss 11.915009, DistErr 13.360229, Trans: 4.572101, Rots: 4.648829, Flow: 2.819999, Sim: -0.125921
+3 TotelIter 38 loss 12.124331, DistErr 13.744811, Trans: 4.591188, Rots: 4.875999, Flow: 2.776295, Sim: -0.119151
+3 TotelIter 39 loss 11.302993, DistErr 12.978601, Trans: 4.156597, Rots: 4.639349, Flow: 2.630814, Sim: -0.123768
+3 TotelIter 40 loss 11.496326, DistErr 12.915614, Trans: 4.214009, Rots: 4.689965, Flow: 2.714519, Sim: -0.122168
+3 TotelIter 41 loss 11.485142, DistErr 12.849324, Trans: 4.616294, Rots: 4.338164, Flow: 2.661767, Sim: -0.131083
+3 TotelIter 42 loss 11.507101, DistErr 13.134692, Trans: 4.179092, Rots: 4.809155, Flow: 2.645939, Sim: -0.127085
+3 TotelIter 43 loss 11.153318, DistErr 12.710718, Trans: 4.200163, Rots: 4.450888, Flow: 2.631402, Sim: -0.129134
+3 TotelIter 44 loss 11.494020, DistErr 13.415387, Trans: 4.630503, Rots: 4.532024, Flow: 2.456342, Sim: -0.124849
+3 TotelIter 45 loss 11.198586, DistErr 13.114493, Trans: 4.214402, Rots: 4.591750, Flow: 2.521871, Sim: -0.129439
+3 TotelIter 46 loss 11.509752, DistErr 13.584810, Trans: 4.553931, Rots: 4.630455, Flow: 2.452404, Sim: -0.127037
+3 TotelIter 47 loss 11.596415, DistErr 13.346240, Trans: 4.576221, Rots: 4.597661, Flow: 2.547758, Sim: -0.125225
+3 TotelIter 48 loss 11.408330, DistErr 13.340937, Trans: 4.367261, Rots: 4.694695, Flow: 2.467790, Sim: -0.121416
+EUReg10_1/ Epoch 3 loss 11.5159
+[val] Epoch 3  DistErr: 13.150921, NCC: 0.658590, ParaErr: 8.985399
+>> New best @ epoch 3: ParaErr=8.985399  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+4 TotelIter 49 loss 11.243057, DistErr 12.938489, Trans: 4.440572, Rots: 4.493650, Flow: 2.431478, Sim: -0.122642
+4 TotelIter 50 loss 11.523764, DistErr 13.190516, Trans: 4.327885, Rots: 4.926611, Flow: 2.397557, Sim: -0.128289
+4 TotelIter 51 loss 11.592895, DistErr 13.667426, Trans: 4.608053, Rots: 4.843706, Flow: 2.264555, Sim: -0.123420
+4 TotelIter 52 loss 11.001145, DistErr 13.101600, Trans: 4.622019, Rots: 4.209839, Flow: 2.296947, Sim: -0.127660
+4 TotelIter 53 loss 11.117572, DistErr 13.297118, Trans: 4.591593, Rots: 4.377950, Flow: 2.273605, Sim: -0.125577
+4 TotelIter 54 loss 11.257723, DistErr 13.464882, Trans: 4.585475, Rots: 4.492564, Flow: 2.302930, Sim: -0.123247
+4 TotelIter 55 loss 11.154339, DistErr 13.600600, Trans: 4.636796, Rots: 4.523602, Flow: 2.115561, Sim: -0.121620
+4 TotelIter 56 loss 10.707527, DistErr 12.846318, Trans: 4.519088, Rots: 4.156718, Flow: 2.163386, Sim: -0.131664
+4 TotelIter 57 loss 11.055746, DistErr 13.022339, Trans: 4.530833, Rots: 4.437779, Flow: 2.213808, Sim: -0.126675
+4 TotelIter 58 loss 11.065885, DistErr 13.086209, Trans: 4.613279, Rots: 4.429801, Flow: 2.152606, Sim: -0.129800
+4 TotelIter 59 loss 10.555551, DistErr 12.776692, Trans: 4.273889, Rots: 4.304979, Flow: 2.115648, Sim: -0.138964
+4 TotelIter 60 loss 11.338501, DistErr 13.436142, Trans: 4.702597, Rots: 4.661811, Flow: 2.097564, Sim: -0.123471
+EUReg10_1/ Epoch 4 loss 11.1345
+[val] Epoch 4  DistErr: 13.134335, NCC: 0.663449, ParaErr: 8.969812
+>> New best @ epoch 4: ParaErr=8.969812  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+5 TotelIter 61 loss 10.788738, DistErr 13.010535, Trans: 4.580469, Rots: 4.293569, Flow: 2.041985, Sim: -0.127285
+5 TotelIter 62 loss 11.330238, DistErr 13.669815, Trans: 4.731012, Rots: 4.615467, Flow: 2.106270, Sim: -0.122511
+5 TotelIter 63 loss 10.433829, DistErr 12.734052, Trans: 4.218917, Rots: 4.335068, Flow: 2.011714, Sim: -0.131870
+5 TotelIter 64 loss 10.674178, DistErr 12.924402, Trans: 4.296163, Rots: 4.449478, Flow: 2.067765, Sim: -0.139227
+5 TotelIter 65 loss 11.075017, DistErr 13.270276, Trans: 4.400363, Rots: 4.741366, Flow: 2.066296, Sim: -0.133009
+5 TotelIter 66 loss 10.703660, DistErr 13.415047, Trans: 4.534974, Rots: 4.406660, Flow: 1.891974, Sim: -0.129948
+5 TotelIter 67 loss 10.740579, DistErr 13.113032, Trans: 4.204949, Rots: 4.792080, Flow: 1.876204, Sim: -0.132655
+5 TotelIter 68 loss 11.032394, DistErr 13.299563, Trans: 4.657274, Rots: 4.587151, Flow: 1.919911, Sim: -0.131941
+5 TotelIter 69 loss 10.348033, DistErr 12.551615, Trans: 4.034154, Rots: 4.555689, Flow: 1.899089, Sim: -0.140901
+5 TotelIter 70 loss 10.816942, DistErr 13.245450, Trans: 4.192149, Rots: 4.862632, Flow: 1.898029, Sim: -0.135868
+5 TotelIter 71 loss 11.041808, DistErr 13.459296, Trans: 4.739131, Rots: 4.493306, Flow: 1.944361, Sim: -0.134990
+5 TotelIter 72 loss 10.731110, DistErr 13.279136, Trans: 4.608483, Rots: 4.453071, Flow: 1.809136, Sim: -0.139580
+EUReg10_1/ Epoch 5 loss 10.8097
+[val] Epoch 5  DistErr: 12.962383, NCC: 0.674789, ParaErr: 8.818630
+>> New best @ epoch 5: ParaErr=8.818630  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+6 TotelIter 73 loss 10.131827, DistErr 12.553540, Trans: 4.099608, Rots: 4.368267, Flow: 1.798003, Sim: -0.134050
+6 TotelIter 74 loss 10.413863, DistErr 12.839526, Trans: 4.329972, Rots: 4.394340, Flow: 1.826959, Sim: -0.137407
+6 TotelIter 75 loss 10.293668, DistErr 12.944429, Trans: 4.322136, Rots: 4.391187, Flow: 1.717661, Sim: -0.137317
+6 TotelIter 76 loss 10.505605, DistErr 12.658360, Trans: 4.278104, Rots: 4.503720, Flow: 1.860958, Sim: -0.137177
+6 TotelIter 77 loss 9.859893, DistErr 12.685544, Trans: 3.926763, Rots: 4.284929, Flow: 1.789803, Sim: -0.141603
+6 TotelIter 78 loss 10.801824, DistErr 13.161377, Trans: 4.178857, Rots: 4.885521, Flow: 1.874342, Sim: -0.136896
+6 TotelIter 79 loss 10.045161, DistErr 12.234355, Trans: 3.877291, Rots: 4.538688, Flow: 1.770763, Sim: -0.141580
+6 TotelIter 80 loss 10.738230, DistErr 13.330660, Trans: 4.381859, Rots: 4.594356, Flow: 1.896554, Sim: -0.134539
+6 TotelIter 81 loss 10.997186, DistErr 13.878873, Trans: 4.835302, Rots: 4.286579, Flow: 2.010300, Sim: -0.134995
+6 TotelIter 82 loss 10.927553, DistErr 13.475565, Trans: 4.665786, Rots: 4.343505, Flow: 2.054390, Sim: -0.136128
+6 TotelIter 83 loss 9.937223, DistErr 12.307705, Trans: 4.012622, Rots: 4.296063, Flow: 1.772142, Sim: -0.143604
+6 TotelIter 84 loss 10.787271, DistErr 13.323682, Trans: 4.414145, Rots: 4.501501, Flow: 2.005082, Sim: -0.133458
+EUReg10_1/ Epoch 6 loss 10.4533
+[val] Epoch 6  DistErr: 13.889281, NCC: 0.645792, ParaErr: 9.230824
+7 TotelIter 85 loss 10.495105, DistErr 12.884007, Trans: 3.943933, Rots: 4.761451, Flow: 1.928717, Sim: -0.138997
+7 TotelIter 86 loss 10.073702, DistErr 12.275249, Trans: 4.002418, Rots: 4.297736, Flow: 1.910403, Sim: -0.136854
+7 TotelIter 87 loss 10.966331, DistErr 13.461853, Trans: 4.274722, Rots: 4.814990, Flow: 2.009018, Sim: -0.132399
+7 TotelIter 88 loss 9.958825, DistErr 12.346623, Trans: 3.923061, Rots: 4.290642, Flow: 1.887369, Sim: -0.142247
+7 TotelIter 89 loss 10.606317, DistErr 12.990875, Trans: 4.331641, Rots: 4.485642, Flow: 1.936534, Sim: -0.147501
+7 TotelIter 90 loss 10.087106, DistErr 12.221931, Trans: 3.890651, Rots: 4.396988, Flow: 1.943630, Sim: -0.144164
+7 TotelIter 91 loss 11.629094, DistErr 14.154773, Trans: 4.831685, Rots: 4.571537, Flow: 2.354766, Sim: -0.128894
+7 TotelIter 92 loss 13.032476, DistErr 15.129962, Trans: 5.678217, Rots: 4.507230, Flow: 2.976634, Sim: -0.129604
+7 TotelIter 93 loss 12.204018, DistErr 13.818329, Trans: 4.890727, Rots: 4.315349, Flow: 3.128133, Sim: -0.130191
+7 TotelIter 94 loss 12.064687, DistErr 13.445902, Trans: 4.660460, Rots: 4.312122, Flow: 3.237056, Sim: -0.144952
+7 TotelIter 95 loss 12.016510, DistErr 13.183978, Trans: 4.626821, Rots: 4.262818, Flow: 3.260363, Sim: -0.133491
+7 TotelIter 96 loss 12.031898, DistErr 13.126307, Trans: 4.333619, Rots: 4.653506, Flow: 3.180887, Sim: -0.136115
+EUReg10_1/ Epoch 7 loss 11.2638
+[val] Epoch 7  DistErr: 13.057117, NCC: 0.671474, ParaErr: 8.867488
+8 TotelIter 97 loss 12.037459, DistErr 13.094211, Trans: 4.358468, Rots: 4.607552, Flow: 3.206668, Sim: -0.135229
+8 TotelIter 98 loss 12.450535, DistErr 14.129068, Trans: 4.743149, Rots: 4.723598, Flow: 3.113714, Sim: -0.129927
+8 TotelIter 99 loss 11.590416, DistErr 13.110748, Trans: 4.284924, Rots: 4.595671, Flow: 2.849810, Sim: -0.139989
+8 TotelIter 100 loss 11.277222, DistErr 12.838605, Trans: 4.279160, Rots: 4.423141, Flow: 2.720104, Sim: -0.145184
+8 TotelIter 101 loss 11.658553, DistErr 13.058812, Trans: 4.383401, Rots: 4.662940, Flow: 2.744259, Sim: -0.132047
+8 TotelIter 102 loss 11.970140, DistErr 13.433675, Trans: 4.735716, Rots: 4.567357, Flow: 2.799010, Sim: -0.131941
+8 TotelIter 103 loss 11.585350, DistErr 13.206347, Trans: 4.502210, Rots: 4.568169, Flow: 2.647997, Sim: -0.133025
+8 TotelIter 104 loss 11.579080, DistErr 13.119338, Trans: 4.559715, Rots: 4.481582, Flow: 2.672798, Sim: -0.135015
+8 TotelIter 105 loss 11.184434, DistErr 13.067598, Trans: 4.355972, Rots: 4.472359, Flow: 2.489438, Sim: -0.133335
+8 TotelIter 106 loss 11.143007, DistErr 13.236893, Trans: 4.581781, Rots: 4.372653, Flow: 2.320169, Sim: -0.131597
+8 TotelIter 107 loss 11.318493, DistErr 13.088340, Trans: 4.352297, Rots: 4.667939, Flow: 2.432710, Sim: -0.134454
+8 TotelIter 108 loss 10.854841, DistErr 13.044777, Trans: 4.377628, Rots: 4.362105, Flow: 2.253508, Sim: -0.138399
+EUReg10_1/ Epoch 8 loss 11.5541
+[val] Epoch 8  DistErr: 12.909093, NCC: 0.678308, ParaErr: 8.786600
+>> New best @ epoch 8: ParaErr=8.786600  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+9 TotelIter 109 loss 11.308470, DistErr 13.069158, Trans: 4.323049, Rots: 4.751039, Flow: 2.368863, Sim: -0.134480
+9 TotelIter 110 loss 11.875031, DistErr 13.918139, Trans: 4.815645, Rots: 4.894060, Flow: 2.298171, Sim: -0.132845
+9 TotelIter 111 loss 11.219795, DistErr 13.131540, Trans: 4.393500, Rots: 4.589711, Flow: 2.372170, Sim: -0.135586
+9 TotelIter 112 loss 10.603864, DistErr 12.673188, Trans: 4.226557, Rots: 4.194349, Flow: 2.323791, Sim: -0.140833
+9 TotelIter 113 loss 10.499558, DistErr 12.415970, Trans: 3.888669, Rots: 4.501848, Flow: 2.247120, Sim: -0.138080
+9 TotelIter 114 loss 11.600677, DistErr 13.543449, Trans: 4.406454, Rots: 5.066226, Flow: 2.260112, Sim: -0.132113
+9 TotelIter 115 loss 11.132829, DistErr 13.347399, Trans: 4.551167, Rots: 4.507536, Flow: 2.210237, Sim: -0.136111
+9 TotelIter 116 loss 11.012686, DistErr 13.183896, Trans: 4.421562, Rots: 4.624344, Flow: 2.100480, Sim: -0.133700
+9 TotelIter 117 loss 11.217227, DistErr 13.321158, Trans: 4.564754, Rots: 4.608228, Flow: 2.178789, Sim: -0.134544
+9 TotelIter 118 loss 10.591801, DistErr 12.730060, Trans: 4.348825, Rots: 4.280130, Flow: 2.096364, Sim: -0.133518
+9 TotelIter 119 loss 11.122245, DistErr 13.332367, Trans: 4.491834, Rots: 4.611580, Flow: 2.152936, Sim: -0.134105
+9 TotelIter 120 loss 10.656359, DistErr 12.758208, Trans: 4.329713, Rots: 4.356380, Flow: 2.110330, Sim: -0.140064
+EUReg10_1/ Epoch 9 loss 11.0700
+[val] Epoch 9  DistErr: 12.844643, NCC: 0.679976, ParaErr: 8.776142
+>> New best @ epoch 9: ParaErr=8.776142  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+10 TotelIter 121 loss 10.507269, DistErr 12.719966, Trans: 4.228202, Rots: 4.400301, Flow: 2.021854, Sim: -0.143089
+10 TotelIter 122 loss 10.584705, DistErr 12.662639, Trans: 3.974858, Rots: 4.726001, Flow: 2.027452, Sim: -0.143606
+10 TotelIter 123 loss 10.606990, DistErr 12.982581, Trans: 4.352073, Rots: 4.347405, Flow: 2.042684, Sim: -0.135172
+10 TotelIter 124 loss 10.521964, DistErr 12.945581, Trans: 4.280822, Rots: 4.457141, Flow: 1.917648, Sim: -0.133647
+10 TotelIter 125 loss 10.423657, DistErr 12.815686, Trans: 4.051610, Rots: 4.492431, Flow: 2.019412, Sim: -0.139794
+10 TotelIter 126 loss 10.926878, DistErr 13.268580, Trans: 4.218044, Rots: 4.907589, Flow: 1.936425, Sim: -0.135181
+10 TotelIter 127 loss 10.272483, DistErr 12.425413, Trans: 4.118577, Rots: 4.376482, Flow: 1.919312, Sim: -0.141889
+10 TotelIter 128 loss 10.238048, DistErr 12.572977, Trans: 4.251154, Rots: 4.260274, Flow: 1.866203, Sim: -0.139584
+10 TotelIter 129 loss 10.305702, DistErr 12.853584, Trans: 4.390100, Rots: 4.204540, Flow: 1.852351, Sim: -0.141288
+10 TotelIter 130 loss 10.805849, DistErr 13.224395, Trans: 4.550497, Rots: 4.505148, Flow: 1.888799, Sim: -0.138595
+10 TotelIter 131 loss 10.810410, DistErr 13.080919, Trans: 4.142543, Rots: 4.899363, Flow: 1.905714, Sim: -0.137208
+10 TotelIter 132 loss 10.109135, DistErr 12.472850, Trans: 3.800277, Rots: 4.542105, Flow: 1.907090, Sim: -0.140338
+EUReg10_1/ Epoch 10 loss 10.5094
+[val] Epoch 10  DistErr: 13.131445, NCC: 0.670410, ParaErr: 8.825475
+11 TotelIter 133 loss 10.305275, DistErr 12.576489, Trans: 3.963927, Rots: 4.667220, Flow: 1.813002, Sim: -0.138874
+11 TotelIter 134 loss 10.088532, DistErr 12.753062, Trans: 4.264530, Rots: 4.052752, Flow: 1.909116, Sim: -0.137866
+11 TotelIter 135 loss 9.786598, DistErr 12.013591, Trans: 3.678144, Rots: 4.419881, Flow: 1.835439, Sim: -0.146867
+11 TotelIter 136 loss 10.405107, DistErr 12.997217, Trans: 4.271564, Rots: 4.386075, Flow: 1.883411, Sim: -0.135944
+11 TotelIter 137 loss 9.944646, DistErr 12.191306, Trans: 3.781106, Rots: 4.464588, Flow: 1.844737, Sim: -0.145785
+11 TotelIter 138 loss 10.834889, DistErr 13.143664, Trans: 4.198983, Rots: 4.732573, Flow: 2.038313, Sim: -0.134978
+11 TotelIter 139 loss 10.724394, DistErr 13.298459, Trans: 4.388972, Rots: 4.504182, Flow: 1.964451, Sim: -0.133211
+11 TotelIter 140 loss 9.878488, DistErr 12.515056, Trans: 3.652827, Rots: 4.508010, Flow: 1.871455, Sim: -0.153805
+11 TotelIter 141 loss 10.617320, DistErr 13.022028, Trans: 4.540494, Rots: 4.373584, Flow: 1.842821, Sim: -0.139578
+11 TotelIter 142 loss 10.152952, DistErr 12.467901, Trans: 4.263469, Rots: 4.186228, Flow: 1.845472, Sim: -0.142217
+11 TotelIter 143 loss 10.117931, DistErr 12.391748, Trans: 3.951362, Rots: 4.382121, Flow: 1.930230, Sim: -0.145781
+11 TotelIter 144 loss 10.104918, DistErr 12.381141, Trans: 3.977519, Rots: 4.398052, Flow: 1.874870, Sim: -0.145523
+EUReg10_1/ Epoch 11 loss 10.2468
+[val] Epoch 11  DistErr: 12.226914, NCC: 0.701103, ParaErr: 8.263915
+>> New best @ epoch 11: ParaErr=8.263915  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+12 TotelIter 145 loss 9.753162, DistErr 12.205274, Trans: 4.047159, Rots: 4.012671, Flow: 1.836669, Sim: -0.143336
+12 TotelIter 146 loss 9.980927, DistErr 12.168925, Trans: 4.071647, Rots: 4.244212, Flow: 1.808672, Sim: -0.143604
+12 TotelIter 147 loss 10.178757, DistErr 12.285055, Trans: 4.087627, Rots: 4.388237, Flow: 1.849385, Sim: -0.146492
+12 TotelIter 148 loss 9.983132, DistErr 12.377294, Trans: 4.388714, Rots: 4.025580, Flow: 1.706506, Sim: -0.137667
+12 TotelIter 149 loss 9.583454, DistErr 11.498252, Trans: 3.699123, Rots: 4.183654, Flow: 1.848481, Sim: -0.147804
+12 TotelIter 150 loss 9.360407, DistErr 11.627008, Trans: 3.834337, Rots: 3.931892, Flow: 1.744577, Sim: -0.150400
+12 TotelIter 151 loss 9.643398, DistErr 11.769536, Trans: 3.725900, Rots: 4.229194, Flow: 1.838361, Sim: -0.150057
+12 TotelIter 152 loss 9.616507, DistErr 11.611867, Trans: 3.890697, Rots: 4.079032, Flow: 1.795366, Sim: -0.148589
+12 TotelIter 153 loss 9.653953, DistErr 11.544402, Trans: 3.866688, Rots: 4.031469, Flow: 1.902166, Sim: -0.146370
+12 TotelIter 154 loss 9.817616, DistErr 12.028184, Trans: 4.295597, Rots: 3.816044, Flow: 1.853101, Sim: -0.147126
+12 TotelIter 155 loss 9.981129, DistErr 11.909469, Trans: 3.926360, Rots: 4.258533, Flow: 1.943458, Sim: -0.147221
+12 TotelIter 156 loss 9.730820, DistErr 11.878647, Trans: 4.144130, Rots: 3.932226, Flow: 1.799230, Sim: -0.144765
+EUReg10_1/ Epoch 12 loss 9.7736
+[val] Epoch 12  DistErr: 11.301017, NCC: 0.734725, ParaErr: 7.687678
+>> New best @ epoch 12: ParaErr=7.687678  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+13 TotelIter 157 loss 10.342638, DistErr 12.450296, Trans: 4.194345, Rots: 4.399370, Flow: 1.890125, Sim: -0.141203
+13 TotelIter 158 loss 9.122686, DistErr 11.376604, Trans: 3.591642, Rots: 3.961509, Flow: 1.726628, Sim: -0.157092
+13 TotelIter 159 loss 9.728158, DistErr 11.527320, Trans: 4.072740, Rots: 3.992121, Flow: 1.812681, Sim: -0.149384
+13 TotelIter 160 loss 8.805861, DistErr 10.812418, Trans: 3.438838, Rots: 3.734103, Flow: 1.784960, Sim: -0.152039
+13 TotelIter 161 loss 9.602123, DistErr 11.375900, Trans: 3.727917, Rots: 4.224102, Flow: 1.807341, Sim: -0.157236
+13 TotelIter 162 loss 9.204108, DistErr 11.028142, Trans: 3.683761, Rots: 3.880622, Flow: 1.798048, Sim: -0.158324
+13 TotelIter 163 loss 8.968372, DistErr 10.812294, Trans: 3.614910, Rots: 3.743409, Flow: 1.771202, Sim: -0.161148
+13 TotelIter 164 loss 9.119401, DistErr 10.896728, Trans: 3.598917, Rots: 3.948532, Flow: 1.731932, Sim: -0.159980
+13 TotelIter 165 loss 9.181479, DistErr 11.111684, Trans: 3.654679, Rots: 3.951948, Flow: 1.735967, Sim: -0.161113
+13 TotelIter 166 loss 8.844327, DistErr 10.665916, Trans: 3.341388, Rots: 3.925670, Flow: 1.744325, Sim: -0.167056
+13 TotelIter 167 loss 9.038501, DistErr 11.186347, Trans: 3.433429, Rots: 4.046441, Flow: 1.712901, Sim: -0.154270
+13 TotelIter 168 loss 9.305890, DistErr 11.151286, Trans: 3.735303, Rots: 3.946176, Flow: 1.788065, Sim: -0.163654
+EUReg10_1/ Epoch 13 loss 9.2720
+[val] Epoch 13  DistErr: 10.315241, NCC: 0.778950, ParaErr: 7.016860
+>> New best @ epoch 13: ParaErr=7.016860  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+14 TotelIter 169 loss 8.688462, DistErr 10.555181, Trans: 3.522077, Rots: 3.606095, Flow: 1.722875, Sim: -0.162585
+14 TotelIter 170 loss 8.627747, DistErr 10.481606, Trans: 3.202088, Rots: 3.872608, Flow: 1.706815, Sim: -0.153764
+14 TotelIter 171 loss 8.801578, DistErr 10.468303, Trans: 3.466080, Rots: 3.751447, Flow: 1.751556, Sim: -0.167506
+14 TotelIter 172 loss 9.161323, DistErr 11.090266, Trans: 3.679511, Rots: 3.891798, Flow: 1.740875, Sim: -0.150861
+14 TotelIter 173 loss 9.455904, DistErr 10.972762, Trans: 3.570924, Rots: 4.209913, Flow: 1.837272, Sim: -0.162205
+14 TotelIter 174 loss 9.271703, DistErr 11.001716, Trans: 3.427636, Rots: 4.201605, Flow: 1.799801, Sim: -0.157339
+14 TotelIter 175 loss 8.628520, DistErr 10.342992, Trans: 3.216713, Rots: 3.794385, Flow: 1.775988, Sim: -0.158567
+14 TotelIter 176 loss 8.651247, DistErr 10.360882, Trans: 3.128067, Rots: 3.905518, Flow: 1.789958, Sim: -0.172297
+14 TotelIter 177 loss 8.919813, DistErr 10.743151, Trans: 3.616219, Rots: 3.696883, Flow: 1.762305, Sim: -0.155594
+14 TotelIter 178 loss 9.459814, DistErr 11.070586, Trans: 3.580369, Rots: 4.229095, Flow: 1.811134, Sim: -0.160784
+14 TotelIter 179 loss 9.115292, DistErr 11.219342, Trans: 3.565197, Rots: 3.928499, Flow: 1.780036, Sim: -0.158440
+14 TotelIter 180 loss 8.755655, DistErr 10.689980, Trans: 3.714817, Rots: 3.411266, Flow: 1.796620, Sim: -0.167048
+EUReg10_1/ Epoch 14 loss 8.9614
+[val] Epoch 14  DistErr: 9.768327, NCC: 0.801214, ParaErr: 6.597815
+>> New best @ epoch 14: ParaErr=6.597815  (saved: experiments/CAMUS2/EUReg10_1/best_model.pth.tar)
+15 TotelIter 181 loss 8.288276, DistErr 9.942710, Trans: 2.899750, Rots: 3.816688, Flow: 1.745762, Sim: -0.173923
+15 TotelIter 182 loss 9.310385, DistErr 11.224851, Trans: 3.741374, Rots: 3.959664, Flow: 1.763201, Sim: -0.153855
+15 TotelIter 183 loss 8.433029, DistErr 10.277316, Trans: 3.577030, Rots: 3.318775, Flow: 1.697916, Sim: -0.160691
+15 TotelIter 184 loss 8.208791, DistErr 9.907147, Trans: 2.928934, Rots: 3.805509, Flow: 1.641526, Sim: -0.167178
+15 TotelIter 185 loss 8.058372, DistErr 9.789178, Trans: 3.000360, Rots: 3.510527, Flow: 1.731128, Sim: -0.183641
+15 TotelIter 186 loss 8.789528, DistErr 10.748282, Trans: 3.603706, Rots: 3.644462, Flow: 1.703972, Sim: -0.162613
+15 TotelIter 187 loss 9.048041, DistErr 10.826850, Trans: 3.395252, Rots: 4.072419, Flow: 1.744820, Sim: -0.164450
+15 TotelIter 188 loss 8.949397, DistErr 10.848096, Trans: 3.656868, Rots: 3.744963, Flow: 1.711440, Sim: -0.163873
+15 TotelIter 189 loss 8.402426, DistErr 10.189989, Trans: 3.101977, Rots: 3.813369, Flow: 1.643913, Sim: -0.156834
+15 TotelIter 190 loss 8.690208, DistErr 10.544228, Trans: 3.151962, Rots: 4.041380, Flow: 1.660611, Sim: -0.163744
+15 TotelIter 191 loss 8.405767, DistErr 10.213620, Trans: 3.250012, Rots: 3.485613, Flow: 1.832991, Sim: -0.162848
