@@ -144,7 +144,7 @@ def main():
     dim=16
     lr = 0.0001
 
-    save_dir = 'wm_v3_noise_01/'
+    save_dir = 'wm_v3_self-correct/'
     if not os.path.exists('experiments/CAMUS2/' + save_dir):
         os.makedirs('experiments/CAMUS2/' + save_dir)
     if not os.path.exists('logs/' + save_dir):
@@ -293,23 +293,26 @@ def main():
                 # ---------- policy imitation ----------
                 # 用当前 belief h_t + z_goal 来预测动作 ΔT，模仿 a_t
                 pol_inp = torch.cat([h_t, z_goal], dim=-1)       # (B,h_dim+z_dim)
+                T_prev  = T
                 dT_hat  = model.delta_head(pol_inp) * args.step_scale             # (B,6)
                 T = T + dT_hat
 
                 act_loss_t = F.mse_loss(dT_hat, a_t)
                 act_loss += act_loss_t
 
-                # ---------- cosine reward ----------
-                if t == 0:
-                    T_prev = T0
-                else:
-                    T_prev = T_seq[:, t-1]    # (B,6)
+                ## 基于GT算reward
+                # # ---------- cosine reward ----------
+                # if t == 0:
+                #     T_prev = T0
+                # else:
+                #     T_prev = T_seq[:, t-1]    # (B,6)
+
+                dir_to_target = dof - T_prev  # (B,6)
 
                 # 这一步真实走的 step 向量
                 step_vec = dT_hat.detach()     # (B,6)
 
-                # 从当前 pose 指向目标 pose 的方向
-                dir_to_target = dof - T_prev  # (B,6)
+
 
                 # 可以分 transl / rot 两部分
                 step_trans = step_vec[:, :3]
