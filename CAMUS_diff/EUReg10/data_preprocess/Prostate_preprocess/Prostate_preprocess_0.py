@@ -18,6 +18,8 @@ OUT_ROOT = "/Media_HDD/lykang/dataset/Reg2Prostate/processed_pkl_normalized"
 os.makedirs(OUT_ROOT, exist_ok=True)
 
 TARGET_SHAPE_ZYX = (64, 64, 64)
+SAVE_FIRST_NII_GZ = True
+_saved_preview = False
 
 
 def center_crop_pad(arr_zyx: np.ndarray, target_shape_zyx, pad_value: float) -> np.ndarray:
@@ -73,6 +75,8 @@ def collect_us_images():
 
 
 def process_one(path: str):
+    global _saved_preview
+    sitk.ProcessObject_SetGlobalWarningDisplay(False)
     img = sitk.ReadImage(path)
     spacing_xyz = img.GetSpacing()
 
@@ -92,6 +96,13 @@ def process_one(path: str):
         "shape_zyx": arr_zyx.shape,
     }
     save_pkl(arr_zyx, meta, out_path)
+
+    if SAVE_FIRST_NII_GZ and not _saved_preview:
+        preview_path = osp.join(OUT_ROOT, f"{base}_z64y64x64.nii.gz")
+        preview_img = sitk.GetImageFromArray(arr_zyx)
+        preview_img.SetSpacing(spacing_xyz)
+        sitk.WriteImage(preview_img, preview_path)
+        _saved_preview = True
 
 
 def main():
