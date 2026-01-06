@@ -1,4 +1,0 @@
-Best from epoch: 49
-TEST  DistErr: 9.197479
-TEST  NCC    : 0.695640
-TEST  ParaErr: 6.148724

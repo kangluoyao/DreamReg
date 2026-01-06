@@ -1,2 +1,0 @@
-DistErr: 4.52 +- 1.59 mm, NCC: 89.83 +- 10.53 %, SSIM: 49.89 +- 8.15 %, TransErr: 3.00 +- 1.76 mm , RotErr: 7.12 +- 3.10, ParamNCC: 71.76 +- 22.54 %, FPS: 30
-DistErr: 4.52 +- 1.59 mm, NCC: 89.83 +- 10.53 %, SSIM: 49.89 +- 8.15 %, TransErr: 3.00 +- 1.76 mm , RotErr: 7.12 +- 3.10, ParamNCC: 71.76 +- 22.54 %, FPS: 32
