@@ -23,7 +23,7 @@ os.makedirs(OUT_ROOT, exist_ok=True)
 SLICE_HW = (64, 64)
 NUM_SLICES_PER_VOL = 4
 SCALER = np.array([10, 10, 10, 10, 10, 10], dtype=np.float32)
-DELTA, LOWER_BOUND = 0.35, 0.0
+DELTA, LOWER_BOUND = 0.8, 0.0
 
 
 def save_slice_pkl(path_out, vol_zyx, slice_hw, dof):
