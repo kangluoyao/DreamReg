@@ -53,14 +53,12 @@ def main():
     parser.add_argument('--gpu', type=int, default=0)
     args, _ = parser.parse_known_args()
 
-    # -------- device 统一控制 --------
     device = torch.device(f"cuda:{args.gpu}" if torch.cuda.is_available() else "cpu")
     print(">>> Using device:", device)
 
-    # -------- 路径配置（按需改） --------
-    val_dir = '/Media_HDD/lykang/dataset/Reg2Prostate/split/testing/'
+    val_dir = '/path/to/your/testing_set'
     img_size = (64, 64, 64)
-    save_dir = 'wm_v3_step_5/'   # ✅ 改成你训练时用的 save_dir
+    save_dir = 'save_dir/'
     model_dir = os.path.join('experiments/Prostate/', save_dir)
     best_model_path = os.path.join(model_dir, 'best_model.pth.tar')
 
@@ -107,15 +105,14 @@ def main():
             model.eval()
 
             vol   = data[0].to(device, non_blocking=True)  # (B,1,D,H,W)
-            frame = data[1].to(device, non_blocking=True)  # (B,1,192,192) 目标 slice
+            frame = data[1].to(device, non_blocking=True)  # (B,1,192,192
             dof   = data[2].to(device, non_blocking=True)  # (B,6) GT pose
 
             starter.record()
 
-            # 初始 pose
             T0 = torch.zeros(vol.size(0), 6, device=device)
 
-            # ===== world model inference（新接口）=====
+            # ===== world model inference=====
             # forward(self, vol, goal_sl, T0, steps, step_scale, return_all=False)
             pred_dof, sampled_frame = model(
                 vol, frame, T0,
@@ -148,12 +145,11 @@ def main():
             eval_ParaErr.update(param_err, bs)
             eval_NCC.update(ncc, bs)
             eval_SSIM.update(ssim, bs)
-            if stdy_idx > 20:  # 前几帧跳过 warm-up
+            if stdy_idx > 20:
                 eval_FPS.update(1000.0 / curr_time, bs)
 
             print(f"[{stdy_idx:03d}] DistErr: {dist_err:.4f}, NCC: {ncc:.4f}, ParaErr: {param_err:.4f}")
 
-            # 保存预测图像
             plt.imsave(
                 os.path.join(
                     pic_path,

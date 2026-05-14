@@ -79,7 +79,6 @@ def run_eval(loader, epoch, model, steps, step_scale, split_name='val'):
             frame = data[1].cuda(non_blocking=True)
             dof   = data[2].cuda(non_blocking=True)
 
-            # 初始 pose
             T0 = torch.zeros(dof.size(0), 6,
                              device=vol.device, dtype=vol.dtype)
 
