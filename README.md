@@ -215,8 +215,6 @@ Pretrained model weights are available on Google Drive:
 - CAMUS: [Google Drive](https://drive.google.com/drive/folders/1JH3n3E-vQrpcjqjCx1qoYqdIov0nCWS-?usp=sharing)
 - µ-RegPro: [Google Drive](https://drive.google.com/drive/folders/1fH5Xm7C3amK__xbLPid-Jmr43ZHdZmHG?usp=sharing)
 
-After downloading, place the checkpoint under the corresponding `experiments/.../<save_dir>/` folder, or update the inference script to point to the downloaded file directly.
-
 ## Important Notes
 
 - The codebase is dataset-specific rather than fully configurable.
