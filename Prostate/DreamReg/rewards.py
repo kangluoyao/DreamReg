@@ -11,9 +11,6 @@ def sobel_grad_xy(img):
     return fx, fy
 
 def soft_hog(img, cell=8, bins=9, eps=1e-6):
-    """
-    img: (B,1,H,W), returns HOG descriptor per image as (B, C) where C = (#cells_y * #cells_x * bins)
-    """
     B,_,H,W = img.shape
     fx, fy = sobel_grad_xy(img)
     mag = torch.sqrt(fx*fx + fy*fy + eps)                      # (B,1,H,W)

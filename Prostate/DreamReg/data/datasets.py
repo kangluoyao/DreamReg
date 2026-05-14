@@ -13,9 +13,9 @@ from torch.utils.data import Dataset
 from torch import nn
 
 class TrainDataset(Dataset):
-    def __init__(self, data_path, slice_size, scaler=[10,10,10,10,10,10], delta=0.55, lower_bound=0.0):
+    def __init__(self, data_path, slice_size, scaler=[10,10,10,10,10,10], delta=0.80, lower_bound=0.0):
         self.paths = data_path
-        self.scaler = torch.tensor([scaler],dtype=torch.float).cuda()    # _,_,frame,_,_,frame
+        self.scaler = torch.tensor([scaler],dtype=torch.float).cuda()
         self.frt = FrameRigidTransformer(slice_size).cuda()
         self.delta = delta
         self.lower_bound = lower_bound
@@ -23,8 +23,7 @@ class TrainDataset(Dataset):
 
     def __getitem__(self, index):
         path = self.paths[index]
-        vol, _ = pkload(path)
-        # print("loaded volume from:", path)
+        vol = pkload(path)[0]
 
         while True: # random sample
             dof = torch.rand(1, 6).cuda()
@@ -32,11 +31,9 @@ class TrainDataset(Dataset):
 
             vol_tensor = np2torch(vol)
             rslice_tensor = self.frt(vol_tensor, dof)
-            # rslice_score = (rslice_tensor > self.lower_bound).sum() / np.prod(rslice_tensor.shape)
             rslice_score = (rslice_tensor > self.lower_bound).float().mean().item()
 
             if rslice_score > self.delta:
-                # print(vol_tensor[0].contiguous().shape, rslice_tensor[0,0].contiguous().shape, dof[0].contiguous().shape)
                 return vol_tensor[0].contiguous(), rslice_tensor[0,0].contiguous(), dof[0].contiguous()
 
     def __len__(self):
@@ -54,7 +51,7 @@ class TestDataset(Dataset):
 
     def __getitem__(self, index):
         path = self.paths[index]
-        vol, mask, slice, slice_mask, dof = pkload(path)
+        vol, mask, slice, slice_mask, dof, _ = pkload(path)
 
         vol = np.ascontiguousarray(vol[None,...])
         slice = np.ascontiguousarray(slice[None,...])
