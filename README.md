@@ -77,8 +77,6 @@ Training uses volume-only pickles:
 - `volume_3d`: normalized 3D array.
 - `meta`: auxiliary metadata dictionary.
 
-During training, random rigid poses are sampled online and 2D slices are generated with `FrameRigidTransformer`.
-
 ### Validation and test pickle format
 
 Evaluation uses fixed slice samples with ground-truth pose:
@@ -92,8 +90,6 @@ For the prostate pipeline, some preprocessing code stores:
 ```python
 (volume_3d, volume_mask, slice_2d, slice_mask_2d, dof, meta)
 ```
-
-The loaders only consume the first fields required by each dataset script.
 
 ## Preprocessing
 
@@ -124,7 +120,7 @@ Default CAMUS geometry in the current code:
 - slice size: `192 x 192`
 - pose range: `[-10, 10]` for each of 6 DoF
 
-### Prostate
+### µ-RegPro
 
 1. Edit:
    - `Prostate/DreamReg/data_preprocess/Prostate_preprocess/Prostate_preprocess_0_fixed.py`
@@ -166,7 +162,7 @@ cd /Media_HDD/lykang/DreamReg/CAMUS/DreamReg
 python train_wm.py --wm_steps 7 --step_scale 1.0 --noise_std 2.0
 ```
 
-### Prostate training
+### µ-RegPro training
 
 ```bash
 cd /Media_HDD/lykang/DreamReg/Prostate/DreamReg
@@ -193,7 +189,7 @@ cd /Media_HDD/lykang/DreamReg/CAMUS/DreamReg
 python infer_wm_baseline.py --wm_steps 7 --step_scale 1.0 --gpu 0
 ```
 
-### Prostate inference
+### µ-RegPro inference
 
 ```bash
 cd /Media_HDD/lykang/DreamReg/Prostate/DreamReg
