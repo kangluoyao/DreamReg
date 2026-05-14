@@ -223,15 +223,6 @@ After downloading, place the checkpoint under the corresponding `experiments/...
 - Many paths are placeholders such as `/path/to/...` and must be replaced manually.
 - Several data utilities call `.cuda()` directly, so GPU execution is assumed in parts of the pipeline.
 
-## Suggested Next Cleanup
-
-If you plan to keep developing this project, the most useful improvements would be:
-
-1. Add `requirements.txt` or `environment.yml`.
-2. Replace hard-coded paths with command-line arguments or YAML config files.
-3. Unify CAMUS and Prostate training/inference entry points.
-4. Document dataset download and expected folder structure.
-
 ## Citation
 
 The paper does not have a public online version yet. The citation entry will be updated after release.
