@@ -226,10 +226,10 @@ Pretrained model weights are available on Google Drive:
 The paper does not have a public online version yet. The citation entry will be updated after release.
 
 ```bibtex
-@inproceedings{dreamreg2026,
-  title     = {DreamReg: Belief-Driven World Model for 2D-3D Ultrasound Registration},
-  booktitle = {MICCAI},
-  year      = {2026},
-  note      = {To be updated after the official online release}
+@article{kang2026dreamreg,
+  title={DreamReg: Belief-Driven World Model for 2D-3D Ultrasound Registration},
+  author={Kang, Luoyao and Zhang, Yuelin and Shan, Jiwei and Gong, Haifan and Ding, Qingpeng and Cheng, Shing Shin},
+  journal={arXiv preprint arXiv:2606.18825},
+  year={2026}
 }
 ```
