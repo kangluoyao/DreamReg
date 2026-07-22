@@ -11,11 +11,11 @@ import torchgeometry as tgm
 # -------------------
 # Config
 # -------------------
-ROOT_DB   = "/Media_HDD/lykang/dataset/CAMUS_public/database_nifti"
-PROC_PKL  = "/Media_HDD/lykang/dataset/CAMUS_public/processed_pkl_normalized"
-SPLIT_DIR = "/Media_HDD/lykang/dataset/CAMUS_public/database_split"
+ROOT_DB   = "/path/database_nifti"
+PROC_PKL  = "/path/processed_pkl_normalized"
+SPLIT_DIR = "/path/database_split"
 
-OUT_ROOT  = "/Media_HDD/lykang/dataset/CAMUS_public/splits"
+OUT_ROOT  = "/path/splits"
 OUT_TRAIN = osp.join(OUT_ROOT, "training")
 OUT_VAL   = osp.join(OUT_ROOT, "validation")
 OUT_TEST  = osp.join(OUT_ROOT, "testing")
