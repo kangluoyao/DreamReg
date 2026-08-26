@@ -34,7 +34,7 @@ SLICE_HW     = (128, 128)
 NUM_SLICES_PER_VIEW_VAL  = 4 
 NUM_SLICES_PER_VIEW_TEST = 4 
 SCALER = np.array([10,10,10, 10,10,10], dtype=np.float32)  # [tx,ty,tz,rx,ry,rz]
-DELTA, LOWER_BOUND = 0.35, 0.0
+DELTA, LOWER_BOUND = 0.55, 0.0
 
 # -------------------
 # Helpers
