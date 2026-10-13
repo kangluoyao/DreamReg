@@ -1,6 +1,6 @@
 # DreamReg
 
-Official codebase for **DreamReg: Belief-Driven World Model for 2D-3D Ultrasound Registration**, recently accepted by **MICCAI 2026**.
+Official codebase for **DreamReg: Belief-Driven World Model for 2D-3D Ultrasound Registration**, accepted by **MICCAI 2026**.
 
 This repository currently contains two dataset-specific pipelines:
 
